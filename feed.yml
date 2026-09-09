@@ -1,0 +1,3252 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-09-10 01:48">
+  <shop>
+    <name>hellodaryy</name>
+    <company>Дарья, английский язык</company>
+    <url>https://t.me/hellodaryy</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">PDF-материалы</category>
+      <category id="2">Уроки EdVibe</category>
+      <category id="3">Доски Miro</category>
+    </categories>
+    <offers>
+      <offer id="90" available="true">
+        <url>https://t.me/hellodaryy/9</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/9.jpg</picture>
+        <name>Present Continuous</name>
+        <description>💖 2 страницы с правилом, 2 страницы с заданиями (3 задания)</description>
+      </offer>
+      <offer id="400" available="true">
+        <url>https://t.me/hellodaryy/40</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/40.jpg</picture>
+        <name>Future Simple</name>
+        <description>💖 2 страницы с правилом, 3 страницы с заданиями (7 заданий)</description>
+      </offer>
+      <offer id="420" available="true">
+        <url>https://t.me/hellodaryy/42</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/42.jpg</picture>
+        <name>Past Simple</name>
+        <description>💖 3 страницы с правилом, 9 страниц с заданиями (12 заданий)</description>
+      </offer>
+      <offer id="610" available="true">
+        <url>https://t.me/hellodaryy/61</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/61.jpg</picture>
+        <name>Present Perfect</name>
+        <description>💖 2 страницы с правилом, 6 страниц с заданиями (10 заданий)</description>
+      </offer>
+      <offer id="690" available="true">
+        <url>https://t.me/hellodaryy/69</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/69.jpg</picture>
+        <name>Present Simple</name>
+        <description>💖 2 страницы с правилом, 5 страницы с заданиями (8 задания)</description>
+      </offer>
+      <offer id="940" available="true">
+        <url>https://t.me/hellodaryy/94</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/94.jpg</picture>
+        <name>To be going to</name>
+        <description>💖 1 страница с правилом, 3 страницы с заданиями (5 заданий)</description>
+      </offer>
+      <offer id="1000" available="true">
+        <url>https://t.me/hellodaryy/100</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/100.jpg</picture>
+        <name>Can / Could / Will be able to</name>
+        <description>💖 2 страницы с правилом, 4 страницы с заданиями (7 заданий)</description>
+      </offer>
+      <offer id="1120" available="true">
+        <url>https://t.me/hellodaryy/112</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/112.jpg</picture>
+        <name>To be</name>
+        <description>💖 1 страница с правилом, 3 страницы с заданиями (6 заданий)</description>
+      </offer>
+      <offer id="3330" available="true">
+        <url>https://t.me/hellodaryy/333</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/333.jpg</picture>
+        <name>Past Continuous</name>
+        <description>💖 2 страницы с правилом, 4 страницы с заданиями (7 заданий)</description>
+      </offer>
+      <offer id="11540" available="true">
+        <url>https://t.me/hellodaryy/1154</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1154.jpg</picture>
+        <name>Used to</name>
+        <description>Люблю, когда появлются идеи и сразу получается ее создать! С этим файлом вышло именно так ✨
+Проготовила для вас классный workbook по теме Used to ⤵️
+Файл состоит из 🎞️страниц: 🎞️ страница с правилом, 🎞️ страницы с заданиями по правилу, 🎞️ страница с говорением и 🎞️ страницы с рассказом про ГП</description>
+      </offer>
+      <offer id="12750" available="true">
+        <url>https://t.me/hellodaryy/1275</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1275.jpg</picture>
+        <name>Fashion and Present Simple</name>
+        <description>На самом деле сначала появилась доска (скоро тоже будет на канале), а потом появился этот воркбук, очень красивенький и классный для девочек, девушек, дам и женщин 🌷
+Workbook по теме Fashion на отработку времени Present Simple 🌷
+Обсудите с ученицами современные стили в одежде и заодно изучите (или повторите) Present Simple 🌷
+В файле вы найдете описание стилей Pinterest Girl, Clean Girl, Old Money, Cottagecore, Gorpcore, Euphoria Core, Barbiecore, Y2K (какой вам стиль нравится? мне вообще все, не могу выбрать, одеваюсь в каждый понемногу) 🌷
+Файл состоит из 🌷 страниц: 🌷 страница с говорением, 🌷 страницы с чтением, 🌷 страница с правилом и 🌷 страницы с заданиями по правилу</description>
+      </offer>
+      <offer id="12840" available="true">
+        <url>https://t.me/hellodaryy/1284</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1284.jpg</picture>
+        <name>Beauty Through the Decades and Past Simple</name>
+        <description>Продолжаем нашу девчачью тему бьюти, моды и фэшн 🩰
+Workbook по теме Beauty Through the Decades на отработку времени Past Simple 🩰
+Прочитаем про уход и макияж в 1980ых, 1990ых, 2000ых, 2010ых и нашего времени, а так же поговорим про бьюти продукты и уход за кожей 🩰
+И, конечно же, отработаем и повторим прошедшее время 🩰
+Файл состоит из 🍂 страниц: 🍂 страница с говорением, 🍂 страница с лексикой, 🍂 страницы с чтением, 🍂страница с правилом и 🍂 страницы с заданиями по правилу</description>
+      </offer>
+      <offer id="13610" available="true">
+        <url>https://t.me/hellodaryy/1361</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1361.jpg</picture>
+        <name>get used to vs be used to</name>
+        <description>Начала изучать эту тему и решила сделать воркбук для вас и ваших учеников, чтобы вы смогли разобраться в этой нелегкой теме 🩰
+Делюсь с вами воркбуком get used to vs be used to оформленным в стиле 🩰
+Файл состоит из 🎞️ страниц: 🎞️ страница с правилом, 🎞️ страницы с заданиями по правилу, 🎞️ страницы с чтением, 🎞️ страница с письмом и говорением и 🎞️ страницы с экстра заданиями на грамматику без ГП
+🩰 Рекомендуемый уровень В1 🩰</description>
+      </offer>
+      <offer id="14600" available="true">
+        <url>https://t.me/hellodaryy/1460</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1460.jpg</picture>
+        <name>Past Perfect</name>
+        <description>Сегодня делюсь с вами воркбуком по теме Past Perfect, в котором вместе с Гарри Поттером вы разберете и проработайте данную тему 🌷
+Файл состоит из 🌷страниц: 🎞️ страница с правилом и 🌷страниц с заданиями на отработку правила</description>
+      </offer>
+      <offer id="120" available="true">
+        <url>https://t.me/hellodaryy/12</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/12.jpg</picture>
+        <name>There is / There are</name>
+        <description>💖 1 страница с правилом, 2 страницы с заданиями (4 заданий)</description>
+      </offer>
+      <offer id="130" available="true">
+        <url>https://t.me/hellodaryy/13</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/13.jpg</picture>
+        <name>Adjectives</name>
+        <description>💖 2 страницы с правилом, 2 страницы с заданиями (4 задания)</description>
+      </offer>
+      <offer id="300" available="true">
+        <url>https://t.me/hellodaryy/30</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/30.jpg</picture>
+        <name>Some / Any / A / An</name>
+        <description>💖 1 страница с правилом, 3 страницы с заданиями (8 заданий)</description>
+      </offer>
+      <offer id="850" available="true">
+        <url>https://t.me/hellodaryy/85</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/85.jpg</picture>
+        <name>This / That / These / Those</name>
+        <description>💖 1 страница с правилом, 3 страницы с заданиями (4 заданий)</description>
+      </offer>
+      <offer id="870" available="true">
+        <url>https://t.me/hellodaryy/87</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/87.jpg</picture>
+        <name>Possessive case</name>
+        <description>💖 2 страницы с правилом, 3 страницы с заданиями (5 заданий)</description>
+      </offer>
+      <offer id="1510" available="true">
+        <url>https://t.me/hellodaryy/151</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/151.jpg</picture>
+        <name>Prepositions of Place</name>
+        <description>💖 1 страница с правилом, 7 страниц с заданиями (10 заданий)</description>
+      </offer>
+      <offer id="4050" available="true">
+        <url>https://t.me/hellodaryy/405</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/405.jpg</picture>
+        <name>Have to</name>
+        <description>💖 1 страница с правилом, 4 страницы с заданиями (8 заданий)</description>
+      </offer>
+      <offer id="5270" available="true">
+        <url>https://t.me/hellodaryy/527</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/527.jpg</picture>
+        <name>Conditionals Zero &amp; First</name>
+        <description>Мои любимые материалы - материалы по грамматике, но у меня правда мало времени на них 🌷
+Сегодня делюсь с вами новым материалом по теме Conditionals Zero &amp; First🌷
+Файл очень полезный, и состоит из 🌷 страницы с правилом, 🌷 страниц с заданиями на отработку и 🌷 страниц с рассказом про Гарри Поттера и его друзей 🌷
+🌷 Помните, что вы можете использовать файл как с Гарри Поттером, так и без него (убрав последние страницы)</description>
+      </offer>
+      <offer id="5940" available="true">
+        <url>https://t.me/hellodaryy/594</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/594.jpg</picture>
+        <name>Conditionals Second &amp; Third</name>
+        <description>Сегодня делюсь с вами новым материалом по теме Conditionals Second &amp; Third 🌷
+Файл состоит из:🌷листов с правилом, 🌷листов с заданиями на отработку и 🌷листов с заданиями по Гарри Поттеру
+🌷 Прикрепляю ссылочку на видео из фильма по теме second conditional
+🌷 И еще одно видео, чтобы разнообразить уроки
+🌷 Помните, что вы можете использовать файл как с Гарри Поттером, так и без него (убрав последние страницы)</description>
+      </offer>
+      <offer id="7900" available="true">
+        <url>https://t.me/hellodaryy/790</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/790.jpg</picture>
+        <name>Prepositions of Time</name>
+        <description>Этот файл я планировала сделать этот материал еще в марте, но никак не могла соединить в одну картинку, как-то не клеилось 🌷
+Но вот файл Prepositions of Time готов для вас 🌷
+Файл очень полезный, и состоит из 🌷 страницы с правилом, 🌷 страниц с заданиями на отработку и 🌷 страниц с заданиями по правилу про Гарри Поттера и его друзей 🌷
+🌷 Помните, что вы можете использовать файл как с Гарри Поттером, так и без него (убрав последние страницы)</description>
+      </offer>
+      <offer id="8550" available="true">
+        <url>https://t.me/hellodaryy/855</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/855.jpg</picture>
+        <name>Must / Must vs Have to</name>
+        <description>Спонтанный но очень классный файл по теме Must с дополнительными заданиями Must vs Have to
+(отдельный файл по have to можно найти здесь)
+Файл очень полезный, и состоит из 🌷 страниц с правилом, 🌷 страниц с заданиями на отработку и 🌷 страниц с заданиями по правилу про Гарри Поттера и его друзей 🌷
+🌷 Помните, что вы можете использовать файл как с Гарри Поттером, так и без него (убрав последние страницы)</description>
+      </offer>
+      <offer id="8960" available="true">
+        <url>https://t.me/hellodaryy/896</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/896.jpg</picture>
+        <name>Word formation. Suffixes</name>
+        <description>В августе я спрашивала, какие материалы вам были бы актуальны, и один из ответов был - словообразование ⤵️
+Проготовила для вас большой файл по теме Word Formation. Suffixes с подробными правилами 😌
+Файл состоит из 13 страниц:🎞️страниц с правилом, 🎞️ страниц с заданиями в стиле ГП ✨
+Воркбук направлен и на словообразование существительных, и прилагательных, и наречий с глаголами, вы можете использовать те страницы, которые вам нужны 🎞️</description>
+      </offer>
+      <offer id="9120" available="true">
+        <url>https://t.me/hellodaryy/912</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/912.jpg</picture>
+        <name>Passive Voice</name>
+        <description>Иногда мне не хватате фантазии что же придумать, а иногда фантазия хлещет через край и хочется делать-делать-делать 💥
+Подготовила для вас очень удобный файл по теме Passive Voice с подробным правилом ☁️
+Файл состоит из 8️⃣страниц: 1️⃣ страница с правилом, 5️⃣ страниц с заданиями в стиле ГП и 2️⃣ страницы с текстом про ГП
+Почему файл удобный? Потому что каждая страница помогает отработать passive voice в определенном типе времени ⤵️</description>
+      </offer>
+      <offer id="11620" available="true">
+        <url>https://t.me/hellodaryy/1162</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1162.jpg</picture>
+        <name>Possessive Adjectives vs Possessive Pronouns</name>
+        <description>Еще один небольшой, но классный грамматический материал 🤍
+Вы можете использовать и в версии ГП и без ГП, удалив последние страницы, а можете использовать все для вашего урока 🎞️
+Встречайте workbook по теме Possessive Adjectives vs Possessive Pronouns ⤵️
+Файл состоит из 🎞️ страниц: 🎞️ страница с правилом, 🎞️ страницы с заданиями по правилу, 🎞️страницы с заданиями в стиле ГП</description>
+      </offer>
+      <offer id="11740" available="true">
+        <url>https://t.me/hellodaryy/1174</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1174.jpg</picture>
+        <name>Word Formation. Prefixes</name>
+        <description>Продолжаем тему словообразования, здесь мы говорили про суффиксы, самое время поговорить по префиксы! 🎞️
+Вы можете использовать и в версии ГП и без ГП, удалив последние страницы, а можете использовать все для вашего урока ✨
+Для вас готов workbook по теме Word Formation. Prefixes ⤵️
+Файл состоит из 🎞️ страниц: 🎞️ страница с правилом, 🎞️ страницы с заданиями по правилу, 🎞️страницы с заданиями в стиле ГП</description>
+      </offer>
+      <offer id="12200" available="true">
+        <url>https://t.me/hellodaryy/1220</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1220.jpg</picture>
+        <name>Tenses</name>
+        <description>Этот воркбук меня просили сделать, долго пыталась собраться и думала, как бы его организовать и вот такой результат получился! ⤵️
+Делюсь с вами воркбуком Tenses, где собраны все формы времен английского языка 🤎▫️
+Файл состоит из 1️⃣1️⃣страниц: 🎞️ страницы с правилом, 🎞️ страниц с заданиями по правилу
+Задания сделаны так, что можно убрать лишние страницы и оставить задания, которые нужны вам, например, на отработку Simple и Continuous, Preset Perfect и Past Simple или Perfect и Perfect Continuous 📚🎀
+▫️ Воркбук не создан для изучения темы, а больше как для проверки знаний или повторения ▫️</description>
+      </offer>
+      <offer id="14200" available="true">
+        <url>https://t.me/hellodaryy/1420</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1420.jpg</picture>
+        <name>would like / would like to</name>
+        <description>Подготовила для вас небольшой воркбук would like / would like to в стиле Гарри Поттера 🎞️
+Файл состоит из 🎞️страниц: 🎞️ страница с правилом, 🎞️ страницы с заданиями по правилу, 🎞️ страницы с чтением и 🎞️ страница с письмом и говорением</description>
+      </offer>
+      <offer id="14410" available="true">
+        <url>https://t.me/hellodaryy/1441</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1441.jpg</picture>
+        <name>future forms</name>
+        <description>Когда-то создала этот файл под заказ, но решила полностью переделать, чтобы поделиться с ним еще и с вами 🌷
+Делюсь с вами воркбуком future forms, где вы найдете правила и задания по future simple / to be going to / present continuous / present simple 🌷
+Файл состоит из 🌷страниц: 🌷 страницы с правилом и 🌷 страниц с заданиями по правилу</description>
+      </offer>
+      <offer id="17130" available="true">
+        <url>https://t.me/hellodaryy/1713</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1713.jpg</picture>
+        <name>Autumn Vibes и Autumn Vibes 2</name>
+        <description>В позапрошлом и прошлом году я делала воркбуки (и не только) по теме Autumn Vibes и Autumn Vibes 2.0 🐦‍🔥
+В этом году я хотела сделать версию 3.0, но решила назвать материал немного по-другому 🐦‍🔥
+Представляю вам максимально осенний файл Autumn Around Us 🐦‍🔥
+🐦‍🔥 Материал построен очень классно, на уроке вы отработаете все навыки и аспекты языка 🐦‍🔥
+Файл состоит из
+страниц: 🎞️ страница с разогревом, 🎞️ страницы с заданиями на лексику, 🎞️ страницы с заданиями на грамматику, 🎞️ страницы на чтение, 🎞️ страница на письмо и говорение</description>
+      </offer>
+      <offer id="17280" available="true">
+        <url>https://t.me/hellodaryy/1728</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1728.jpg</picture>
+        <name>Small Habits – Big Changes</name>
+        <description>Хотели бы вы изменить свои привычки и поменять жизнь в лучшую сторону? Если честно, то я всегда пытаюсь и никогда не получается, не мое 😅
+Сегодня с вами делюсь новым воркбуком по классное теме Small Habits – Big Changes для уровня А2 🍂
+Материал подойдет для обсуждения ежедневных привычек, плохих и хороших привычек,
+а так же для повторения Present Simple 🍂
+Файл состоит из
+🍂 страниц: 🍂 страница с разогревом и говорением, 🍂 страницы с заданиями на лексику, 🍂 страницы с заданиями на грамматику, 🍂 страницы с чтением, 🍂 страницы с аудированием (видео добавлено с переходом на сайт)</description>
+      </offer>
+      <offer id="17520" available="true">
+        <url>https://t.me/hellodaryy/1752</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1752.jpg</picture>
+        <name>Talking About Feelings</name>
+        <description>Знаю, как вы любите вторничные воркбуки, а еще знаю, что вы просили для уровня повыше 🤎
+Сегодня с вами делюсь новым воркбуком по классное теме Talking About Feelings и грамматика feel + adjective / feel like + verb-ing / wish + past simple [for teens/adults] для уровня B1 😌
+Материал подойдет для обсуждения своих чувств, а также наполнен заданиями на все навыки языка
+Файл состоит из
+🎞️🎞️ страниц: 🎞️ с разогревом и говорением, 🎞️ страница с заданиями на лексику, 🎞️страницы с чтением, 🎞️ страницы с правилом и заданиями на грамматику,
+🎞️ страница с аудированием (аудио добавлено с переходом на сайт), 🎞️ страница с письмом и 🎞️ страница с говорением</description>
+      </offer>
+      <offer id="17960" available="true">
+        <url>https://t.me/hellodaryy/1796</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1796.jpg</picture>
+        <name>Lovely autumn</name>
+        <description>Я очень люблю осень! Мне нравится и атмосфера, и погода, а самое главное - я люблю осенние блюда и напитки! (тыквенный суп любимый) 😋
+Сегодня с вами делюсь новым воркбуком по классное теме Seasonal Food And Drinks + Past Simple vs Present Perfect для взрослых с уровнем В1
+Материал подойдет для сезонных блюд, а так же для повторения Past Simple vs Present Perfect 🎞️
+Файл состоит из
+🎞️ страниц: 🎞️ страница с разогревом и говорением, 🎞️ страницы с заданиями на лексику, 🎞️ страницы с чтением, 🎞️ страницы с заданиями на грамматику, 🎞️ страница с говорением и 🎞️ страница с письмом</description>
+      </offer>
+      <offer id="18090" available="true">
+        <url>https://t.me/hellodaryy/1809</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1809.jpg</picture>
+        <name>Childhood Memories</name>
+        <description>Любите ностальгировать? С этим файлом вы с учениками поговорите о детстве и вспомните самое теплые моменты ⚜️
+Сегодня с вами делюсь новым воркбуком по теме Childhood Memories + Past Simple [for teens/adults A2]
+Материал подойдет для обсуждения детства и прошлого, а так же для повторения Past Simple ⚜️
+Файл состоит из
+🍂 страниц: 🍂 с разогревом и говорением, 🍂 страницы с заданиями на лексику, 🍂 страницы с правилом и заданиями на грамматику, 🍂 страницы с чтением, 🍂 страницы с говорением и письмом</description>
+      </offer>
+      <offer id="18210" available="true">
+        <url>https://t.me/hellodaryy/1821</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1821.jpg</picture>
+        <name>Time Management</name>
+        <description>Уже середина ноября и я немного подустала, а вы? Как у вас с тайм менеджментом? Он у меня постоянно страдает и я часто не успеваю все сделать 🤍
+Сегодня подготовила для вас новый воркбук по теме Time management + first &amp; second conditional [adults B1] 🤍
+Материал подойдет для обсуждения тайм менеджмента со взрослыми учениками, а так же для прохождения или повторения грамматики first &amp; second conditional 🤍
+Файл состоит из
+🤍 страниц: 🤍 страница с разогревом и говорением, 🤍 страницы с заданиями на лексику, 🤍 страницы с чтением, 🤍 страницы с правилом и заданиями на грамматику и говорением и 🤍 страница с письмом.</description>
+      </offer>
+      <offer id="210" available="true">
+        <url>https://t.me/hellodaryy/21</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/21.jpg</picture>
+        <name>Subjects</name>
+        <description>💖 2 страницы с лексикой, 9 страниц с заданиями (14 заданий)</description>
+      </offer>
+      <offer id="540" available="true">
+        <url>https://t.me/hellodaryy/54</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/54.jpg</picture>
+        <name>Pets</name>
+        <description>💖 1 страница с лексикой, 6 страниц с заданиями (8 заданий)</description>
+      </offer>
+      <offer id="750" available="true">
+        <url>https://t.me/hellodaryy/75</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/75.jpg</picture>
+        <name>Summer holidays</name>
+        <description>💖 2 страницы с лексикой, 9 страниц с заданиями (16 заданий)</description>
+      </offer>
+      <offer id="1030" available="true">
+        <url>https://t.me/hellodaryy/103</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/103.jpg</picture>
+        <name>Clothes</name>
+        <description>💖 2 страницы с лексикой, 9 страниц с заданиями (12 заданий)</description>
+      </offer>
+      <offer id="1180" available="true">
+        <url>https://t.me/hellodaryy/118</url>
+        <price>250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/118.jpg</picture>
+        <name>Body</name>
+        <description>💖 3 страницы с лексикой, 14 страниц с заданиями (21 заданий)</description>
+      </offer>
+      <offer id="1210" available="true">
+        <url>https://t.me/hellodaryy/121</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/121.jpg</picture>
+        <name>Countries and Nationalities</name>
+        <description>💖 2 страницы с лексикой, 6 страниц с заданиями (11 заданий)</description>
+      </offer>
+      <offer id="1280" available="true">
+        <url>https://t.me/hellodaryy/128</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/128.jpg</picture>
+        <name>Seasons and Weather</name>
+        <description>💖 1 страница с лексикой, 6 страниц с заданиями (12 заданий)</description>
+      </offer>
+      <offer id="1430" available="true">
+        <url>https://t.me/hellodaryy/143</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/143.jpg</picture>
+        <name>Autumn vibes</name>
+        <description>💖 2 страницы с лексикой, 6 страниц с заданиями (10 заданий)</description>
+      </offer>
+      <offer id="3410" available="true">
+        <url>https://t.me/hellodaryy/341</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/341.jpg</picture>
+        <name>(Free) Furniture</name>
+        <description>💖 2 страницы с лексикой, 9 страниц с заданиями (17 заданий)</description>
+      </offer>
+      <offer id="4470" available="true">
+        <url>https://t.me/hellodaryy/447</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/447.jpg</picture>
+        <name>(Free) Spring Vibes</name>
+        <description>💖 1 страница с лексикой, 9 страниц с заданиями (12 заданий)</description>
+      </offer>
+      <offer id="4570" available="true">
+        <url>https://t.me/hellodaryy/457</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/457.jpg</picture>
+        <name>(Free) Transport</name>
+        <description>💖 1 страница с лексикой, 10 страниц с заданиями (16 заданий)</description>
+      </offer>
+      <offer id="5690" available="true">
+        <url>https://t.me/hellodaryy/569</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/569.jpg</picture>
+        <name>Spring Blossom</name>
+        <description>Май нас радует снегом, а я хочу все еще немного внести весеннего настроения в этот месяц 🌷
+Сегодня делюсь с вами очень красивым и весенним воркбуком Spring Blossom 🌷
+Он состоит из: 🌷 страниц с названиями цветов, 🌷 страниц со словами и фразами, которые описывают весеннее цветение , 🌷 страниц с рассказом про цветение и🌷 страницы с квизом
+🌷Материал совершенно не относится к Гарри Поттеру, он именно про Весеннее Цветение 🌷</description>
+      </offer>
+      <offer id="5810" available="true">
+        <url>https://t.me/hellodaryy/581</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/581.jpg</picture>
+        <name>Hobbies &amp; Activities</name>
+        <description>Когда я делала материалы для revision, то нашла столько классных стикеров, что в голове вспыхнуло сразу пять идей о разных воркбуках 🍂
+Сегодня я делаюсь с вами нереально классным (как же он мне нравится!) воркбуком по теме Hobbies &amp; Activities 🍂
+🍂Файл состоит из 🍂🍂красочных страниц: 🍂страниц с лексикой и заданиями по ней, 🍂страницы c фразами, как выразить то, что нравится, 🍂страницы с хобби в мире Гарри Поттера и 🍂 страницы с рассказом</description>
+      </offer>
+      <offer id="6160" available="true">
+        <url>https://t.me/hellodaryy/616</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/616.jpg</picture>
+        <name>Summer Vibes</name>
+        <description>Есть у меня вайбовая традиция, делать вайбовые материалы к разным сезонам 🌷
+Сегодня я делаюсь с вами летним воркбуком по теме Summer Vibes 🌷
+🍂Файл состоит из 11 красочных страниц: 🌷страниц с лексикой и заданиями по ней и 🤍 страниц с рассказом про летние каникулы Гарри, Рона и Гермионы
+🌷 Вы всегда можете убрать последние три страницы и использовать файл без ГП</description>
+      </offer>
+      <offer id="6250" available="true">
+        <url>https://t.me/hellodaryy/625</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/625.jpg</picture>
+        <name>Daily Routines</name>
+        <description>Спонтанный воркбук, который у меня появился очень быстро под вдохновением 🌷
+Делюсь очень объемный воркбуком по теме Daily Routines 🌷
+🌷Файл состоит из 11 красочных страниц: 🌷страниц с лексикой и заданиями по ней, 🌷страницы c заданиями, как правильно назвать время, 🌷страница с заданием по ГП,
+🌷 страницы с рассказом по ГП и 🌷страница на письмо/говорение</description>
+      </offer>
+      <offer id="6410" available="true">
+        <url>https://t.me/hellodaryy/641</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/641.jpg</picture>
+        <name>Family</name>
+        <description>Очень классный воркбук, которого прям не хватало
+Делюсь с вами нежным воркбуком по теме Family 🌷
+🌷Файл состоит из 12 красочных страниц: 🌷страниц с лексикой и заданиями по ней, 🌷 страницы c правилом possessive case, 🌷 страницы с рассказом по ГП и 🌷страница c игрой guessing game</description>
+      </offer>
+      <offer id="6630" available="true">
+        <url>https://t.me/hellodaryy/663</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/663.jpg</picture>
+        <name>Camping</name>
+        <description>Я обожаю все, что связано с кэмпингом, лесом и горами 🍂
+Атмосферный и уютный воркбук по теме Camping 🍂
+🍂Файл состоит из 11 ламповых страниц: 🍂 страниц с лексикой и заданиями по ней, 🍂страницы cо статьей про кэмпинг, 🍂страница с вопросами и игрой,
+🍂страницы с рассказом по ГП</description>
+      </offer>
+      <offer id="7510" available="true">
+        <url>https://t.me/hellodaryy/751</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/751.jpg</picture>
+        <name>Emotions с персонажами из фильма Головоломка</name>
+        <description>Сегодня очень необычный воркбук для мего канала и так сказать забегаю в последний вагон любви к фильму Inside Out 🩵
+Этот воркбук по теме Emotions с персонажами из фильма Головоломка 🩵
+Вообще я не люблю мультфильмы и сам мульт мне не понравился (хотя в свое время первая часть мне зашла), но мои многие ученики в восторге от этого воркбука
+Файл состоит из 🩵🩵 красочных страниц: 🩵страниц с заданиями на лексику; 🩵 страница с видео из первой части Головоломки; 🩵страницы с чтением; 🩵страница с говорением; 🩵страница с настольной игрой.</description>
+      </offer>
+      <offer id="8830" available="true">
+        <url>https://t.me/hellodaryy/883</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/883.jpg</picture>
+        <name>Autumn Vibes 2.0</name>
+        <description>Cегодня приготовила для вас воркбук Autumn Vibes 2.0 🍂
+В том году вам и вашим ученикам очень зашел осенний воркбук, поэтому в этом году решила подготовить вам что-то новенькое по этой теме 🍂
+Файл состоит из 12 страниц:🍂страницы с лексикой по трем темам Autumn Weather, Autumn Food, Autumn Cozy Things, 🍂страниц с заданиями на отработку, 🍂страница с квизом
+Надеюсь, что у вас и ваших учеников тоже теплое осенее настроение 🍂</description>
+      </offer>
+      <offer id="12250" available="true">
+        <url>https://t.me/hellodaryy/1225</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1225.jpg</picture>
+        <name>Spring Vibes 2.0</name>
+        <description>На следующей неделе уже весна, поэтому приготовила вам workbook по теме Spring Vibes [2.0], а вот тут есть прошлогодний воркбук, который тоже очень классный 🌷
+Материал получился очень нежным и весенним, но в основном направлен на лексику и говорение 🌷
+🌷 Файл состоит из 🌷 страниц: 🌷 страницы с заданиями на лексику по теме Spring Activities, 🌷 страницы с заданиями на лексику по теме Spring Clothes и 🌷 страница с заданиями на лексику по теме Spring Weather</description>
+      </offer>
+      <offer id="13430" available="true">
+        <url>https://t.me/hellodaryy/1343</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1343.jpg</picture>
+        <name>First Aid</name>
+        <description>Сегодня делюсь с вами очень сложным для меня воркбуком, на который ушло достаточно много времени и сил (по началу я вообще не представляла, какие задания сделать) ➿
+Workbook по теме First Aid, очень объемный и очень полезный! ➿
+Файл состоит из 🩵🩵страниц: 🩵страницы с лексикой Aches and Pains, 🩵 страницы с лексикой и чтением First Aid and 911,🩵страницы с лексикой Medical Terms,🩵страницы с лексикой и чтением At the Hospital, 🩵 страница с лексикой Medical Equipment и 🩵 страницы с лексикой и чтением At the Pharmacy</description>
+      </offer>
+      <offer id="13960" available="true">
+        <url>https://t.me/hellodaryy/1396</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1396.jpg</picture>
+        <name>Beach Holiday</name>
+        <description>Уже были ворбуки Summer Holiday и Summer Vibes, но я не могу вас оставить без чего-нибудь нового и летнего 🌟
+Сегодня я делюсь с вами летним материалом по теме Beach Holiday 🐚
+Отличная возможность обсудить с учениками, чем вы занимаетесь летом 🌟
+Файл состоит из
+страниц: 🌟страницы с лексикой и 🌷 страниц с заданиями по ней</description>
+      </offer>
+      <offer id="14070" available="true">
+        <url>https://t.me/hellodaryy/1407</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1407.jpg</picture>
+        <name>Travelling</name>
+        <description>Продолжаем летнюю тематику и для вас сегодня готов новый материал для ваших каникулярных уроков 🌟
+Сегодня я делюсь с вами воркбуком по теме Travelling 🌟
+Самое время обсудить путешествия и летние поездки (а вообще тема актуальна не только летом) 🌟
+Файл состоит из
+страниц: 🌟страницы с лексикой, 🌷 страниц с заданиями по ней и 🌟страницы с чтением</description>
+      </offer>
+      <offer id="14670" available="true">
+        <url>https://t.me/hellodaryy/1467</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1467.jpg</picture>
+        <name>Как ориентироваться в аэропорту</name>
+        <description>Иногда я пишу на канале вопрос, какой воркбук для вас актуален и что создать 🔹
+🔹 Месяц назад мне написали о том, что был бы актуален воркбук по теме Как ориентироваться в аэропорту 🔹
+Сегодня я делюсь с вами воркбуком по теме Airport, где вы обсудите актуальную лексику, прочитаете статью про аэропорты и их работу, а так же сделаете классные задания на говорение 💙
+Файл состоит из
+страниц: 1️⃣ страница на разогрев, 2️⃣ страницы с лексикой, 2️⃣ страницы с чтением и 2️⃣страницы на говорение</description>
+      </offer>
+      <offer id="1930" available="true">
+        <url>https://t.me/hellodaryy/193</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/193.jpg</picture>
+        <name>Halloween at Hogwarts</name>
+        <description>Я уверена, что вы ждете Хэллоуинский файл в стиле Гарри Поттера 🍂
+Ииии… вот он! 👻
+Файл очень атмосферный, в нем 1 страница с лексикой, 4 на отработку заданий и 4 страницы с рассказом о том как Гарри и его друзья празднуют Хэллоуин 🧙‍♀️
+Все задания в файле авторские, которые помогут вам сделать ваши уроки уникальными и индивидуальными, а также очень тематическими и атмосферными 👻 🕸️</description>
+      </offer>
+      <offer id="2110" available="true">
+        <url>https://t.me/hellodaryy/211</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/211.jpg</picture>
+        <name>Halloween Traditions</name>
+        <description>Этот файл мой самый любимый и он НЕ по Гарри Поттеру 👻
+Год назад (еще до создания канала) я сделала свой первый файл в канве для моих учеников к Хэллоуину и он получился просто шикарным! 💕
+В воркбуке кратко расписаны традиции Хэллоуина, есть инетерсные факты и задания с лексикой 📚
+Я считаю, что если вы учите язык, то должны знать традиции и праздники страны, чей язык вы изучаете 🕯️🍂
+Воркбук Halloween Traditions отлично подойдет для учеников в предверии Хэллоуинского праздника! 👻</description>
+      </offer>
+      <offer id="2270" available="true">
+        <url>https://t.me/hellodaryy/227</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/227.jpg</picture>
+        <name>Thanksgiving Day</name>
+        <description>Совсем скоро День Благодарения и если честно, то к этому празднику не так много качественных материалов ❤️
+Хотела еще в том году сделать реально классный файл ко Дню Благодарения, но для него настало время только сейчас!
+Файл очень красивый (у меня просто кайф от того, как получилось подобрать цвета), а еще достаточно объемный 🍂
+В нем 1 страница с лексикой, 4 на отработку заданий, 2 страницы с традициями, 2 страницы с рассказом о том как Гарри и его друзья празднуют День Благодарения и 1 страница для спикинга ❤️
+Все задания в файле авторские, которые помогут вам сделать ваши уроки уникальными и индивидуальными, а также очень тематическими и атмосферными ❤️</description>
+      </offer>
+      <offer id="2330" available="true">
+        <url>https://t.me/hellodaryy/233</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/233.jpg</picture>
+        <name>Thanksgiving Day at Hogwarts</name>
+        <description>Также ко Дню Благодарения подготовила для вас и ваших учеников небольшой рассказ про праздник в Хогвартсе
+Сам рассказ на 1,5 страницы и 5,5 страниц с заданиями
+В файле вы найдете авторский и интересный текст, задания к нему и немного праздничной лексики 🎃
+Сам материал выглядит очень красиво и эстетично, и посмотрите какие вкусные картинки 🥧</description>
+      </offer>
+      <offer id="2530" available="true">
+        <url>https://t.me/hellodaryy/253</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/253.jpg</picture>
+        <name>Winter Vibes</name>
+        <description>💖 1 страница с лексикой, 8 страниц с заданиями (12 заданий)</description>
+      </offer>
+      <offer id="2670" available="true">
+        <url>https://t.me/hellodaryy/267</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/267.jpg</picture>
+        <name>To be (was / were)</name>
+        <description>💖 1 страница с правилом, 6 страниц с заданиями (10 заданий)</description>
+      </offer>
+      <offer id="2830" available="true">
+        <url>https://t.me/hellodaryy/283</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/283.jpg</picture>
+        <name>Gooood morning</name>
+        <description>Сегодня открываем четырнадцатый день нашего календаря! 🪆
+Этот воркбук родился сам, я просто решила поискать фото со Святочного бала из Гарри Поттера 🎏
+Так получился целый файл посвященный Йолю (неожиданная тема, ни у кого пока не видела!) 🪩
+Файл ооочень тематический, но интересный, лучше использовать со старшими подростками или взрослыми, детям будет сложно и непонятно 🕳</description>
+      </offer>
+      <offer id="3080" available="true">
+        <url>https://t.me/hellodaryy/308</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/308.jpg</picture>
+        <name>Christmas</name>
+        <description>С большим опозданием, но открываем двадцать первый день нашего календаря! ❄️❄️
+Сегодня у нас большой воркбук Christmas ❄️
+Файл состоит из ✨12 нереально красивых страниц✨, на которых вы найдете лексику, разнообразные задания, традиции, историю про Гарри Поттера и даже вкусный рецепт ❄️</description>
+      </offer>
+      <offer id="3740" available="true">
+        <url>https://t.me/hellodaryy/374</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/374.jpg</picture>
+        <name>Valentine's Day</name>
+        <description>Пора готовиться ко Дню святого Валентина! 🩷
+Если честно, то я хотела начать со следующей недели, но так получилось, что сделала много классных файлов 🩷
+Первый файл - workbook Valentine's Day 🩷
+Он состоит из:🩷страницы с лексикой,🩷страниц с отработкой слов и🩷страниц с заданиями на чтение (что такое День святого Валентина, интересные факты и тд)
+Материал очень мило-розовый и совершенно не относится к Гарри Поттеру🩷</description>
+      </offer>
+      <offer id="4190" available="true">
+        <url>https://t.me/hellodaryy/419</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/419.jpg</picture>
+        <name>International Women's Day</name>
+        <description>Уже вовсю готовимся к Международному Женскому Дню 💗
+Для меня этот праздник не про цветочки и подарки, а про girl’s power 💗
+Сегодня делюсь с вами воркбуком International Women's Day 💗
+💗Он состоит из: 💗 текстов про историю праздника для чтения, 💗страница с интересными фактами + задания к ним, 💗 страница с лексикой по данной теме и 💗страница с квизом
+Материал совершенно не относится к Гарри Поттеру, он именно про историю 💗</description>
+      </offer>
+      <offer id="4450" available="true">
+        <url>https://t.me/hellodaryy/445</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/445.jpg</picture>
+        <name>Women's Day at Hogwarts</name>
+        <description>Happy Women’s Day 🌺
+Да, праздник уже прошел вчера, но я не могу не поделиться с вами этим файлом из прошлой рассылки 😊
+🖌В этом воркбуке рассказ про то, как Гермиона, Джинни и Луна празднуют Международный Женский День + разные задания, но все по рассказу 🪴
+Воркбук получился прям очень классным и эстетичным, наверно один из моих любимых по оформлению и содержанию 💐</description>
+      </offer>
+      <offer id="4700" available="true">
+        <url>https://t.me/hellodaryy/470</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/470.jpg</picture>
+        <name>Easter</name>
+        <description>Вообще не планировала ничего делать к католической Пасхе в марте, но считаю, что надо уважать культуру тех стран, чей язык мы изучаем 🩵
+Сегодня делюсь с вами воркбуком Easter 🩵
+Он состоит из: 🩵 страницы с пасхальными развлечениями, 🩵 страницы с интересными фактами про Пасху в Англии , 🩵 страница с лексикой по данной теме, 🩵 страницы про интересные факты про Пасху в разных странах, 🩵 страница с квизом
+🩵🩵🩵Материал совершенно не относится к Гарри Поттеру, он именно про Пасху 🩵</description>
+      </offer>
+      <offer id="4820" available="true">
+        <url>https://t.me/hellodaryy/482</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/482.jpg</picture>
+        <name>April Fools' Day</name>
+        <description>Материал для April Fools’ Day нужен? 🌷🌷
+Небольшой файл из 🌷 страниц, где вы найдете рассказ с историей праздника и рассказ с интересными фактами 🌷
+Материал не относится к Гарри Поттеру 🌷</description>
+      </offer>
+      <offer id="4980" available="true">
+        <url>https://t.me/hellodaryy/498</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/498.jpg</picture>
+        <name>космос и заданий по словам</name>
+        <description>Ну уже сделала ко всем праздникам воркбуки, поэтому самое время для воркбука Space Day 🩵
+Он состоит из: лексики по теме космос и заданий по словам, рассказу про День Космонавтики, интересные факты про Юрия Гагарина и жизнь на космической станции 🩵
+🩵 Материал совершенно не относится к Гарри Поттеру, он именно про космос 🩵</description>
+      </offer>
+      <offer id="7980" available="true">
+        <url>https://t.me/hellodaryy/798</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/798.jpg</picture>
+        <name>Back to School: School Supplies</name>
+        <description>Я не верю в то, что буквально вчера (в мае..) я делала материалы про лето, каникулы, кэмпинг и тд, а сегодня делюсь с вами уроком для сентября
+Сегодня у меня для вас готов файл Back to School, который направлен на изучение школьных принадлежностей 🍂
+🍂Файл состоит из 10 страниц: 🍂страница с лексикой; 🍂 страницы с заданиями на лексику; 🍂 страницы с чтением; 🍂 страницы про Гарри и Хогвартс.</description>
+      </offer>
+      <offer id="9430" available="true">
+        <url>https://t.me/hellodaryy/943</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/943.jpg</picture>
+        <name>Happy Halloween</name>
+        <description>В позапрошлом году я делала воркбук про традиции Хэллоуина (мой первый материал кстати), в том году был классный файл про Хэллоуин в мире Гарри Поттера 👻
+В этом году, конечно же, приготовила для вас новый и атмосферный воркбук Halloween 👻
+Файл состоит из 🎞️ страниц:🎞️страница с лексикой, 🎞️ страницы с заданиями по лексике, 🎞️страницы с традициями, 🎞️ страницы с легендой про Джека, 🎞️ страница с квизом
+Материал отлично подойдет для создания Хэллоуинского настроения 🩰</description>
+      </offer>
+      <offer id="10260" available="true">
+        <url>https://t.me/hellodaryy/1026</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1026.jpg</picture>
+        <name>Happy Thanksgiving Day</name>
+        <description>В том году создала для вас два атмосферных файла ко Дню Благодарения: про сам праздник и рассказ про День Благодарения в Хогвартсе
+В этом году не могла вас оставить без новинки и кажется, получилось еще круче и интереснее! 🍂
+Файл состоит из 🎞️🎞️ страниц: 🎞️ страница с лексикой, 🎞️ страницы с заданиями по лексике, 🎞️страница с рассказом о том, кто такие Пилигримы, 🎞️ страницы с рассказом про традиции, 🎞️ страница с говорением и 🎞️страница с настольной игрой
+Этот файл вам точно поможет классно провести уроки и познакомить учеников с традициями праздника страны, чей язык мы учим ❤️</description>
+      </offer>
+      <offer id="10570" available="true">
+        <url>https://t.me/hellodaryy/1057</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1057.jpg</picture>
+        <name>Winter Activities</name>
+        <description>Сегодня открываем третий день нашего Advent Calendar ✨
+Что же нас ждет? Это workbook по теме Winter Activities ❄️
+Отличная возможность обсудить с вашими учениками то, что вы любите делать в зимнее время и какие занятия вам нравятся ✨
+Файл состоит из ✨ страниц: ✨ страница с лексикой, ✨ страниц с заданиями по лексике и ✨страница с говорением и письмом
+Файл добавит вам зимней атмосферы и поможет классно провести урок! ❄️</description>
+      </offer>
+      <offer id="10960" available="true">
+        <url>https://t.me/hellodaryy/1096</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1096.jpg</picture>
+        <name>Christmas in England</name>
+        <description>Открываем четырнадцатый день нашего Advent Calendar 🧡
+И сегодня у нас рождественский воркбук, но не простой, а Christmas in England ⛄️
+Обсудим с учениками рождественские традиции и рождественскую кухню в Англии 🍎
+Файл состоит из 1️⃣1️⃣ страниц: 1️⃣страница с лексикой, 4️⃣ страницы с заданиями на лексику,3️⃣страницы с рождественскими традициями в Англии и 3️⃣страницы с рождественскими блюдами Англии
+Добавим Рождественской атмосферы на уроки! ▫️</description>
+      </offer>
+      <offer id="11130" available="true">
+        <url>https://t.me/hellodaryy/1113</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1113.jpg</picture>
+        <name>New Year in Russia</name>
+        <description>Сегодня открываем девятнадцатый день нашего Advent Calendar 🎟️
+И тут просто нереально классный воркбук (который просили еще в том году!) New Year in Russia ✨
+Вас жду наши традиции, наши блюда и вообще праздничная атмосфера Нового года! 🎟️
+Файл состоит из 🎟️🎟️ страниц: 🎟️страница с лексикой,
+🎟️ страницы с заданиями на лексику, 🎟️страницы с новогодними традициями в России, 🎟️страницы с нашими любимыми новогодними блюдами и 🎟️страница с настольной игрой
+Празднуем наш родной Новый год 🎟️</description>
+      </offer>
+      <offer id="13200" available="true">
+        <url>https://t.me/hellodaryy/1320</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1320.jpg</picture>
+        <name>Space Journey</name>
+        <description>Очень долго думала какой урок сделать ко Дню Космонавтики и решила сделать универсальный урок, который подойдет в любой момент 🌂
+Сегодня подготовила для вас woorkbook под названием Space Journey 🌂
+Материал очень наполнен интересными фактами, которые идеально подойдут для уровня А2, а еще он космически красивый и полезный 🌂
+💜 Файл состоит из 💜 страниц: 💜 страница с чтением про солнце, 💜 страницы с чтением про солнечную систему, 💜 страницы с чтением про ракеты и спутники, 💜 страницы с чтением про созвездия знаков зодиака и 💜 страница с чтением про кометы
+🌂 Предлагаю вам отправиться в космос с милым астронавтом и провести галактический урок! 🌂</description>
+      </offer>
+      <offer id="13310" available="true">
+        <url>https://t.me/hellodaryy/1331</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1331.jpg</picture>
+        <name>Orthodox Easter</name>
+        <description>Совсем скоро Пасха и так сложилась, что в этом году она везде в один день - 20 апреля! ⚜️
+Предлагаю на этой неделе провести теплые уроки, посвященные Пасхе ⚜️
+⚜️ Вот тут можно найти прошлогодний файл про католическую Пасху, а сегодня приготовила для вас более эстетичный урок по православной Пасхе ⚜️
+Поговорим о том, как появился праздник Пасхи, какие традиционные блюда готовят на Пасху в разных странах, а также прочитаем про наш любимый кулич и обсудим рецепт ⚜️
+⚜️ Файл состоит из 🌷 страниц: 🌷страницы с лексикой, 🌷 страница с чтением Easter, 🌷 страницы с чтением про Traditional Easter Dishes, 🌷 страница с чтением Kulich и 🌷 страница с квизом.
+⚜️ Рекомендуемый возраст старшие подростки и взрослые, рекомендуемый уровень В1 ⚜️</description>
+      </offer>
+      <offer id="16470" available="true">
+        <url>https://t.me/hellodaryy/1647</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1647.jpg</picture>
+        <name>Back to School</name>
+        <description>Ну что, самое время для воркбука Back to School? 🩵
+Вот тут вы можете найти файл в стиле Гарри Поттера, а вот тут отдельно школьные предметы и предметы в Хогвартсе 💙
+А сегодня для вас готов классический файл для школьников ✨
+Файл состоит из
+1️⃣2️⃣ страниц: 1️⃣ страница с разогревом и говорением, 🔹 страницы с заданиями на лексику школьные принадлежности, 🔹 страницы с заданиями на лексику школьные предметы, 🔹 страницы с чтением, 2️⃣ страницы с аудированием (аудио добавлено с переходом на сайт)</description>
+      </offer>
+      <offer id="16960" available="true">
+        <url>https://t.me/hellodaryy/1696</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1696.jpg</picture>
+        <name>New School Year Resolutions</name>
+        <description>Мой новый год всегда начинается в сентябре, а ваш? 💚
+Это теперь один из моих любимых воркбуков по очень интересной теме New School Year Resolutions + to be going to, который подойдет для школьников с уровнем А2+ ▫️
+Отличная возможность обсудить планы на новый учебный год, а так же повторить структуру to be going to 💚
+Файл состоит из
+9️⃣ страниц: 1️⃣страница с разогревом и говорением, 2️⃣страницы с заданиями на грамматику, 2️⃣страницы с чтением, 2️⃣страницы с аудированием (аудио добавлено с переходом на сайт), 2️⃣страницы на говорение
+▫️А есть ли у вас цели на новый учебный год? ▫️</description>
+      </offer>
+      <offer id="17770" available="true">
+        <url>https://t.me/hellodaryy/1777</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1777.jpg</picture>
+        <name>Happy Halloween</name>
+        <description>В два года назад году я делала воркбук про традиции Хэллоуина (мой первый материал кстати), в позапрошлом году был классный файл про Хэллоуин в мире Гарри Поттера, а в том году был атмосферный файл про Хэллоуин 🌂
+В этом году я думала что придумать такого интересного и решила сделать настоящий квест! 🌂
+Вы и ваши ученики охотники за привидениями, вам надо пройти все шаги, выполнить все задания, чтобы узнать больше про этот праздник! 🌂
+Файл состоит из 💜 страниц: 💜 What is Halloween?, 💜 Halloween Symbols, 💜 Costumes &amp; Dress-Up, 💜 Halloween decorations, 💜 Trick-or-Treating, 💜 Story of Jack-o’-Lanterns, 💜 Halloween Activities
+🌂 Материал отлично подойдет для создания Хэллоуинского настроения 🌂</description>
+      </offer>
+      <offer id="18540" available="true">
+        <url>https://t.me/hellodaryy/1854</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1854.jpg</picture>
+        <name>Christmas in America</name>
+        <description>Сегодня открываем второй день нашего Advent Calendar 🤍🔹
+Что же нас ждет? Это workbook по теме Christmas in America 🌟
+С учениками вы сможете обсудить рождественскую лексику, а так же американские традиции и традиционные блюда на Рождество 🔹
+Файл состоит из 1️⃣1️⃣ страниц: 1️⃣ страница с лексикой, 4️⃣
+страниц с заданиями на лексику, 🔹 страницы с рождественскими традициями в Америке и 🔹 страницы с рождественскими блюдами Америке
+Файл добавит вам зимней атмосферы и поможет классно провести урок! 🔹</description>
+      </offer>
+      <offer id="18820" available="true">
+        <url>https://t.me/hellodaryy/1882</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1882.jpg</picture>
+        <name>Santa’s Magic Night</name>
+        <description>Сегодня открываем восьмой день нашего Advent Calendar ❄️
+Решила разделить в этом году материалы для разных уровней, потому сегодня делюсь с вами воркбуком для kids A1 по теме Santa’s Magic Night ❄️
+✨ Очень классный, интересный и наполненный урок! ✨
+Файл состоит из ✨ страниц: ✨ страница с разогревом, ✨ страницы с заданиями на лексику, ✨ страница с чтением про Санту, ✨ страница с заданиями на грамматику и ✨ страница с говорением
+Уверена что этот урок точно запомнится вашим младшим ученикам ✨</description>
+      </offer>
+      <offer id="19090" available="true">
+        <url>https://t.me/hellodaryy/1909</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1909.jpg</picture>
+        <name>Santa's Secret Diary</name>
+        <description>Сегодня открываем четырнадцатый день нашего Advent Calendar ❄️
+Материалы для А1 у нас уже были, так что на очереди подростки и уровень А2 ✨
+Делюсь с вами действительно классным воркбуком Santa’s Secret Diary, который выполнен в виде писем от Санты, где он рассказывает про подготовку к Рождеству и что у него произошло ✨❄️
+Файл состоит из ✨ страниц: ✨ страница с разогревом, ✨ страницы с заданиями на лексику, ✨ страницы с заданиями на грамматику, ✨ страницы с чтением и ✨ страница с говорением.
+✨ Уверена что этот урок точно запомнится вашим ученикам ✨</description>
+      </offer>
+      <offer id="19280" available="true">
+        <url>https://t.me/hellodaryy/1928</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1928.jpg</picture>
+        <name>From Dickens to Netflix: Christmas Today</name>
+        <description>Сегодня открываем девятнадцатый день нашего Advent Calendar ✨
+Материалы для А1 и А2 были, поэтому сегодня материал для уровня В1+ ❄️
+Делюсь с вами воркбуком по интересной теме From Dickens to Netflix: How We Celebrate Christmas Today, который подойдет для работы с подростками (проверено) и взрослыми ✨
+Файл состоит из ✨ страниц:
+✨ страница с разогревом, ✨ страницы с заданиями на лексику, ✨ страницы с чтением, ✨ страницы с заданиями на грамматику. ✨ страница с аудированием и ✨ страница с говорением
+✨ Уверена что этот урок точно запомнится вашим ученикам ✨</description>
+      </offer>
+      <offer id="2070" available="true">
+        <url>https://t.me/hellodaryy/207</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/207.jpg</picture>
+        <name>Harry Potter. Halloween Chapter</name>
+        <description>Сегодня приготовила для вас новый формат заданий! 🍂
+С прошлого года у меня была идея сделать задания по Хэллоуинcкой главе из книги Гарри Поттер и Философский камень 🍂
+И сегодня этот файл готов! Так как глава достаточо длинная, то я взяла только два отрывка, где упоминаетя Хэллоуин 🍂
+🍂 Файл состоит из:
+🍂 страницы с первым отрывком из главы + 🍂 две страницы с заданиями к нему;
+🍂 страницы с другим отрывком из главы + 🍂страницы с заданиями;</description>
+      </offer>
+      <offer id="2740" available="true">
+        <url>https://t.me/hellodaryy/274</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/274.jpg</picture>
+        <name>Winter at Hogwarts</name>
+        <description>В это прекрасное зимнее утро открываем одинадцатый день нашего Адвент Календаря ✴️
+Посвятим этот день зимним развлечениям и прочитаем историю про зиму в Хогвартсе 🉑</description>
+      </offer>
+      <offer id="2940" available="true">
+        <url>https://t.me/hellodaryy/294</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/294.jpg</picture>
+        <name>Chapter 12. The Mirror of Erised. Part 1</name>
+        <description>Открываем семнадцатый день, в котором подготовила для вас новую главу из первой части Гарри Поттера🍃
+🍃Chapter 12. The Mirror of Erised
+В данном файле только один момент из 12 главы первой книги, где упоминается рождественский праздник 🍃
+🍃 Файл состоит:
+🍃 страницы с отрывком из главы + 🍃 страницы с заданиями к нему.
+Если ваши ученики давно хотели начать читать книги Гарри Поттера в оригинале - это идеальная возможность!</description>
+      </offer>
+      <offer id="2990" available="true">
+        <url>https://t.me/hellodaryy/299</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/299.jpg</picture>
+        <name>Chapter 12. The Mirror of Erised. Part 2</name>
+        <description>Открываем восемнадцатый день календаря и продолжение наше чтение! ✨
+✨Chapter 12. The Mirror of Erised✨
+В данном файле два момента (один момент - любимый, второй - вкусный) из 12 главы первой книги, где упоминается рождественский праздник
+✨ Файл состоит:
+✨ страницы с отрывком из главы +
+✨ страницы с заданиями к нему;</description>
+      </offer>
+      <offer id="3870" available="true">
+        <url>https://t.me/hellodaryy/387</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/387.jpg</picture>
+        <name>Chapter 13. The Very Secret Diary</name>
+        <description>Сегодня подготовила для вас новую главу из второй части Гарри Поттера 🩷
+💔Chapter 13. The Very Secret Diary
+В данном файле отрывок из книги Гарри Поттер и Тайная Комната, где упоминается праздник День святого Валентина 🩷
+🩷 Файл состоит:
+🩷 страницы с отрывком из главы + 🩷 страницы с заданиями к нему
+Если ваши ученики давно хотели начать читать книги Гарри Поттера в оригинале - это идеальная возможность!🩷</description>
+      </offer>
+      <offer id="7330" available="true">
+        <url>https://t.me/hellodaryy/733</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/733.jpg</picture>
+        <name>Chapter 4. The Keeper of the Keys</name>
+        <description>🤍Chapter 4. The Keeper of the Keys🤍
+В данном файле два небольших отрывка из главы, где в День Рождения Гарри Хагрид приходит и говорит, что он вошебник 🤍
+🤍 Файл состоит из:
+🤍 страниц с отрывком из главы +
+🤍 страниц с заданиями к нему;
+🤍 страниц с другим отрывком +</description>
+      </offer>
+      <offer id="8480" available="true">
+        <url>https://t.me/hellodaryy/848</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/848.jpg</picture>
+        <name>Heeeeeellooooooooooow</name>
+        <description>Пора идти в школу и наш Гарри тоже идет в школу Хогвартс! 🤍
+Сегодня мы прочитаем отрывок из первой книги Гарри Поттера, когда он впервые оказывается внутри Хогвартса и узнаем его эмоции 🤍
+🤍Chapter 7. The Sorting Hat🤍
+🤍 Файл состоит из:
+🤍 страница с отрывком из главы +
+🤍 страницы с заданиями к нему;</description>
+      </offer>
+      <offer id="9570" available="true">
+        <url>https://t.me/hellodaryy/957</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/957.jpg</picture>
+        <name>Phineas and Ferb. That's the Spirit</name>
+        <description>Осталось всего лишь несколько материалов, посвященных Хэллоуину
+Воркбук создан по сериалу Phineas and Ferb по серии That's the Spirit 🤩
+Вообще я хочу сделать целую подборку по разним сериям (праздничным и нет) из сериала Финес и Ферб, они очень классно заходят подросткам 💜
+Файл состоит из 💜💜 страниц: 💜страницы с общими заданиями, 💜страницы с хэллоуинской лексикой и 💜страниц по серии
+Материал отлично подойдет для создания Хэллоуинского настроения 🤩</description>
+      </offer>
+      <offer id="15460" available="true">
+        <url>https://t.me/hellodaryy/1546</url>
+        <price>525</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1546.jpg</picture>
+        <name>Gravity Falls. Season 1, Episodes 1-4</name>
+        <description>Продолжаю вам рассказывать про Gravity Falls 🧡
+Для начала я подготовила 4 воркбука по первым 4 сериям первого сезона ❤️‍🩹
+Season 1, episode 1 состоит из
+страниц: 🧡 страница с заданием по персонажам, 🧡 страниц с видео и заданиями по видео (ссылки на видео вставлены в файлы) и 🧡 страницы с ответами
+Season 1, episode 2 состоит из
+страниц: 🧡 страница с заданием по персонажам, 🧡 страниц с видео и заданиями по видео (ссылки на видео вставлены в файлы) и 🧡 страницы с ответами</description>
+      </offer>
+      <offer id="15610" available="true">
+        <url>https://t.me/hellodaryy/1561</url>
+        <price>700</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1561.jpg</picture>
+        <name>Gravity Falls. Season 1, Episodes 5-8</name>
+        <description>Следующие серии Gravity Falls ❤️
+Готово еще 4 воркбука по 5-8 сериям первого сезона ⤵️
+Season 1, episode 5 состоит из
+1️⃣2️⃣ страниц: 9️⃣ страниц с видео и заданиями по видео (ссылки на видео вставлены в файлы), 1️⃣ страница с заданием по персонажам и 2️⃣ страницы с ответами
+Season 1, episode 6 состоит из
+страниц: 9️⃣ страниц с видео и заданиями по видео (ссылки на видео вставлены в файлы), 1️⃣ страница с заданием по персонажам и 2️⃣ страницы с ответами</description>
+      </offer>
+      <offer id="15790" available="true">
+        <url>https://t.me/hellodaryy/1579</url>
+        <price>700</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1579.jpg</picture>
+        <name>Gravity Falls. Season 1, Episodes 9-12</name>
+        <description>Следующие серии Gravity Falls 💚
+Сегодня у нас следующие 4 воркбука по 9-12 сериям первого сезона (мне уже немного надоело делать по Гравити Фолз, но надо добить) ⤵️
+Season 1, episode 9 состоит из
+1️⃣2️⃣ страниц: 1️⃣▫️ страниц с видео и заданиями по видео (ссылки на видео вставлены в файлы) и 2️⃣ страницы с ответами
+Season 1, episode 10 состоит из
+1️⃣2️⃣ страниц: 1️⃣▫️ страниц с видео и заданиями по видео (ссылки на видео вставлены в файлы) и 2️⃣ страницы с ответами</description>
+      </offer>
+      <offer id="15900" available="true">
+        <url>https://t.me/hellodaryy/1590</url>
+        <price>700</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1590.jpg</picture>
+        <name>Gravity Falls. Season 1, Episodes 13-16</name>
+        <description>Следующие серии Gravity Falls 💙
+Выходим на финишную прямую и сегодня у нас 4 воркбука по 13-16 сериям первого сезона (уже хочу поскорее доделать 🥲) 🔹
+Season 1, episode 13 состоит из
+1️⃣1️⃣ страниц: 9️⃣ страниц с видео и заданиями по видео (ссылки на видео вставлены в файлы) и 2️⃣ страницы с ответами
+Season 1, episode 14 состоит из
+1️⃣1️⃣ страниц: 9️⃣ страниц с видео и заданиями по видео (ссылки на видео вставлены в файлы) и 2️⃣ страницы с ответами</description>
+      </offer>
+      <offer id="16030" available="true">
+        <url>https://t.me/hellodaryy/1603</url>
+        <price>700</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1603.jpg</picture>
+        <name>Gravity Falls. Season 1, Episodes 17-20</name>
+        <description>Следующие серии Gravity Falls 🧣
+Ну все, я закончила! Это было ну очень сложно и немного нудно 🧣
+Последние 4 воркбука по 17-20 сериям первого сезона 🧣
+Season 1, episode 17 состоит из
+1️⃣3️⃣ страниц: 1️⃣1️⃣ страниц с видео и заданиями по видео (ссылки на видео вставлены в файлы) и 2️⃣ страницы с ответами
+Season 1, episode 18 состоит из</description>
+      </offer>
+      <offer id="15250" available="true">
+        <url>https://t.me/hellodaryy/1525</url>
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1525.jpg</picture>
+        <name>Countries: 8 Workbooks Pack</name>
+        <description>Сегодня последняя подборка про страны и я представляю вам пакет воркбуков Countries 🌷
+Всего готово 8 воркбуков по 8 разным странам:
+В каждом воркбуке вы найдете задания для 🌷warm up, vocabulary, reading, speaking
+Воркбуки очень наполнены и грамотно составлены, а также там куча интересных фактов, а иногда и вкусных (про традиционную кухню), воркбуки дополнены тематическими картинками и фотографиями, что поможет вам сделать урок ярче! 🌷
+🌷 Один воркбук подойдет на 2 урока, то есть у вас есть готовых 16 уроков🌷
+🌷 рекомендуемый уровень А2 🌷</description>
+      </offer>
+      <offer id="2420" available="true">
+        <url>https://t.me/hellodaryy/242</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/242.jpg</picture>
+        <name>Mother's Day at the Weasleys and Malfoys</name>
+        <description>Завтра будет один из самых добрых, милых и светлых праздников - Mother's Day! 💐
+Не могла оставить вас без небольшого файла, посвященного Дню Матери
+В файле два рассказа - один большой про День Матери в семье Уизли и поменьше про семью Малфоев 🏠
+🖊К каждому тексту есть задания, вы можете выбрать и прочитать любой рассказ, а если прочитаете два, то можно сравнить</description>
+      </offer>
+      <offer id="13400" available="true">
+        <url>https://t.me/hellodaryy/1340</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1340.jpg</picture>
+        <name>Happy Easter</name>
+        <description>Урок для взрослых уже был, а сегодня хочу поделиться уроком для младших учеников с уровнем А2 🌷
+Красочный урок по теме Happy Easter, где вы с учениками сможете изучить лексику, сделать кроссворд и разгадать загадки, прочитать небольшой рассказ про Цыпленка, Зайчика и Пчелку, а так же повторить цифры, цвета и раскрасить картинку 🌷
+🌷 Файл состоит из 🌷 страниц: 🌷страницы с лексикой, 🌷 страницы с чтением Easter, 🌷 страница с повторением цифр и 🌷 страница с цветами и раскраской</description>
+      </offer>
+      <offer id="24050" available="true">
+        <url>https://t.me/hellodaryy/2405</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2405.jpg</picture>
+        <name>Рассказы из журналов</name>
+        <description>Я тут подсела на журналы на английском языке по типу Happiful и The Simple Things, и там есть очень классные и атмосферные рассказы 🐦‍🔥🐦‍🔥
+Теперь по воскресеньям (не каждое) буду делиться с вами этими уроками!
+Поэтому делюсь сегодня с вами воркбуком по рассказу The Strawberry Patch Rule, который адаптирован для уровня B2-B2+🐦‍🔥
+Файл состоит из 🌷 страниц: 🌷страница с разогревом, 🌷страница с заданиями на лексику, 🌷страницы со статьей и заданиями и 🌷страница на говорение
+Также есть в формате edvibe и miro 🐦‍🔥🐦‍🔥
+🐦‍🔥 три задания на разогрев и говорение</description>
+      </offer>
+      <offer id="24280" available="true">
+        <url>https://t.me/hellodaryy/2428</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2428.jpg</picture>
+        <name>по рассказу River Magic</name>
+        <description>Продолжаем нашу подборку short stories и сегодня у нас максимально атмосферный рассказ про воспоминания из детства и дружбу ➿➿
+Подготовила для вас workbook по рассказу River Magic, который адаптирован для уровня B1-B1+ ➿➿
+Файл состоит из ➿ страниц: ➿ страница с разогревом, ➿ страница с заданиями на лексику, ➿ страницы со статьей и заданиями и ➿ страница на говорение
+Также есть в формате edvibe и miro ➿
+➿ четыре задания на разогрев и говорение
+➿ два задания на лексику</description>
+      </offer>
+      <offer id="24450" available="true">
+        <url>https://t.me/hellodaryy/2445</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2445.jpg</picture>
+        <name>по рассказу The Nectarine Summer</name>
+        <description>Сегодня воскресение, а значит делюсь вами максимально летним short story 🌷🌷
+Подготовила для вас workbook по рассказу The Nectarine Summer, который адаптирован для уровня B2-B2+ 🌷
+Файл состоит из 🌷 страниц: 🌷 страница с разогревом, 🌷 страница с заданиями на лексику, 🌷 страницы со статьей и заданиями и 🌷 страница на говорение
+Также есть в формате edvibe и miro 🌷
+🌷 четыре задания на разогрев и говорение
+🌷 два задания на лексику</description>
+      </offer>
+      <offer id="24550" available="true">
+        <url>https://t.me/hellodaryy/2455</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2455.jpg</picture>
+        <name>по рассказу Peaches and Figs</name>
+        <description>Сегодня у нас последняя летняя short story на ближайшее время, но осенью будет еще что-то интересное! 🙏
+➡️ Подготовила для вас workbook по рассказу Peaches and Figs, который адаптирован для уровня B2+-С1 (получились кстати разные статьи на разные уровни, что классно!) 💙
+Файл состоит из 7️⃣ страниц: 1️⃣ страница с разогревом, 1️⃣ страница с заданиями на лексику, 4️⃣ страницы со статьей и заданиями и 1️⃣ страница на говорение
+Также есть в формате edvibe и miro ☀️
+🔵 четыре задания на разогрев и говорение
+🟡 два задания на лексику</description>
+      </offer>
+      <offer id="12820" available="true">
+        <url>https://t.me/hellodaryy/1282</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1282.jpg</picture>
+        <name>Fashion + Present Simple</name>
+        <description>Такая вот у меня тут красивая досочка на платформе miro по теме Fashion + Present Simple 🌷
+Очень легкая доска для отработки времени и обсуждения современных стилей с подростками и взрослыми 🌷
+Что вы найдете на доске:
+🌷вопросы для обсуждения стиля, моды и одежды с учениками
+🌷описание таких стилей как Pinterest Girl, Clean Girl, Old Money, Cottagecore, Gorpcore, Euphoria Core, Barbiecore, Y2K (какой вам стиль нравится? мне вообще все, не могу выбрать, одеваюсь в каждый понемногу)
+🌷три задания по стилям</description>
+      </offer>
+      <offer id="17340" available="true">
+        <url>https://t.me/hellodaryy/1734</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1734.jpg</picture>
+        <name>Small Habits – Big Changes + Present Simple</name>
+        <description>Немного муторная доска, потому что не могла найти хорошее расположение заданий, но вроде вышло хорошо!
+Делюсь с вами доской на платформе miro по теме Small Habits – Big Changes + Present Simple 🍂
+Замечательная доска для обсуждения привычек, чтобы хотели поменять в жизни, поговорить про цели, а так же повторить Present Simple 🍂
+Все задания интерактивные, помогут вам нескучно провести урок, а сама доска супер эстетичная 🍂
+🍂 два задания на разогрев и говорение
+🍂 четыре задания на лексику</description>
+      </offer>
+      <offer id="21620" available="true">
+        <url>https://t.me/hellodaryy/2162</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2162.jpg</picture>
+        <name>My Spring Plans и грамматике to be going to</name>
+        <description>Делюсь доской на платформе miro по теме My Spring Plans и грамматике to be going to 🌷
+🌷 Яркая и красочная доска, которая точно поднимет вам и вашим ученикам настроение, но также очень структурно и правильно построена 🌷
+Что вы найдете на доске 🌷
+🌷 пять заданий на разогрев и говорение
+🌷 четыре задания на лексику
+🌷 правило и пять заданий на грамматику</description>
+      </offer>
+      <offer id="4330" available="true">
+        <url>https://t.me/hellodaryy/433</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/433.jpg</picture>
+        <name>Barbie</name>
+        <description>💖 говорение (вопросы по фильму и личные)
+💖 знакомство с куклами Барби
+💖 знакомство с персонажами
+💖 чтение (сюжет фильма Барби 2023)
+💖 чтение (интересные факты про Барби)
+💖 три отрывка из фильма и восемь заданий к ним</description>
+      </offer>
+      <offer id="4780" available="true">
+        <url>https://t.me/hellodaryy/478</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/478.jpg</picture>
+        <name>Easter</name>
+        <description>Красивая и весенняя доска на платформе miro по теме Easter 🩵
+Очень нежная и свежая доска, которая вам поможет обсудить Пасху и узнать новое о праздновании в других странах 🩵
+🩵vocabulary Easter activities
+🩵reading Easter activities
+🩵reading Easter facts in Englandr
+🩵reading Fun Easter traditions</description>
+      </offer>
+      <offer id="9210" available="true">
+        <url>https://t.me/hellodaryy/921</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/921.jpg</picture>
+        <name>miro по мультфильму Caroline</name>
+        <description>Я страдала, пока делала эту доску… Почему? Потому что при всей моей любви к Нилу Гейману и к Тиму Бертону, я терпеть не могу мультфильм Коралина в Стране Кошмаров ☁️
+Каждый раз в школе на уроках английского (когда были замены, Хэллоуин или прездничные дни перед нг) нам включали этот мульт … не понимаю, почему именно его! 💥
+Но большинство голосов было за хэллоуинскую доску miro по мультфильму Caroline ☁️
+Фильм и отрывки очень простые и короткие, поэтому очень рекомендую провести этот урок!
+🌀 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+☁️задание на знакомство с персонажами</description>
+      </offer>
+      <offer id="9330" available="true">
+        <url>https://t.me/hellodaryy/933</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/933.jpg</picture>
+        <name>Scooby-Dooby-Doo</name>
+        <description>Сидела я, думала, что бы такого выбрать для доски к Хэллоуину ⤵️
+В прошлый раз вы проголосовали за Коралину, по ней уже готова доска, но еще один полнометражный фильм или мультфильм я брать не хотела (это правда долго), поэтому мне вдруг пришла в голову идея взять Скуби-Ду 💥
+Каждая серия отлично подойдет под Хэллоуин, но я прям выбрала хэллоуинскую-хэллоуинскую ☁️
+Представляю вам доску miro по серии A Scooby-Doo Halloween из сериала What’s New Scooby-Doo? ☁️
+Отрывки из серии очень простые и короткие, урок подойдет для любого возраста ☁️
+🌀 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:</description>
+      </offer>
+      <offer id="9400" available="true">
+        <url>https://t.me/hellodaryy/940</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/940.jpg</picture>
+        <name>Witches, sceletons, spiders, vampires</name>
+        <description>Уже скоро приблежается Хэллоуин, поэтому активно с вами готовимся! 🍂
+Почему я считаю его за праздник и обязательно провожу Хэллоуинские уроки с учениками? Потому что это традиция и культура той страны, чей язык мы изучаем 🍂
+Доска получилась несложная, но очень полезная и тематическая, вот ничего ни обавить, ни убавить 🎃
+Все задания интерактивные, помогут вам интересно провести урок и добавить мистической атмосферы 🍂
+🍂vocabulary Halloween
+🍂reading Halloween Traditions</description>
+      </offer>
+      <offer id="9510" available="true">
+        <url>https://t.me/hellodaryy/951</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/951.jpg</picture>
+        <name>miro Halloween with Harry Potter то</name>
+        <description>В том году я делала очень классный воркбук про Хэллоуин в Хогвартсе, а сейчас решила сделать по нему атмосферную празднично-мистическую доску! 🍂
+Если ваши ученики любят Гарри Поттера, а вы бы хотели провести урок и познакомить их с Хэллоуином, то доска miro Halloween with Harry Potter то, что вам надо 🍂
+Все задания интерактивные, помогут вам интересно провести урок и добавить мистической атмосферы 👻
+🍂vocabulary Halloween
+🍂reading Halloween at Hogwarts</description>
+      </offer>
+      <offer id="9600" available="true">
+        <url>https://t.me/hellodaryy/960</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/960.jpg</picture>
+        <name>Happy Halloween</name>
+        <description>Нереальная доска на платформе miro по сериалу Phineas and Ferb по серии That's the Spirit 🤩
+Один из самых летних сериалов, становится мрачным и осенним 🤩
+Даже описание сменилось с летнего на хэллоуинское 💜
+🍂 Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+💜описание персонажей
+💜хэллоуинская лексика</description>
+      </offer>
+      <offer id="10220" available="true">
+        <url>https://t.me/hellodaryy/1022</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1022.jpg</picture>
+        <name>My F.R.I.E.N.D.S</name>
+        <description>Если вы успели поучаствовать в рассылке, то вы получаете секретную доску miro по сериалу Friends, Season 5, Episode 8: The One With All the Thanksgivings 😍
+Не знаю, почему я так долго игнорировала материалы по Друзьям, потому что вышло очень классно! 🎞️
+А еще именно с этой доски мы начинаем ряд материалов, посвященных Дню Благодарения ✨
+✅ Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+🎞️знакомство с персонажами
+🎞️описание персонажей</description>
+      </offer>
+      <offer id="10350" available="true">
+        <url>https://t.me/hellodaryy/1035</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1035.jpg</picture>
+        <name>Thanksgiving Day</name>
+        <description>Конечно обязательно нужна доска по Дню Благодарения 🍂
+С помощью этой доски на интерактивной платформе miro под названием Thanksgiving Day вы можете обсудить с учениками: что это за праздник, познакомиться с традициями, узнать кто такие Пилигримы и поговорить о том, чему и кому вы благодарны 🍂
+🍂vocabulary Thanksgiving
+🍂reading Thanksgiving Traditions
+🍂reading Pilgrims</description>
+      </offer>
+      <offer id="10690" available="true">
+        <url>https://t.me/hellodaryy/1069</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1069.jpg</picture>
+        <name>miro Phineas and Ferb по серии Christmas Vacation</name>
+        <description>Открываем седьмой день нашего Advent Calendar и сегодня у нас доска miro Phineas and Ferb по серии Christmas Vacation 🩵
+Решила сделать небольшую традицию с Финесом и Фербом, так как у них много классных праздничных серий 🩵
+🩵 Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+🩵задание по песне
+🩵шесть отрывков из серии Christmas Vacation
+🩵семнадцать заданий к отрывкам</description>
+      </offer>
+      <offer id="10840" available="true">
+        <url>https://t.me/hellodaryy/1084</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1084.jpg</picture>
+        <name>My F.R.I.E.N.D.S</name>
+        <description>Открываем одиннадцатый день нашего Advent Calendar и сегодня у нас доска miro по сериалу Friends, Season 3, Episode 10: The One Where Rachel Quits 💜
+Понравилась мне идея к каждому празднику делать по одной доске по сериалу Друзья ⤵️
+💜 Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+🎞️знакомство с персонажами
+🎞️говорение по серии, рождеству и новому году
+🎞️шесть отрывков из эпизода и восемнадцать заданий к ним</description>
+      </offer>
+      <offer id="10920" available="true">
+        <url>https://t.me/hellodaryy/1092</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1092.jpg</picture>
+        <name>miro по фильму How the Grinch Stole Christmas</name>
+        <description>Открываем тринадцатый день нашего Advent Calendar ▫️
+Вот есть такие доски, которые я делаю со страданием, и сегодня именно такого доска miro по фильму How the Grinch Stole Christmas 🎄
+Я не очень люблю этот фильм (он классный, просто немного не мое), но большинство голосов было за Грина, поэтому ловите ▫️
+▫️ Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+❄️задание на знакомство с персонажами
+❄️задание на описание персонажей</description>
+      </offer>
+      <offer id="11050" available="true">
+        <url>https://t.me/hellodaryy/1105</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1105.jpg</picture>
+        <name>Christmas in England</name>
+        <description>Открываем семнадцатый день нашего Advent Calendar ➖
+Сегодня у нас доска miro для ваших рождественских уроков по теме Christmas in England 🫶
+▫️vocabulary Christmas
+▫️reading Christmas tradition in England
+▫️reading Christmas tradition cuisine in England
+▫️рекомендуемый уровень А2 ▫️</description>
+      </offer>
+      <offer id="11090" available="true">
+        <url>https://t.me/hellodaryy/1109</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1109.jpg</picture>
+        <name>Love is all around us</name>
+        <description>Сегодня открываем восемнадцатый день нашего Advent Calendar ✨
+Я уже говорила, что больше всего люблю делать доски по своим любимым фильмам! ✨
+Этот фильм мой самый самый любимый новогодний (рождественский) фильм, поэтому я приготовила для вас доску miro по фильму Love Actually ✨
+Сначала я хотела сделать доску по каждому сюжету фильма, но тогда был бы очень жесткий возрастной ценз 😅
+✨ Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+✨девять отрывков и 6 сюжетных линий</description>
+      </offer>
+      <offer id="11320" available="true">
+        <url>https://t.me/hellodaryy/1132</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1132.jpg</picture>
+        <name>New Year in Russia</name>
+        <description>Открываем двадцать второй день нашего Advent Calendar ✔️
+И для всех любителей miro у нас новогодняя доска New Year in Russia 🎟️
+Просто посмотрите, какая она классная и праздничная, для хорошего настроения! А там еще мои фотки (которые я делала), как вам? 🎟️
+🎟️vocabulary New Year
+🎟️reading New Year tradition in Russia
+🎟️reading New Year tradition cuisine in Russia</description>
+      </offer>
+      <offer id="11350" available="true">
+        <url>https://t.me/hellodaryy/1135</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1135.jpg</picture>
+        <name>WARNING! Кевина оставили дома</name>
+        <description>Открываем двадцать третий день (УЖЕ) нашего Advent Calendar и сегодня у нас нереальная доска miro Home Alone ❤️
+Вы просили - я сделала ➖
+Но это необычная доска, это доска игра, вы и ваши ученики узнаете, как Кевин остался дома, поможете ему нарядить елку, подготовить подарки, сходить в магазин, завести друзей, сделать ловушки для грабителей и поймать их, встретить семью и рассказать историю ✨ ⤵️
+▫️ Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+▫️задание на знакомство с персонажами
+💚задание на описание персонажей</description>
+      </offer>
+      <offer id="11430" available="true">
+        <url>https://t.me/hellodaryy/1143</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1143.jpg</picture>
+        <name>это родилась благодаря классным стикерам</name>
+        <description>Скорее всего это будет последняя разработка в этом году, но она вам точно понравится! ✨
+Хочу поделиться с вами доской на платформе miro по очень интересной теме Christmas From Around the World ❄️
+✨ Доска это родилась благодаря классным стикерам, которые я использовала в адвенте, очень они мне понравились и я придумала для этого доску ✨
+✨ С помощью этой доски вы обсудите с вашими учениками много интересного ❄️
+✨интересные рождественские и новогодние факты из разных стран
+✨посмотрите видео про Сант Клаусов и Дедов Морозов и узнаете, какие бывают волшебники и кто приносит подарки (а может забирает) в других странах</description>
+      </offer>
+      <offer id="11490" available="true">
+        <url>https://t.me/hellodaryy/1149</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1149.jpg</picture>
+        <name>Как ваши праздники?</name>
+        <description>Успеваете отдохнуть? Поставили уже цели на новый 2025 год? ❤️
+Я поставила кучу целей в своей голове, но написать на бумаге совершенно нет времени 🥺
+Со 2 января мы переезжаем в нашу новую квартиру (все еще переезжаем, доделываем ремонт и перевозим кучу вещей, позже расскажу про переезд), поэтому времени не хватает от слова СОВСЕМ 🥲
+Однако, я просто не могла не сделать файл (пока я делала, то хотела бросить создание доски и создавать свою карту желаний) ❤️
+Та-дам! Это Vision Board на платформе miro ⭐️🪽
+Что вы найдете на доске:</description>
+      </offer>
+      <offer id="11850" available="true">
+        <url>https://t.me/hellodaryy/1185</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1185.jpg</picture>
+        <name>Happy Valentine’s Day</name>
+        <description>Сегодня у нас с вами традиционная доска на платформе miro по сериалу Phineas and Ferb по серии That Sinking Feeling ✨
+Добавим немного лета в наш зимний день и, конечно же, смешной романтической истории с нашими героями ➿
+Вы заметили как на досках по Финесу и вербу оформление меняется на сезонное? 🤪
+🎟️ Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+🎟️задание на говорение про Valentine’s Day
+🎟️лексика Valentine’s Day</description>
+      </offer>
+      <offer id="11900" available="true">
+        <url>https://t.me/hellodaryy/1190</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1190.jpg</picture>
+        <name>Valentine’s Day</name>
+        <description>Помните, что я устроила себе небольшую традицию в виде доской miro по сериалу Friends к разным праздникам? 💜
+Сегодня мы продолжаем эту небольшую традицию и встречаем доску miro к празднику Valentine’s Day по сериалу Friends Season 1, Episode 14: The One With the Candy Hearts 💜
+💜 Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+💜задание на знакомство с персонажами
+💜задание с описанием персонажей
+💜задание на говорение по теме Valentine’s Day</description>
+      </offer>
+      <offer id="12000" available="true">
+        <url>https://t.me/hellodaryy/1200</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1200.jpg</picture>
+        <name>Lovlies</name>
+        <description>Приготовила для вас вот такую вот досочку на платформе miro по теме Valentine’s Day [2.0] (если что, то [1.0] можно найти здесь) 🎟️
+Доска получилось очень атмосферной, даже немного весенней и сказочной, но на ней есть все, чтобы провести офигенный урок по дню Святого Валентина 🎟️🎟️
+Что вы найдете на доске:
+🎟️вопросы для обсуждения Дня Святого Валентина
+🎟️чтение The Story of Saint Valentine (кто же такой Валентин?)
+🎟️три задания по чтению</description>
+      </offer>
+      <offer id="12460" available="true">
+        <url>https://t.me/hellodaryy/1246</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1246.jpg</picture>
+        <name>Pretty Women</name>
+        <description>Хотела эту доску сделать ко Дню Влюбленных, но получилось ко Дню женщин 🧣
+Подготовила для вас доску на платформе miro по фильму Pretty Woman 🧣
+Красотка один из моих любимых фильмов (вообще люблю его смотреть в Новый год) и я обожаю Джулию Роберт и Ричарда Гира, они шикарные 🧣
+Ну и, закидайте меня тапками, ведь это мечта сходить на шоппинг и потратить немереную сумму или слетать на частном самолете, чтобы просмотреть оперу в ложе (мечтамечтамечта) 🧣
+🧣 Лично для меня этот фильм про сильную женщину 🧣
+🧣 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:</description>
+      </offer>
+      <offer id="12500" available="true">
+        <url>https://t.me/hellodaryy/1250</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1250.jpg</picture>
+        <name>Но потом мне захотелось создать что-то интересное</name>
+        <description>В том году делала вам файл к 8 марта, а в этом году думала сделать тематическую классную доску 🎞️
+Но потом мне захотелось создать что-то интересное, но сильное как girls power 💪🏻
+Пришла очень классная идея о доске miro под названием Famous Women Scientists 🎞️
+Женщины, которые сделали очень важные открытия в мире, но очень часто остаются в тени! ⚜️
+Доска просто нереально классная и полезная и я очень советую посвятить сегодняшний урок этой доске ⚜️
+Что вы найдете на доске:</description>
+      </offer>
+      <offer id="13360" available="true">
+        <url>https://t.me/hellodaryy/1336</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1336.jpg</picture>
+        <name>Easter</name>
+        <description>Максимально эстетичная, но безумно полезная доска miro по теме Easter ⚜️
+Очень информативная доска, с помощью которой вы обсудите Пасху, а также пасхальные блюда ⚜️
+⚜️vocabulary Easter
+⚜️reading Easter
+⚜️reading Easter dishes in different countries
+⚜️reading Kulich</description>
+      </offer>
+      <offer id="16690" available="true">
+        <url>https://t.me/hellodaryy/1669</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1669.jpg</picture>
+        <name>Back to School</name>
+        <description>Обычно я делаю доски в другом формате, но это должна выглядеть именно так и в своем виде она идеальна 💙
+Делюсь с вами доской на платформе miro по теме Back to School 🤍
+Материал отлично подойдет для первых уроков в новом учебном году! ✨
+Все задания интерактивные, помогут вам нескучно провести урок, а сама доска супер эстетичная 🔹
+🔹 четыре задания на разогрев
+🔹 шесть заданий на лексику школьные принадлежности</description>
+      </offer>
+      <offer id="17660" available="true">
+        <url>https://t.me/hellodaryy/1766</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1766.jpg</picture>
+        <name>по серии из сериала Friends</name>
+        <description>Стараюсь к каждому празднику делать доску по серии из сериала Friends 💜
+И сегодня мы продолжаем эту небольшую традицию и встречаем доску miro к празднику Halloween по сериалу Friends Season 8, Episode 6: The One with the Halloween Party 💜
+💜 Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+💜 задание на знакомство с персонажами
+💜 задание на говорение про отношения
+💜 пять отрывков из хэллоуинской серии и пятнадцать заданий к ним</description>
+      </offer>
+      <offer id="17690" available="true">
+        <url>https://t.me/hellodaryy/1769</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1769.jpg</picture>
+        <name>The Addams Family</name>
+        <description>Делала голосование по поводу доски miro по фильму к Хэллоуину и победил фильм The Addams Family! 🩶
+Отличная доска для ваших мрачных хэллоуинских уроков с атмосферой семейки Аддамс (черный юмор, ирония и любовь Гомеза и Мартиши) 🪄
+🩶 Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+🩶 три задания на разогрев
+🩶 задание на знакомство с персонажами
+🩶 шесть отрывков из фильма</description>
+      </offer>
+      <offer id="17710" available="true">
+        <url>https://t.me/hellodaryy/1771</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1771.jpg</picture>
+        <name>Monster House</name>
+        <description>Также вы проголосовали за мультфильм Monster House для доски miro 🔹
+Я кстати удивилась, в детстве очень любила этот стремный мультик, сейчас рисовка кажется вообще кринжовой, но если ваши ученики не против мультяшных ужастиков, то супер вариант 🌟
+Интерактивная доска для ваших мрачных хэллоуинских уроков в стиле дома с привидениями 👻
+🔹 Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+🔹 два задания на разогрев
+🔹 два задания на знакомство с персонажами</description>
+      </offer>
+      <offer id="17820" available="true">
+        <url>https://t.me/hellodaryy/1782</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1782.jpg</picture>
+        <name>Halloween Quest</name>
+        <description>К этому Хэллоуину подготовила для вас не просто доску, а настоящий квест! 🌂
+Вы и ваши ученики охотники за привидениями, вам надо пройти все шаги, выполнить все задания, чтобы узнать больше про этот праздник! 🎃🌂
+🌂 What is Halloween?
+🌂 Halloween Symbols
+🌂 Costumes &amp; Dress-Up
+🌂 Halloween decorations</description>
+      </offer>
+      <offer id="18330" available="true">
+        <url>https://t.me/hellodaryy/1833</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1833.jpg</picture>
+        <name>Thanksgiving Day 2.0</name>
+        <description>Не оставлю вас без новенькой доски miro по Thanksgiving Day! 🤎🎞️
+Отличный материал, чтобы ваши ученики познакомились с таким праздником, как День Благодарения 🎞️
+Все задания интерактивные, помогут вам нескучно провести урок, а сама доска очень уютная ⤵️
+🎞️ два задания на разогрев
+🎞️ восемь заданий на лексику
+🎞️ четыре задания на чтение</description>
+      </offer>
+      <offer id="18360" available="true">
+        <url>https://t.me/hellodaryy/1836</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1836.jpg</picture>
+        <name>Black Friday</name>
+        <description>В том году делала нереальную доску miro по теме Black Friday (одна из моих любимых досок евер) ❤️‍🩹
+В этом году подготовила для вас воркбук по этой доске (знаю, что многие любят работать с pdf) по теме Black Friday 🧡
+Файл состоит из 5️⃣страниц:
+1️⃣ страница с разогревом и лексикой, 1️⃣ страница с чтением про Черную Пятницу, 1️⃣ страница с аудированием и 1️⃣ страница с говорением
+🧡 рекомендуемый уровень B1 🧡</description>
+      </offer>
+      <offer id="18610" available="true">
+        <url>https://t.me/hellodaryy/1861</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1861.jpg</picture>
+        <name>Christmas in America</name>
+        <description>Сегодня открываем четвертый день нашего Advent Calendar ✨
+Для любителей платформы miro подготовила урок для уровня А2 по теме Christmas in America 🩵
+🔹 Что вы найдете на доске?
+🔹 шесть заданий на лексику
+🔹 чтение про рождественские традиции и пять заданий к нему
+🔹 чтение про рождественские блюда и пять заданий к нему</description>
+      </offer>
+      <offer id="18760" available="true">
+        <url>https://t.me/hellodaryy/1876</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1876.jpg</picture>
+        <name>miro Peppa Pig по серии Peppa’s Christmas</name>
+        <description>Открываем седьмой день нашего Advent Calendar и сегодня у нас доска miro Peppa Pig по серии Peppa’s Christmas 🐽
+Очень редко на канале бывают материалы для малышей и начального уровня, решила это исправить и подготовила доску для kids A1 💗
+💗 Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+💗 четыре коротких отрывка из серии (для удобства малышей)
+💗 семнадцать интерактивных заданий к отрывкам</description>
+      </offer>
+      <offer id="18980" available="true">
+        <url>https://t.me/hellodaryy/1898</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1898.jpg</picture>
+        <name>Santa’s Magic Night</name>
+        <description>Открываем одиннадцатый день нашего Advent Calendar ❄️
+Делюсь с вами доской miro для kids A1 по теме Santa’s Magic Night ❄️
+❄️ Любители miro, ваш урок пройдет просто замечательно с новогодней атмосферой ❄️
+❄️ Что вы найдете на доске?
+✨ два задания на разогрев
+❄️ шесть заданий на лексику</description>
+      </offer>
+      <offer id="19060" available="true">
+        <url>https://t.me/hellodaryy/1906</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1906.jpg</picture>
+        <name>miro по сериалу Friends</name>
+        <description>Открываем тринадцатый день нашего Advent Calendar и сегодня у нас доска miro по сериалу Friends, Season 6, Episode 10: The One With The Routine 🌂
+Продолжаю свою небольшую традиции про праздничные уроки по сериям из сериала Друзья 🌂
+🌂 Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+💜пять отрывков из серии Друзей
+💜двадцать одно к отрывкам
+💜три задания по всей серии</description>
+      </offer>
+      <offer id="19170" available="true">
+        <url>https://t.me/hellodaryy/1917</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1917.jpg</picture>
+        <name>Santa's Secret Diary</name>
+        <description>Открываем шестнадцатый день нашего Advent Calendar ❄️
+Делюсь с вами доской miro Santa’s Secret Diary для уровня А2 ✨
+✨ Любители miro, ваш урок пройдет просто замечательно с новогодней атмосферой ✨
+✨ Что вы найдете на доске?
+✨ два задания на разогрев
+✨ четыре задания на лексику</description>
+      </offer>
+      <offer id="19210" available="true">
+        <url>https://t.me/hellodaryy/1921</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1921.jpg</picture>
+        <name>miro по моему любимому мультфильму Anastasia</name>
+        <description>Открываем семнадцатый день нашего Advent Calendar ✨
+Очень долго думала по какому новогоднему фильму или мультфильму сделать доску, мне кажется, что по всем классным фильмам я уже сделала ✨
+Но потом мне пришла идея сделать доску miro по моему любимому мультфильму Anastasia! ✨
+✨ Получилось просто сказочно и волшебно, вашим ученикам точно понравится! ✨
+✨ Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+✨ три задания на знакомство с персонажами</description>
+      </offer>
+      <offer id="19340" available="true">
+        <url>https://t.me/hellodaryy/1934</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1934.jpg</picture>
+        <name>From Dickens to Netflix: Christmas Today</name>
+        <description>Открываем двадцать первый день нашего Advent Calendar ✨
+Делюсь с вами доской miro From Dickens to Netflix: How We Celebrate Christmas Today для уровня В1 ✨
+Новогоднее настроение точно обеспечено! ❄️❄️
+❄️ Что вы найдете на доске?
+✨ три задания на разогрев и говорение
+✨ пять заданий на лексику</description>
+      </offer>
+      <offer id="19380" available="true">
+        <url>https://t.me/hellodaryy/1938</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1938.jpg</picture>
+        <name>Advent Calendar. День 22</name>
+        <description>Мы уже приближаемся к концу и сегодня открываем двадцать второй день нашего Advent Calendar 🎟️🎟️
+Пока готовила для вас эту доску вся уревелась с этого фильма, он мне разбивает сердце, но в любом случае очень теплый и добрый ✨🎟️
+Делюсь с вами доской miro по рождественскому фильму Last Christmas (надеюсь вы не будете плакать над концовкой как я, пока будете вести урок 🥲) 🎟️
+🎟️ Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+🎟️ три задания на разогрев
+🎟️два задания на знакомство с персонажами</description>
+      </offer>
+      <offer id="19410" available="true">
+        <url>https://t.me/hellodaryy/1941</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1941.jpg</picture>
+        <name>Advent Calendar. День 23</name>
+        <description>Открываем двадцать третий день нашего Advent Calendar ❤️
+Я очень долго думала, что сделать на сегодняшний день и чем с вами поделиться 🪽
+Порой мне кажется, что все интересное я уже сделала и в некотором роде так оно и есть ⭐️🪽
+🪽 Так почему бы не поделиться с вами тем, что было в том и позапрошлом году? В тех годах именно эти доски обладали самым большим спросом, да и выглядят они безумно классно! ⭐️
+❤️ Первая доска miro по нашему любимому Harry Potter and the Philosopher's Stone 🪽
+🪽 задание на знакомство с персонажами</description>
+      </offer>
+      <offer id="20140" available="true">
+        <url>https://t.me/hellodaryy/2014</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2014.jpg</picture>
+        <name>Актуалочка для января</name>
+        <description>Я пытаюсь успеть за этот январь все, что не успела за предыдущие (и везде побывать 😅) ❤️
+А еще я уже подготовила все, для создания своей карты желаний с целями на 2026 год ❤️
+Вообще везде пишут, что у тельцов этот год будет заебись
+(тельцы, давайте перекличку!) и я возлагаю на это большие надежды, и желания и мотивации куча! ⭐️🪽
+Пока времени на создания файлов нет, но на следующей неделе уже будут новые файлы в стабильном режиме (надеюсь ждете) ❤️
+Но не могу вас совсем без ничего оставить, поэтому делюсь прошлогодним уроком (который переименовала на этот год) Vision Board на платформе miro ⭐️🪽</description>
+      </offer>
+      <offer id="20790" available="true">
+        <url>https://t.me/hellodaryy/2079</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2079.jpg</picture>
+        <name>Дня Святого Валентина</name>
+        <description>Мы тут с мужем подсели на сериал The Office, в топ ситкомов однозначно! 🖇️
+Хотя и первый сезон нам не особо зашел, сейчас мы уже переходим к седьмому 😎
+🔗 Поэтому решила подготовить вам урок ко Дню Святого Валентина по серии из Офиса 🖇️
+Делюсь с вами доской miro по серии The Office, season 2, episode 16: Valentine’s Day 🔗
+🔗 Доска подойдет для разговорных клубов и киноклубов, разговорных уроков:
+🔗задания на говорение по теме Дня Святого Валентина</description>
+      </offer>
+      <offer id="20860" available="true">
+        <url>https://t.me/hellodaryy/2086</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2086.jpg</picture>
+        <name>Valentine’s day</name>
+        <description>В этом году День Святого Валентина будет эстетик, поэтому делюсь с вами доской на платформе miro по теме Valentine’s day. Famous Couples &amp; Expressions About Love 🪽
+Отличная возможность обсудить идиомы и любовь между популярными парочками 💕
+Что вы найдете на доске ⤵️
+❤️ три задания на разогрев и говорение
+🤍 три задания на лексику
+❤️ пять заданий на чтение</description>
+      </offer>
+      <offer id="22010" available="true">
+        <url>https://t.me/hellodaryy/2201</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2201.jpg</picture>
+        <name>Easter Traditions Around the World</name>
+        <description>Делюсь доской на платформе miro по теме Easter Traditions Around the World и лексике Idioms and Expressions 🤍🤍
+Весенняя пасхальная доска, по необычной теме, где вы познакомитесь с классными идиомами, а так же прочитаете про пасхальные традиции в разных странах 🤍
+Что вы найдете на доске 🤍
+🤍 три задания на разогрев и говорение
+🤍 три задания на идиомы
+🤍 четыре заданий на чтение</description>
+      </offer>
+      <offer id="3980" available="true">
+        <url>https://t.me/hellodaryy/398</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/398.jpg</picture>
+        <name>The Breakfast Club</name>
+        <description>💖 говорение (вопросы по фильму и личные)
+💖 знакомство с персонажами
+💖 факты про персонажей
+💖 три отрывка из фильма с заданиями</description>
+      </offer>
+      <offer id="4300" available="true">
+        <url>https://t.me/hellodaryy/430</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/430.jpg</picture>
+        <name>The Strongest Women of Hogwarts</name>
+        <description>💖 знакомство с персонажами
+💖 говорение (обсуждение сильнейших сторон и смелые поступки ведьм Хогвартса)
+💖 семь отрывков из разных фильмов и семнадцать заданий к ним</description>
+      </offer>
+      <offer id="4420" available="true">
+        <url>https://t.me/hellodaryy/442</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/442.jpg</picture>
+        <name>Little Women</name>
+        <description>💖 говорение (вопросы по фильму)
+💖 знакомство с персонажами
+💖 знакомство в сестрами
+💖 знакомство с сюжетом фильма
+💖 пять отрывков из фильма и тринадцать заданий к ним
+💖 викторина по фильму</description>
+      </offer>
+      <offer id="4870" available="true">
+        <url>https://t.me/hellodaryy/487</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/487.jpg</picture>
+        <name>семьи</name>
+        <description>Не так давно посмотрела фильм Дюна: Часть Два 🍂
+Дюна не моя любимая вселенная, вообще нет (ни книга, ни фильм), но будем честными, с эстетической точки зрения первый фильм Дюны прекрасен 🍂
+У меня было дикое желание и настроение сделать доску miro по этому фильму и вот она готова! 🍂
+Кстати, по второму фильму доска в процессе, жду когда будет фильм в хорошем качестве, чтобы вырезать оттуда сцены 🍂
+🍂Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+🍂говорение (вопросы по фильму)</description>
+      </offer>
+      <offer id="5070" available="true">
+        <url>https://t.me/hellodaryy/507</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/507.jpg</picture>
+        <name>Space Day</name>
+        <description>Интерактивная и объемная доска на платформе miro по теме Space Day 🩵
+Доска с кучей интерактивных и интересных заданий на лексику, а так же с классным чтением 🩵
+🩵vocabulary space
+🩵reading Cosmonautics Day
+🩵reading Yuri Gagarin
+🩵reading Astronauts</description>
+      </offer>
+      <offer id="5120" available="true">
+        <url>https://t.me/hellodaryy/512</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/512.jpg</picture>
+        <name>Emily in Paris. Episodes 1-2</name>
+        <description>Сейчас просто долгожданное нереально весеннее настроение! 🩷
+Приготовила для вас доску, которая точно поддержит и подарит вам это весеннее чувство 🩷
+Доска по первым двум сериям первого сезона сериала Emily in Paris 🩷
+То есть вас в ближайшее время ждут еще две доски! 🩷
+🩷 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+🩷говорение (вопросы по фильму)</description>
+      </offer>
+      <offer id="5170" available="true">
+        <url>https://t.me/hellodaryy/517</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/517.jpg</picture>
+        <name>Emily in Paris. Episodes 3-6</name>
+        <description>Вторая из трех досок по сериалу Эмили в Париже done 🩷
+Доска по 3-6 сериям первого сезона сериала Emily in Paris 🩷
+🩷 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков (но тут скорее всего доска получится на два урока, очень объемная):
+🩷говорение (вопросы по фильму)
+🩷описание персонажей
+🩷три отрывка из третьего эпизода и шесть заданий к ним</description>
+      </offer>
+      <offer id="5210" available="true">
+        <url>https://t.me/hellodaryy/521</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/521.jpg</picture>
+        <name>по сериалу Эмили в Париже done</name>
+        <description>Третья последняя доска по сериалу Эмили в Париже done 🩷
+Доска по 7-10 сериям первого сезона сериала Emily in Paris 🩷
+🩷 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков (но тут скорее всего доска получится на два урока, очень объемная):
+🩷говорение (вопросы по фильму)
+🩷два отрывка из седьмого эпизода и шесть заданий к ним
+🩷один отрывок из восьмого эпизода и два задания к нему</description>
+      </offer>
+      <offer id="5540" available="true">
+        <url>https://t.me/hellodaryy/554</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/554.jpg</picture>
+        <name>не планировалась</name>
+        <description>Мои самые любимые материалы - спонтанные, которые я делаю по вдохновению, а не потому что надо 🌷
+Эта доска не планировалась, но потом резко пришло в голову, как она будет выглядеть, так почему бы и не сделать? 🌷
+Доска для учеников 5 класса (или любых учеников уровня elementary) на повторение пройденных тем по лексике (понятное дело, что не по всем, но большей части) 🌷
+Все задания интерактивные, помогут вам нескучно провести последний урок в учебном году и посмотреть, где у ученика есть пробелы 🌷
+Что есть на доске:
+🌷vocabulary Family</description>
+      </offer>
+      <offer id="5590" available="true">
+        <url>https://t.me/hellodaryy/559</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/559.jpg</picture>
+        <name>Grammar Revision (5 класс, A1-A2)</name>
+        <description>Классическая доска для Revision [grammar] для 5 класса / уровень А1-А2 🍂
+Очень долго думала в каком стиле сделать, в итоге остановилась на знакомом и привычном Гарри Поттере 🍂
+🍂Достаточно объемная доска с разными заданиями по самым популярным темам на повторение, идеально подойдет для последних уроков в году
+🍂present Simple vs present continuous
+🍂simple tenses
+🍂demonstrative pronouns</description>
+      </offer>
+      <offer id="5730" available="true">
+        <url>https://t.me/hellodaryy/573</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/573.jpg</picture>
+        <name>Spring Blossom</name>
+        <description>Одна из самых весенних досок Spring Blossom 🌷
+Уж очень она мне нравится, особенно с визуальной точки зрения, но и наполнение очень классное! 🌷
+🌷vocabulary Flowers
+🌷vocabulary Spring Blossom
+🌷reading Spring Blossom</description>
+      </offer>
+      <offer id="5980" available="true">
+        <url>https://t.me/hellodaryy/598</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/598.jpg</picture>
+        <name>The first summer day</name>
+        <description>Надеюсь, что вы ждали эту доску miro, потому что это нереально классная и мега объемная работа по Phineas and Ferb! 🧡
+Один из самых летних сериалов, верно?
+Здесь вы найдете задания по трем сериям из первого сезона, а сама доска просто нереально красивая в стиле Перри Утконоса! 🧡
+🧡 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков (но тут скорее всего доска получится на два урока, очень объемная):
+🧡разогрев с песней
+🧡знакомство с персонажами</description>
+      </offer>
+      <offer id="6100" available="true">
+        <url>https://t.me/hellodaryy/610</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/610.jpg</picture>
+        <name>Summer Holidays</name>
+        <description>Самое время поговорить про летние каникулы, поэтому представляю вам новую доску miro по теме Summer Holidays 🌷
+С помощью этой доски вы отправитесь на летние каникулы вместе с персонажами из Гарри Поттер 🌷
+🌷Все задания интерактивные, помогут вам интересно провести урок
+🌷vocabulary Summer Holidays
+🌷reading Luna’s summer holidays
+🌷reading Neville’s summer holidays</description>
+      </offer>
+      <offer id="6130" available="true">
+        <url>https://t.me/hellodaryy/613</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/613.jpg</picture>
+        <name>лето</name>
+        <description>Очень летняя доска, которая называется Summer Vibes 🌷
+На доске много лексики по теме лето, отличный летний материал для ваших учеников! 🌷
+🌷Все задания интерактивные, помогут вам нескучно провести урок
+🌷vocabulary Summer Activities
+🌷vocabulary Summer Food
+🌷vocabulary Summer Mood</description>
+      </offer>
+      <offer id="6930" available="true">
+        <url>https://t.me/hellodaryy/693</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/693.jpg</picture>
+        <name>Palm Springs</name>
+        <description>Как я выбираю фильмы, по которым делаю доски? 🩷
+Просто делаю доски miro по тем фильмам, которые мне нравятся или я недавно посмотрела, вот и весь секрет 🩷
+Один из летних фильмов для меня - Palm Springs - летний, веселый, легкий, поэтому делюсь ей с вами 🩷
+🩷 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+🩷говорение (вопросы по фильму)
+🩷знакомство с персонажами</description>
+      </offer>
+      <offer id="6990" available="true">
+        <url>https://t.me/hellodaryy/699</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/699.jpg</picture>
+        <name>miro по самому летнему сериалу Phineas and Ferb</name>
+        <description>Я точно знаю, что надо вам и вашим ученикам - доска miro по самому летнему сериалу Phineas and Ferb
+Здесь вы найдете задания по двум сериям из второго сезона, а сама доска просто нереально красивая в стиле Перри Утконоса! 🧡
+Надо ли говорить, что это значит, что скоро будет доска по 3 сезону 🤫
+🧡 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+🧡говорение (вопросы по сериалу)
+🧡разогрев с песней</description>
+      </offer>
+      <offer id="7140" available="true">
+        <url>https://t.me/hellodaryy/714</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/714.jpg</picture>
+        <name>появилась неожиданно</name>
+        <description>Это доска появилась неожиданно, так как я решила поучавствовать в тематической рассылке, но она получилась настолько классной, что попала мне в сердечко! 🌷
+Ну вы просто посмотрите какая красота, я не могу 😭
+Сегодня представляю вам доску miro про Miley Cyrus🌷
+🌷 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+🌷рассказ про Майли и два задания к нему
+🌷знакомство с двумя песнями Майли</description>
+      </offer>
+      <offer id="7260" available="true">
+        <url>https://t.me/hellodaryy/726</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/726.jpg</picture>
+        <name>Daniel Radcliffe</name>
+        <description>Иногда, когда я создаю материалы (особенно тематические), встает вопрос - что же придумать?
+Все же мое направление - Гарри Поттер, а кто с ним ассоциируется? Конечно же Дэниел Рэдклифф
+Сегодня представляю вам доску miro про Daniel Radcliffe 🩶
+🩶 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+🩶рассказ про Майли и два задания к нему
+🩶задание на говорение</description>
+      </offer>
+      <offer id="7400" available="true">
+        <url>https://t.me/hellodaryy/740</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/740.jpg</picture>
+        <name>miro по сериалу Phineas and Ferb</name>
+        <description>Последняя летняя доска miro по сериалу Phineas and Ferb
+Здесь вы найдете задания по трем сериям из третьего сезона, а сама доска просто нереально красивая в стиле Перри Утконоса! 🧡
+(последняя летняя доска, но уже есть планы на осень и зиму 😏)
+🧡 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+🧡говорение (вопросы по сериалу)
+🧡разогрев с песней и задание к ней</description>
+      </offer>
+      <offer id="7670" available="true">
+        <url>https://t.me/hellodaryy/767</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/767.jpg</picture>
+        <name>Emotions в стиле Inside Out</name>
+        <description>Объемная и максимально интерактивная доска miro по теме Emotions в стиле Inside Out 🩵
+🩵Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+🩵одно задание на говорение по фильму Головоломка
+🩵девять заданий на лексику Emotions
+🩵три задания с чтением рассказа про персонажей из Головоломки
+🩵одно задание с отрывком из фильма Головоломка (первая часть)</description>
+      </offer>
+      <offer id="7950" available="true">
+        <url>https://t.me/hellodaryy/795</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/795.jpg</picture>
+        <name>miro по безумно милому фильму Letters to Juliet</name>
+        <description>Еще в начале лета хотела сделать эту доску, но получилось к концу лета, зато самое время провести атмосферный урок!
+Приготовила для вас доску miro по безумно милому фильму Letters to Juliet 🍂
+Фильм и отрывки очень простые, поэтому очень рекомендую провести этот урок!
+🍂Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+🍂задание на знакомство с персонажами
+🍂задание на описание персонажей</description>
+      </offer>
+      <offer id="8660" available="true">
+        <url>https://t.me/hellodaryy/866</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/866.jpg</picture>
+        <name>осень и просто нереально атмосферное оформление</name>
+        <description>🍂Наступает моя любимая пора! 🍂
+В том году я делала классный осенний воркбук, а в этом году решила сделать по нему доску miro Autumn Vibes 🍂
+На доске много лексики по теме осень и просто нереально атмосферное оформление 🍂
+🍂Все задания интерактивные, помогут вам нескучно провести урок
+🍂vocabulary Autumn Activities
+🍂vocabulary Autumn Food</description>
+      </offer>
+      <offer id="8690" available="true">
+        <url>https://t.me/hellodaryy/869</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/869.jpg</picture>
+        <name>Gilmore Girls</name>
+        <description>Один из самых осенних и атмосферных сериалов Gilmore Girls, поэтому предлагаю окунуться вам в атмосферу классный девчонок ✨
+Приготовила для вас доску miro по ламповому сериалу Gilmore Girls ❤️
+Сериал отлично подойдет для просмотра на английском языке, а доска поможет вам и вашим ученикам интересно провести урок
+🎞️Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+🎞️задание на знакомство с персонажами
+🎞️задание на описание персонажей</description>
+      </offer>
+      <offer id="8770" available="true">
+        <url>https://t.me/hellodaryy/877</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/877.jpg</picture>
+        <name>O Captain! My Captain</name>
+        <description>Одна из самых тяжелых досок, но не по исполнению, а потому что этот фильм в самое сердце ❤️
+На самом деле это один из лучших фильмов и его дожен посмотреть каждый (один раз в жизни, потому то он режет по душе и разбивает сердце, но должен) 🎞️
+Конечно же, это безумная уютная и атмосферная доска miro по фильму Dead Poets Society 🤎
+Доска очень объемная, не для одного урока или для длительного клуба 🎞️
+Даже если вы не ведете разговорные уроки для взрослых (или старших подростков) и эта доска вам не пригодится в работе, вы можете просто посмотреть фильм и сделать задания сами 🎞️
+🎞️Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:</description>
+      </offer>
+      <offer id="8800" available="true">
+        <url>https://t.me/hellodaryy/880</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/880.jpg</picture>
+        <name>miro Autumn Vibes 2</name>
+        <description>Подготовила для вас к воркбуку Autumn Vibes 2.0 (который, кстати, только выйдет на следующей неделе) очень осеннюю и атмосферную доску miro Autumn Vibes 2.0 🍂
+Доска получилась действительно большой и наполненной, можно ее разделить на три урока 🍂
+Все задания интерактивные, помогут вам интересно провести урок и добавить ламповой осенней атмосферы 🍂
+🍂vocabulary Autumn Food
+🍂vocabulary Autumn Clothes
+🍂vocabulary Autumn Cozy Things</description>
+      </offer>
+      <offer id="10100" available="true">
+        <url>https://t.me/hellodaryy/1010</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1010.jpg</picture>
+        <name>Hygge</name>
+        <description>Всегда хочется сделать такие материалы, которых нет ни у кого и взять такие темы, которые берут очень редко 🤍🤍🤍
+Сейчас промозглый ноябрь, тот месяц, когда нам не хватает солнца и тепла, поэтому выбор темы оказался очевиден 🤍
+Хочу представить вам новую доску на платформе miro по теме Hygge 🤍
+Все задания интерактивные, помогут вам интересно и уютно провести урок, а также обсудить и узнать что же это за датский феномен под названием Хюгге 🤍
+🤍vocabulary Hygge
+🤍reading What is Hygge?</description>
+      </offer>
+      <offer id="10160" available="true">
+        <url>https://t.me/hellodaryy/1016</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1016.jpg</picture>
+        <name>My dear girls</name>
+        <description>Эта тема, конечно же, не новая и у многих есть интересные материалы 💗
+Но мне захотелось сделать что-то свое, красивое, эстетичное, информативное, полезное и грамотно наполненное 💗
+Сегодня мы заботимся о себе и я представлю вам доску на платформе miro по теме Self-care 💗
+Обсудите с ученицами свое здоровье, заботу о себе, а главное - поговорите о любви к себе! 💗
+💗vocabulary Self-care
+💗reading What is Self-care?</description>
+      </offer>
+      <offer id="10400" available="true">
+        <url>https://t.me/hellodaryy/1040</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1040.jpg</picture>
+        <name>Черная пятница</name>
+        <description>Эта доска была с создана с мыслью о том, что получится самая настоящая ерунда, а мало того, что я создала ее очень быстро, так она и получилась нереально классная! 🧡
+Сегодня делюсь с вами доской на платформе miro по теме Black Friday ❤️‍🩹
+На доске вы найдете очень классные задания и узнаете много всего нового! 🧡
+🧡vocabulary Black Friday
+❤️‍🩹reading What is Black Friday?
+🧡watching video about Black Friday</description>
+      </offer>
+      <offer id="12420" available="true">
+        <url>https://t.me/hellodaryy/1242</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1242.jpg</picture>
+        <name>появилась давно</name>
+        <description>Это доска появилась давно, но не было случая вам ее показать 💓
+Совсем скоро приближается праздник сильных женщин и сегодня я хочу с вами поделиться доской о сильной женщине, которая в кино любит играть так же сильных женщин! ✨
+Сегодня представляю вам доску miro про Florence Pugh 🎞️
+📎 Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+🎞️рассказ про Флоренс и задание к нему
+🎞️интервью с Флоренс и задание к нему</description>
+      </offer>
+      <offer id="12690" available="true">
+        <url>https://t.me/hellodaryy/1269</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1269.jpg</picture>
+        <name>Good Luck to everyone</name>
+        <description>Еще один файлик, а точнее доска miro (уж очень классно вышло, поэтому делюсь с вами) по теме Saint Patrick’s Day ❄️
+Отлично подойдет для интерактивного урока, чтобы познакомиться с этим праздником, прочитать историю, традиции и кто такие лепреконы ❄️
+✨vocabulary Saint Patrick’s Day
+❄️reading St. Patrick's Day Traditions
+✨reading The Story of St. Patrick’s Day
+❄️reading Who Are Leprechauns and Why Are They a Symbol of St. Patrick’s Day?</description>
+      </offer>
+      <offer id="12860" available="true">
+        <url>https://t.me/hellodaryy/1286</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1286.jpg</picture>
+        <name>Cosmetics</name>
+        <description>Перед предыдущем воркбуком я создала в первую очередь доску miro и сегодня делюсь с вами Beauty Through the Decades and Past Simple 🩰
+Наполненная доска, где можно найти и говорение, и чтение, и лексику, и грамматику (вы сами можете комбинировать задания и убирать или отправлять в дз) 🩰
+Что вы найдете на доске:
+🩰вопросы для обсуждения бьюти ухода и макияжа
+🩰описание бьюти ухода и макияжей 1980ых, 1990ых, 2000ых, 2010ых и нашем времени
+🩰три задания по тексту</description>
+      </offer>
+      <offer id="12940" available="true">
+        <url>https://t.me/hellodaryy/1294</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1294.jpg</picture>
+        <name>April Fools' Day: социальные темы</name>
+        <description>Хотелось придумать что-то очень интересное на Первое Апреля, а не просто про шутки и вообще праздник целом, но при этом сделать что-то необычное 🌷
+Потом я думала думала, и у меня пришла идея сделать тематическую неделю на разные социальные темы 🌷
+🌷 И сложив Первое Апреля и социальные вопросы пришла идея о создании доски miro по теме Pranks – Funny or Dangerous?
+Такой темы я еще не видела, но мне кажется, что она очень актуальна 🌷
+Что вы найдете на доске:
+🌷vocabulary Pranks and Fun</description>
+      </offer>
+      <offer id="13020" available="true">
+        <url>https://t.me/hellodaryy/1302</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1302.jpg</picture>
+        <name>Lovers or Abusers?</name>
+        <description>Мне сказали, что материалов по теме green and red flags уже очень много и их сделали все ⤵️
+Но такой как я, еще не сделала никто, - ответила я 🤪
+И мне кажется, что именно такого урока еще нет, а вышел он безумно классный ❣️
+Представляю вам доску miro по теме Red and Green Flags in Relationships на которой вы найдете 12 тиндер профилей и с помощью них разберете green and red (and yellow) flags ✨
+💌 Кстати, можно использовать и мужские и женские профили, а можно выбрать какие-то одни
+Что вы найдете на доске:</description>
+      </offer>
+      <offer id="13140" available="true">
+        <url>https://t.me/hellodaryy/1314</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1314.jpg</picture>
+        <name>на платформе miro Bullying at Hogwarts</name>
+        <description>Такая у нас выдалась социальная неделя острых тем, но все началось именно с этой доски 🤍
+🤍 Было ли у вас такое, что ученик жаловался на то, что его/ее буллят, но вы не знаете как мягко поговорить на эту тему?
+Предлагаю вам очень классную доску на платформе miro Bullying at Hogwarts 🤍
+С помощью нее вы обсудите, какие виды буллинга бывают, какому буллинг подвергался Гарри в фильме Кубок Огня и как можно ему противостоять или поддержать 💙
+Что вы найдете на доске:
+🔗vocabulary bullying</description>
+      </offer>
+      <offer id="13170" available="true">
+        <url>https://t.me/hellodaryy/1317</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1317.jpg</picture>
+        <name>How are you Really?</name>
+        <description>❤️‍🩹 Как вы чувствуете себя по настоящему? ❤️‍🩹
+По самочувствию в последнее время решила в срочном порядке сделать доску miro по актуальной теме Emotional Burnout ❤️‍🩹
+❤️‍🩹Предлагаю вам и вашим ученикам осудить как появляется эмоциональное выгорание и как с ним бороться ❤️‍🩹
+Что вы найдете на доске:
+❤️‍🩹vocabulary Sings of Burnout
+❤️‍🩹reading Emotional Burnout</description>
+      </offer>
+      <offer id="13270" available="true">
+        <url>https://t.me/hellodaryy/1327</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1327.jpg</picture>
+        <name>Space Journey</name>
+        <description>Космиииииическая и звездная доска miro по теме Space Journey
+Вместе с астронавтом вы отправитесь в космическое путешествие, где узнаете про солнце, планеты, ракеты и спутники, кометы и созвездия знаков зодиака 🌂
+Что вы найдете на доске:
+что такое солнце
+что такое планеты и четыре задания к тексту
+что такое ракета и спутник и три задания к тексту</description>
+      </offer>
+      <offer id="13490" available="true">
+        <url>https://t.me/hellodaryy/1349</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1349.jpg</picture>
+        <name>Music Around Us?</name>
+        <description>Вы любите музыку? Я - да, хотя раньше была очень критична к музыке (слушала только на английском и хейтила все русское) 🩰
+А сейчас у меня большой спектр любимой музыки в разных жанрах и на разных языках, а на концертах в том году в общей сложности я провела 39 часов 🩰
+🩰 Подготовила для вас доску miro по теме Music Around Us, где вы найдете обсуждение жанров, а также поговорите о любимой музыке и любимых исполнителях 🩰
+А еще послушаете песни и узнаете разные интересные факты 🩰
+Что вы найдете на доске:
+🩰vocabulary Geners</description>
+      </offer>
+      <offer id="13580" available="true">
+        <url>https://t.me/hellodaryy/1358</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1358.jpg</picture>
+        <name>Погадаем?</name>
+        <description>Ну честно, гадаете на таро? 😅
+Согласимся, что сейчас это очень и очень популярная штука (и хобби!) 🌂
+Очень хотелось сделать вам что-то интересное и необычное, поэтому пришла идея сделать доску miro по теме Tarot 🌂
+Самая соль а этой доске, что конце урока вы можете задать вопрос, вытащить карты и попробовать описать предсказание! 🌂
+Что вы найдете на доске:
+🌂 reading Tarot Readers</description>
+      </offer>
+      <offer id="14040" available="true">
+        <url>https://t.me/hellodaryy/1404</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1404.jpg</picture>
+        <name>Beach Holiday</name>
+        <description>Подготовила для вас летнюю доску на платформе miro по теме Beach Holiday 🌟
+На доске много лексики по теме лето, отличный летний материал для ваших учеников! 🌷
+🐚Все задания интерактивные, помогут вам нескучно провести урок 🌷
+🌟vocabulary Beach Objects
+🌟speaking Beach Objects
+🌟writing Beach Objects</description>
+      </offer>
+      <offer id="14740" available="true">
+        <url>https://t.me/hellodaryy/1474</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1474.jpg</picture>
+        <name>France</name>
+        <description>Сегодня начинаю вам рассказывать про большой блок материалов по разным странам!
+Одна из стран, где я хочу побывать - это Франция, даже учу французский язык
+Поэтому для вас готова доска miro по теме France , где вы найдете тематическую лексику, чтение про достопримечательность и кузню, а также классные задания для обсуждения
+Что вы найдете на доске:
+◻️reading Landmarks
+◻️reading French Cuisine</description>
+      </offer>
+      <offer id="14780" available="true">
+        <url>https://t.me/hellodaryy/1478</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1478.jpg</picture>
+        <name>на платформе miro по следующей стране Italy</name>
+        <description>Именно так я могу описать сегодняшнюю доску на платформе miro по следующей стране Italy 🤍
+Доска вышла очень красивой, эстетичной, а главное наполненной интересными заданиями про достопримечательности, а так же с заданиями про еду и пасту 🤤
+Что вы найдете на доске:
+🤍reading Duomo
+🤍reading Colosseum
+🤍reading Pisa Tower</description>
+      </offer>
+      <offer id="14830" available="true">
+        <url>https://t.me/hellodaryy/1483</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1483.jpg</picture>
+        <name>miro</name>
+        <description>Ваши ученики путают Англию и Америку? А знают в чем разница Англии и Великобритании? 🤍
+Для вас готова максимально наполненная доска miro, где вы и ваши ученики узнаете больше про the UK, England, Scotland, Wales and Norther Ireland 🤍
+Доска вышла достаточно большой и ее можно разделить на 5 уроков (1 урок - одна страна) 🤍
+Что вы найдете на доске:
+🤍reading the UK
+🤍reading England</description>
+      </offer>
+      <offer id="14930" available="true">
+        <url>https://t.me/hellodaryy/1493</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1493.jpg</picture>
+        <name>The USA</name>
+        <description>Моя большая мечта - побывать в Америке, я очень интересуюсь ее культурой, историей, литературой, музыкой и много чем еще 🩵
+А среди ваших учеников есть любители Америки? Тогда эта доска для вас! 🩵
+🩵 Подготовила для вас доску miro по теме the USA, с помощью этого материала вы сможете обсудить лексику, интересные факты, достопримечательности, кухню и многое другое! 🩵
+Что вы найдете на доске:
+🩵reading Amazing Places
+🩵reading Food in the USA</description>
+      </offer>
+      <offer id="14970" available="true">
+        <url>https://t.me/hellodaryy/1497</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1497.jpg</picture>
+        <name>Winter is coming</name>
+        <description>Одна из моих самых любимых досок miro по теме Countries - Iceland 🩵
+Вы просто посмотрите на оформление! Выглядит максимально классно, снежно и эстетично 🩵
+На этой доске вы познакомитесь не только с природой и достопримечательностями Исландии, а также обсудите фильмы и сериалы, которые были сняты в этих прекрасных пейзажах! 🩵
+Что вы найдете на доске:
+🩵reading Nature and traditions
+🩵reading Hallgrímskirkja</description>
+      </offer>
+      <offer id="15040" available="true">
+        <url>https://t.me/hellodaryy/1504</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1504.jpg</picture>
+        <name>Gamarjoba</name>
+        <description>Необычное приветствие? А что оно нам говорит? ⤵️
+Что сегодня я делюсь с вами доской miro про Georgia (не штат, а страна)
+На самом деле у меня есть ученица, которая обожает Грузию, а другая жила в Грузии, поэтому я сказала, что этой доске точно быть! 🎞️
+Обсудите с учениками традиции, а так же поговорите про традиционную грузинскую кухню (перед уроком советую поесть, желательно грузинской кухни 🤤)
+Что вы найдете на доске:
+🎞️reading Georgia</description>
+      </offer>
+      <offer id="15090" available="true">
+        <url>https://t.me/hellodaryy/1509</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1509.jpg</picture>
+        <name>Nihao</name>
+        <description>Думаю, что по приветствию вы догадались, что сегодня у меня для вас доска miro по стране China 💔
+Очень актуальная страна на данный момент о очень многие посещают Китай, поэтому с учениками вы можете обсудить традиции, достопримечательности и кухню 💔
+Что вы найдете на доске:
+💔reading China
+💔reading Chinese cuisine
+💔 рекомендуемый уровень А2 💔</description>
+      </offer>
+      <offer id="15140" available="true">
+        <url>https://t.me/hellodaryy/1514</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1514.jpg</picture>
+        <name>Egypt</name>
+        <description>Сегодня последняя доска, но она моя самая любимая! ⚜️
+Делюсь с вами уроком на платформе miro по теме Egypt ⚜️
+Очень красивая доска в египетском стиле, которая поможет вам погрузиться в атмосферу и узнать много интересных фактов про Египет ⚜️
+Задания на доске все красочные и интерактивные ⚜️
+Что вы найдете на доске:
+⚜️reading Gods of Ancient Egypt</description>
+      </offer>
+      <offer id="15510" available="true">
+        <url>https://t.me/hellodaryy/1551</url>
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1551.jpg</picture>
+        <name>Gravity Falls. Boards, Episodes 1-4</name>
+        <description>По каждому воркбуку Gravity Falls у меня готовы доски для любителей miro 🧡🧡🧡
+Все доски наполнены заданиями (заданий может быть даже много, часть вы можете убрать или добавить в домашку), а так же все задания интерактивные (кстати, интересно будет и взрослым и детям!) 🧡
+Season 1, episode 1 ❤️‍🩹
+🧡задание на знакомство и описание персонажей
+🧡пять отрывков из серии
+🧡девятнадцать заданий к отрывкам</description>
+      </offer>
+      <offer id="15650" available="true">
+        <url>https://t.me/hellodaryy/1565</url>
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1565.jpg</picture>
+        <name>Gravity Falls. Boards, Episodes 5-8</name>
+        <description>Уже готовы доски miro по 5-8 сериям сериала Gravity Falls 🙂
+Все доски наполнены заданиями (заданий может быть даже много, часть вы можете убрать или добавить в домашку), а так же все задания интерактивные (кстати, интересно будет и взрослым и детям!) ⤵️
+Gravity Falls. Season 1, episode 5 ❤️
+☁️ задание на описание персонажей
+☁️ пять отрывков из серии
+☁️ девятнадцать заданий к отрывкам</description>
+      </offer>
+      <offer id="15850" available="true">
+        <url>https://t.me/hellodaryy/1585</url>
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1585.jpg</picture>
+        <name>Gravity Falls. Boards, Episodes 9-12</name>
+        <description>А вот доски miro по 9-12 сериям сериала Gravity Falls ▫️
+Все доски наполнены заданиями (заданий может быть даже много, часть вы можете убрать или добавить в домашку), а так же все задания интерактивные (кстати, интересно будет и взрослым и детям!) ⤵️
+Gravity Falls. Season 1, episode 9 💚
+▫️ шесть отрывков из серии
+💚 двадцать одно задание к отрывкам
+Gravity Falls. Season 1, episode 10 💚</description>
+      </offer>
+      <offer id="15980" available="true">
+        <url>https://t.me/hellodaryy/1598</url>
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1598.jpg</picture>
+        <name>Heeeeelloooow everyone</name>
+        <description>Мы уже на финишной прямой! И сегодня готовы доски miro по 13-16 сериям сериала Gravity Falls 🤍
+Не верю, что осталось всего 4️⃣ доски по ВСЕМУ сезону (это правда очень большой объем работы!)
+Все доски наполнены заданиями (заданий может быть даже много, часть вы можете убрать или добавить в домашку), а так же все задания интерактивные (кстати, интересно будет и взрослым и детям!) 🔹
+Gravity Falls. Season 1, episode 13 💙
+🔹 шесть отрывков из серии
+🔹 двадцать одно задание к отрывкам</description>
+      </offer>
+      <offer id="16100" available="true">
+        <url>https://t.me/hellodaryy/1610</url>
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1610.jpg</picture>
+        <name>Gravity Falls. Boards, Episodes 17-20</name>
+        <description>Наконец-то последние доски miro по 17-20 сериям сериала Gravity Falls 🧣
+Я правда очень рада, что наконец-то закончила эти доски и воркбуки (всего 20 досок и 20 воркбуков) 🥹
+Все доски наполнены заданиями (заданий может быть даже много, часть вы можете убрать или добавить в домашку), а так же все задания интерактивные (кстати, интересно будет и взрослым и детям!) 🧣
+Gravity Falls. Season 1, episode 17 🧣
+🧣 шесть отрывков из серии
+🧣 двадцать пять заданий к отрывкам</description>
+      </offer>
+      <offer id="16290" available="true">
+        <url>https://t.me/hellodaryy/1629</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1629.jpg</picture>
+        <name>Let's Get to Know Each Other</name>
+        <description>Первое впечатление очень важно, поэтому для вас готова очень классная эстетик доска на платформе miro по теме Let’s get to know each other [first lesson for teens A2] ⚜️
+Хотите реально классно провести первый урок? Тогда это то, что вам однозначно надо! ⚜️
+Все задания интерактивные, помогут вам нескучно провести урок ⚜️
+⚜️ три задания на разогрев и говорение
+⚜️ семь заданий на лексику
+⚜️ пять заданий на грамматику</description>
+      </offer>
+      <offer id="16380" available="true">
+        <url>https://t.me/hellodaryy/1638</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1638.jpg</picture>
+        <name>Welcome Back</name>
+        <description>Решила в этом году к первым урокам готовиться заранее! ⚜️
+⚜️ Многие мои ученики уходят летом на каникулы (дети и подростки) и сегодня я подготовила для них замечательный первый урок в этом году
+Доска на платформе miro по теме Welcome back [first lesson after summer for teens A2]⚜️
+Облегчите себе работу, так как первый урок для вас и ваших учеников уже готов! ⚜️
+Все задания интерактивные, помогут вам нескучно провести урок ⚜️
+🩰 четыре задания на разогрев и говорение</description>
+      </offer>
+      <offer id="16750" available="true">
+        <url>https://t.me/hellodaryy/1675</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1675.jpg</picture>
+        <name>Knives Out</name>
+        <description>Я хотела подобрать какой-нибудь популярный фильм про школу с осеннем оформлением, но что-то мне ничего не заходило или попадались не супер популярные фильмы ▫️
+А хотелось какой-то супер осенней атмосферы и, о чудо, мне пришло в голову сделать доску miro по одному их моих любимых фильмов Knives Out 💚
+Давно не делала доски по фильмам и мне кажется, что вышло очень вайбово и отлично подойдет для урока осенним днем ⤵️
+➡️ Доска подойдет для разговорных клубов, киноклубов и разговорных уроков:
+▫️три задания с описанием персонажей
+💚два задания по фильму</description>
+      </offer>
+      <offer id="16900" available="true">
+        <url>https://t.me/hellodaryy/1690</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1690.jpg</picture>
+        <name>New School Year Resolutions</name>
+        <description>Ребята, это доска теперь в мои любимчиках! Ну она мне так нравится, с ума сойти 💚
+Делюсь с вами доской на платформе miro по теме New School Year Resolutions + to be going to ▫️
+Я уже взяла этот урок со своими учениками и мы классно провели время, обсуждая о наших планах на этот учебный год! 💚
+Все задания интерактивные, помогут вам нескучно провести урок ⤵️
+💚 три задания на разогрев
+▫️ правило и три задания на грамматику</description>
+      </offer>
+      <offer id="17230" available="true">
+        <url>https://t.me/hellodaryy/1723</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1723.jpg</picture>
+        <name>Autumn Around Us</name>
+        <description>Для любителей продуктивных, красивых и полезных уроков!
+Делюсь с вами доской на платформе miro по теме Autumn Around Us + Present Continuous
+Обсудите с учениками ваше осеннее настроение, идеальный осенний день, а также повторите грамматическую тему Present Continuous 🐦‍🔥
+Все задания интерактивные, помогут вам нескучно провести урок 🐦‍🔥
+🐦‍🔥 четыре задания на разогрев и говорение
+🐦‍🔥 шесть заданий на лексику</description>
+      </offer>
+      <offer id="17610" available="true">
+        <url>https://t.me/hellodaryy/1761</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1761.jpg</picture>
+        <name>Talking About Feelings</name>
+        <description>Хоть и эстетик, но очень полезная и структурированная доска 😋
+Делюсь с вами доской на платформе miro по теме Talking About Feelings + feel + adjective / feel like + verb-ing / wish + past simple [teens/adults] 💓
+Эта доска помодет вам и вашим ученикам обсудить чувства, а так же изучить грамматические структуры feel + adjective / feel like + verb-ing / wish + past simple 😌
+Все задания интерактивные, помогут вам нескучно провести урок, а сама доска супер эстетичная ⤵️
+🩰 два задания на разогрев и говорение
+🩰 четыре задания на лексику</description>
+      </offer>
+      <offer id="18010" available="true">
+        <url>https://t.me/hellodaryy/1801</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1801.jpg</picture>
+        <name>Seasonal Food and Drinks</name>
+        <description>Для обсуждения осенних вкусняшек делюсь с вами новой доской! 🍂
+Доска на платформе miro по теме Seasonal Food And Drinks + Past Simple vs Present Perfect [adults] 🍂
+Замечательная доска для обсуждения осенних и сезонных блюд, а так же повторить Past Simple vs Present Perfect 🍂
+Все задания интерактивные, помогут вам нескучно провести урок, а сама доска атмосферная 🍂
+🍂 три задания на разогрев и говорение
+🍂 пять заданий на лексику</description>
+      </offer>
+      <offer id="18180" available="true">
+        <url>https://t.me/hellodaryy/1818</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1818.jpg</picture>
+        <name>Childhood Memories</name>
+        <description>Доска которая пошла как по маслу! Задания сразу встали на свое место и вышло очень красиво и лаконично! ⚜️
+Делюсь с вами доской на платформе miro по теме Childhood Memories + Past Simple [for teens/adults A2] ⚜️
+Замечательная доска для обсуждения детских воспоминаний, а так же повторить Past Simple ⚜️
+Все задания интерактивные, помогут вам нескучно провести урок, а сама доска супер эстетичная ⚜️
+⚜️ три задания на разогрев и говорение
+⚜️ пять заданий на лексику</description>
+      </offer>
+      <offer id="18270" available="true">
+        <url>https://t.me/hellodaryy/1827</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1827.jpg</picture>
+        <name>Time Management</name>
+        <description>Как все успеть? Обсудите свои задачи с учениками! 🤍
+Доска на платформе miro по теме Time management + first &amp; second conditional [adults] 🤍
+Доска также подойдет для осуждения одно из сложных тем английской грамматики first &amp; second conditional 🤍
+Все задания интерактивные, помогут вам нескучно провести урок, а сама доска красива и лаконичная (отлично подойдет для взрослых) 🤍
+🤍 четыре задания на разогрев и говорение
+🤍 четыре задания на лексику</description>
+      </offer>
+      <offer id="18420" available="true">
+        <url>https://t.me/hellodaryy/1842</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1842.jpg</picture>
+        <name>Happy Mother's Day</name>
+        <description>☁️ Завтра обязательно поздравляем своих дорогих мам! ☁️
+Я подготовила для вас доску miro под названием Happy Mother’s Day к этому празднику, чтобы вы смоги обсудить со своими учениками почему важно поздравить мам и откуда произошел День Матери ☁️
+Все задания интерактивные, помогут вам нескучно провести урок, а сама доска очень красивая (в копилку моих любимых) ⤵️
+☁️ what is Mother’s Day?
+☁️ why Do We Celebrate It?
+☁️ the Role of Mothers</description>
+      </offer>
+      <offer id="19500" available="true">
+        <url>https://t.me/hellodaryy/1950</url>
+        <price>1600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1950.jpg</picture>
+        <name>Последние материалы 2025 года</name>
+        <description>Подготовила для вас сет из четырех досок на платформе miro в формате winter arc 🐦‍🔥
+Эти доски отлично подойдут для рефлексии 2025 года, обсуждения любимых моментов, трендов и планов на будущий год 🐦‍🔥
+А теперь подробнее 🐦‍🔥
+My Favourite Memory of 2025 [A2] + Past Simple 🐦‍🔥
+🐦‍🔥 два задания на разогрев и говорение
+🐦‍🔥 три задания на лексику</description>
+      </offer>
+      <offer id="20490" available="true">
+        <url>https://t.me/hellodaryy/2049</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2049.jpg</picture>
+        <name>Personality &amp; First Impressions</name>
+        <description>Продолжаем обсуждать характер и людей (обсуждаем, но не осуждаем) 🌷
+Для любителей интерактивных досочек подготовила урок на платформе miro по теме Personality &amp; First Impressions + adverbs of frequency 🌷
+Доска несложная и отлично подойдет для учеников начального уровня, а оформление интерактив придаст уроку интерес 🌷
+Что вы найдете на доске 🌷
+🌷 четыре задания на разогрев и говорение
+🌷 шесть заданий на лексику</description>
+      </offer>
+      <offer id="20550" available="true">
+        <url>https://t.me/hellodaryy/2055</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2055.jpg</picture>
+        <name>Groundhog Day</name>
+        <description>Милая доска на платформе miro по теме Groundhog Day 🪵
+Для любителей интерактива и онлайн уроков на miro подготовила для вас классный материал, который точно поможет освежить урок и пообщаться на интересную тему ✨🎞️
+Что вы найдете на доске ⤵️
+🎞️ три задания на разогрев и говорение
+🎞️ шесть заданий на лексику
+🎞️ пять заданий на аудирование</description>
+      </offer>
+      <offer id="20760" available="true">
+        <url>https://t.me/hellodaryy/2076</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2076.jpg</picture>
+        <name>Growing Up Too Fast</name>
+        <description>Сегодня у меня урок на платформе miro по теме Growing Up Too Fast + Present Perfect vs Past Simple для учеников (старшие подростки/взрослые) ❤️‍🩹❤️‍🩹
+Доска очень наполненная (по этому некоторые задания вы можете отправить на домашку или разделить на два урока), а главное - интерактивная (я очень люблю на уроке брать именно интерактивные и устные задания), особенно советую настолку грамматика + говорение ❤️‍🩹
+Что вы найдете на доске ❤️‍🩹
+❤️‍🩹 два задания на знакомство с персонажами
+❤️‍🩹 три задания на разогрев и говорение
+❤️‍🩹 пять заданий на лексику</description>
+      </offer>
+      <offer id="21060" available="true">
+        <url>https://t.me/hellodaryy/2106</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2106.jpg</picture>
+        <name>Maslenitsa</name>
+        <description>Делюсь доской на платформе miro по теме Maslenitsa 🌷
+Сама доска очень красочная, где вы найдете много интересных фактов, а также интерактивных моментов, очень советую задание «какая ты начинка у блинчика» 😋
+Что вы найдете на доске 🌷
+🌷 четыре задания на разогрев и говорение
+🌷 пять заданий на лексику
+🌷 девять заданий на чтение</description>
+      </offer>
+      <offer id="21180" available="true">
+        <url>https://t.me/hellodaryy/2118</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2118.jpg</picture>
+        <name>Spring Lifestyle</name>
+        <description>Делюсь доской на платформе miro по теме Spring Lifestyle 🤍
+Обсудите с учениками весну, чтобы хотели поменять весной или начать, а так же сравните зимние и весенние привычки 🤍
+🤍 Доска очень полезная, но красивая и эстетичная (хотя очень девчачья) 🤍
+Что вы найдете на доске:
+🤍 три задания на разогрев и говорение
+🤍 пять заданий на лексику</description>
+      </offer>
+      <offer id="21260" available="true">
+        <url>https://t.me/hellodaryy/2126</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2126.jpg</picture>
+        <name>Happy Women’s Day</name>
+        <description>Делюсь доской на платформе miro по теме Women’s Day 🌷
+Супер эстетик доска, которая точно повысит вам настроение и поможет интересно провести урок 🌷🌷
+🌷 Я уже со своими ученицами его взяла и они остались в восторге! 🌷
+Что вы найдете на доске:
+🌷 три задания на разогрев и говорение
+🌷 три задания на лексику</description>
+      </offer>
+      <offer id="21510" available="true">
+        <url>https://t.me/hellodaryy/2151</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2151.jpg</picture>
+        <name>Makeup &amp; Skincare</name>
+        <description>Делюсь доской на платформе miro по теме Makeup &amp; Skincare и грамматике
+gerunds &amp; infinitives 🧣
+Если вы хотели обсудить с вашими ученицами бренды косметики (или если вам интересна эта тема), то доска идеально подойдет для вашего урока 🧣🧣
+Что вы найдете на доске 🧣
+🧣 пять заданий на разогрев и говорение
+🧣 десять заданий на лексику</description>
+      </offer>
+      <offer id="21840" available="true">
+        <url>https://t.me/hellodaryy/2184</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2184.jpg</picture>
+        <name>Spring Activities</name>
+        <description>Делюсь доской на платформе miro по теме Spring Activities и грамматике like/don’t like + gerund для самых младших учеников 🫂
+Доска очень классная, постаралась сделать ее универсальной для девочек и мальчиков, так что отличный вариант поговорить о весенних занятиях! 🌸💙
+Что вы найдете на доске ⬇️
+🟡 три задания на разогрев и говорение
+🟢 четыре задания на лексику еда
+🌷 четыре задания на лексику активности</description>
+      </offer>
+      <offer id="22100" available="true">
+        <url>https://t.me/hellodaryy/2210</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2210.jpg</picture>
+        <name>Staries</name>
+        <description>Очень классная доска miro по теме Space Tourism, которая точно войдет в топ моих любимых! 🩶
+🩶 Отправляйтесь в космический трип, где узнаете про путешествия в космос, а так же обсудите космические фильмы 🩶
+Что вы найдете на доске:
+🩶 четыре задания на разогрев и говорение
+🩶 три задания на лексику
+🩶 шесть заданий на чтение</description>
+      </offer>
+      <offer id="22260" available="true">
+        <url>https://t.me/hellodaryy/2226</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2226.jpg</picture>
+        <name>Teenagers &amp; Responsibility и грамматике</name>
+        <description>Делюсь доской на платформе miro по теме Teenagers &amp; Responsibility и грамматике
+Доска максимально объемная, я ее разбила на части и мне хватило на три урока! Так что отличный материал 🩶
+Что вы найдете на доске 🩶
+🩶 четыре задания на разогрев и говорение
+🩶 пять заданий на лексику
+🩶 правило и пять заданий на грамматику</description>
+      </offer>
+      <offer id="22340" available="true">
+        <url>https://t.me/hellodaryy/2234</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2234.jpg</picture>
+        <name>I'll Do It Later</name>
+        <description>Делюсь доской на платформе miro по статье теме I’ll do it later 🤍🎞️
+Это мой первый опыт работы со статьей, но мне так понравилось оформлять материалы по статье! А еще очень классное оформление, надеюсь вам тоже понравится 🎞️
+Что вы найдете на доске ⤵️
+🎞️ три задания на разогрев и говорение
+🎞️ два задания на лексику
+🎞️ шесть заданий на чтение</description>
+      </offer>
+      <offer id="22500" available="true">
+        <url>https://t.me/hellodaryy/2250</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2250.jpg</picture>
+        <name>It's Picnic Time</name>
+        <description>Делюсь доской на платформе miro по теме It’s picnic time и грамматике countable/uncountable + a/an/any/some 🌷
+Объемная доска с кучей заданий (мы можете использовать только те, которые вам нравятся или отставить часть на дз), интерактивным говорением и классным весенним настроением 🌷🌷
+Что вы найдете на доске 🌷
+🌷 четыре задания на разогрев и говорение
+🌷 четыре задания на лексику еда
+🌷 четыре задания на лексику активности</description>
+      </offer>
+      <offer id="22820" available="true">
+        <url>https://t.me/hellodaryy/2282</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2282.jpg</picture>
+        <name>Good mo darlings</name>
+        <description>Делюсь доской на платформе miro по теме Birthday Party 🩷
+🩷 Эта доска точно идет в мой топ любимчиков 🩷
+Урок для Дня Рождения (про День Рождения, про вечеринку) для teens и adults, а так же для мальчиков и девочек и на повторение грамматики past simple vs be going to
+🩷 Весь урок сопровождается классными котиками в пати шапочках и забавный рассказом про то, как кот сел на торт 🩷 🤪
+Что вы найдете на доске 🩷
+🩷три задания на разогрев</description>
+      </offer>
+      <offer id="23110" available="true">
+        <url>https://t.me/hellodaryy/2311</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2311.jpg</picture>
+        <name>What's in the bag?</name>
+        <description>Для самых aesthetics girls (но еще не с очень высоким уровнем английского) подготовила
+доску miro по теме What's in the bag?, а так же на изучение или повторение грамматику have got/has got 💓
+🎞️ Очень полезный и интересный, особенно видео и опиши свою сумку 🎞️
+Что вы найдете на доске:
+🎞️ два задания на разогрев и говорение
+🎞️ шесть задания на лексику</description>
+      </offer>
+      <offer id="23270" available="true">
+        <url>https://t.me/hellodaryy/2327</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2327.jpg</picture>
+        <name>See you next year [last lesson before summer]</name>
+        <description>Пора подводить итоге в этом году! (у меня многие ученики уходят на лето и почти со всеми провела этот урок) 🤍✨
+Сегодня подготовила доску miro по теме See you next year [last lesson before summer], рассчитанную на teens 💙🔹
+На доске вы поговорите про итоги в изучении английского, выучите лексику про учебный год и планы на лето, повторите грамматику, а так же проведете рефлексию по вашим урокам 🔹
+Что вы найдете на доске 🔹
+🔹три задания на разогрев
+🔹семь заданий на лексику</description>
+      </offer>
+      <offer id="23570" available="true">
+        <url>https://t.me/hellodaryy/2357</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2357.jpg</picture>
+        <name>Summer holiday at home</name>
+        <description>Если ваши ученики этом летом скучают дома, для этого подготовила доску miro по теме Summer holiday at home, рассчитанную на teens и adults, а так же на изучение или повторение грамматику Present Continuous ⚜️
+C интересом и пользой обсуждаем свои летние планы, даже если проводим их дома ⚜️
+Что вы найдете на доске ⚜️
+⚜️три задания на разогрев
+⚜️четыре задания на лексику
+⚜️правило и четыре задания на грамматику</description>
+      </offer>
+      <offer id="23720" available="true">
+        <url>https://t.me/hellodaryy/2372</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2372.jpg</picture>
+        <name>Summer Plans Gone Wrong</name>
+        <description>Сегодня делюсь с вами доской miro по теме Summer plans gone wrong для teens и adults с отработкой грамматики Past Continuous + Past Simple ⭐️💙
+🔹 Доска вышла в такой интересном синем стиле, с не менее интересной темой, чтением и аудированием про фейлы во время путешествий 🔹
+🔹 Мы с моими учениками уже похихикали и посочувствовали 🔹
+Что вы найдете на доске 🔹
+🔹три задания на разогрев
+🔹четыре задания на лексику</description>
+      </offer>
+      <offer id="23830" available="true">
+        <url>https://t.me/hellodaryy/2383</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2383.jpg</picture>
+        <name>Crime lovers</name>
+        <description>Ну просто фантастическая детективная доска miro с квестом по теме Crime, а так же на отработку грамматического правила Past Perfect 🩶
+🩶 Почему бы не побыть настоящим детективом и раскрыть преступление? 🩶
+Это не просто урок, а настоящий квест, где вы узнаете, что случилось, совместно с детективом соберете улики, познакомитесь с подозреваемыми, соберете улики, а в конце узнаете (догадаетесь сами!) кто убийца 🩶
+Что вы найдете на доске:
+🩶 два задания на разогрев
+🩶 два задания с лексикой</description>
+      </offer>
+      <offer id="23850" available="true">
+        <url>https://t.me/hellodaryy/2385</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2385.jpg</picture>
+        <name>miro по фильму The Housemaid очень подойдет</name>
+        <description>Тема этой недели Crime, по этому мне показалось, что создать доску miro по фильму The Housemaid очень подойдет! 🖇️🖇️
+Фильм мне понравился, думаю, что будет классно взять его на уроках с учениками и обсудить фильм 🔗
+Доска очень объемная, ее можно разделить на несколько уроков или часть заданий (на ваше усмотрение) убрать или добавить в домашку (я создаю по принципу лучше больше, чтобы вы могли выбрать то, что нравится) 🔗
+🖇️ Рекомендуемый возраст 18+ 🖇️
+🖇️ Доска подойдет для разговорных клубов, книжных и киноклубов, разговорных уроков:
+🖇️ два задания на говорение</description>
+      </offer>
+      <offer id="23940" available="true">
+        <url>https://t.me/hellodaryy/2394</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2394.jpg</picture>
+        <name>Summer Activities for Kids</name>
+        <description>Сегодня делюсь с вами классно летней доской miro по теме Summer Activities для kids ➿➿
+На этом уроке ваши ученики познакомятся с летними занятиями, изучат тему can / can’t, прочитают небольшой рассказ и сыграют в игры ➿〰️
+Что вы найдете на доске ➿➿
+➿три задания на разогрев
+➿шесть заданий на лексику
+➿правило и пять заданий на грамматику;</description>
+      </offer>
+      <offer id="24010" available="true">
+        <url>https://t.me/hellodaryy/2401</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2401.jpg</picture>
+        <name>Famous Summer Destinations</name>
+        <description>Сегодня делюсь с вами яркой и летней доской miro по теме Famous summer destinations для teens и adults с отработкой грамматики Past Simple vs Present Perfect 🌟🌟
+🐚 Доска получилась очень красочная и яркая, направленная на все аспекты и навыки английского, но в большей части на чтение (большая статья про популярные места) и говорение (много интерактива!) 🌷
+Что вы найдете на доске 🐚
+🌟три задания на разогрев
+🌟четыре задания на лексику
+🌟правило и четыре задания на грамматику</description>
+      </offer>
+      <offer id="24260" available="true">
+        <url>https://t.me/hellodaryy/2426</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2426.jpg</picture>
+        <name>по статье</name>
+        <description>Делюсь доской на платформе miro по статье теме Jealous vibes 🧡➖
+Сегодня у нас новая доска про зависть и ревность, отличная статья для обсуждения, еще и с кайфовым оформлением ▫️▫️
+Что вы найдете на доске ⤵️
+▫️ три задания на разогрев и говорение;
+▫️ два задания на лексику;
+▫️ семь заданий на чтение;</description>
+      </offer>
+      <offer id="24530" available="true">
+        <url>https://t.me/hellodaryy/2453</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2453.jpg</picture>
+        <name>по оформлению точно войдет в мой личный топ</name>
+        <description>Делюсь доской на платформе miro по статье теме Sleepless in summer 🩷🩷
+Доска по оформлению точно войдет в мой личный топ, она получилось ну очень классной! 🩷
+🩷 А наполнение отлично подойдет для взрослых учеников, чтобы обсудить проблемы со сном летом, почему так получается и как этого избежать 🩷
+Не мало важно, что урок очень структурированный 🩷
+Что вы найдете на доске 🩷
+🩷 четыре задания на разогрев и говорение</description>
+      </offer>
+      <offer id="24810" available="true">
+        <url>https://t.me/hellodaryy/2481</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2481.jpg</picture>
+        <name>Friendship: red and green flags для adults</name>
+        <description>Сегодня делюсь с вами эстетик доской miro по теме
+Friendship: red and green flags для adults ❤️
+На доске куча разных новых слов, чтобы описать рэд (как сказать душнила, навязчивый, двуличный) и грин флаги (легкий, спокойный, прикроет спину), описать друзей, а также необычное чтение, где вы прочитаете профили во Friender (личная разработка 😅) и определите, с кем бы вы хотели общаться ❤️ , а с кем нет ❤️
+Что вы найдете на доске 🪽
+🪽 три задания на разогрев и говорение
+🪽 пять заданий на лексику</description>
+      </offer>
+      <offer id="24880" available="true">
+        <url>https://t.me/hellodaryy/2488</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2488.jpg</picture>
+        <name>Fruit для kids</name>
+        <description>Сегодня делюсь с вами яркой доской miro по теме Fruit для kids ✨🌷
+На доске вы изучите названия фруктов, обсудите что у вас есть и чего нет, а так же прочитаете коротенькие рассказы и даже сыграете в игры 😍
+Что вы найдете на доске ⬇️
+▫️три задания на разогрев
+▫️пять заданий на лексику
+▫️правило и четыре задания на грамматику</description>
+      </offer>
+      <offer id="24950" available="true">
+        <url>https://t.me/hellodaryy/2495</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2495.jpg</picture>
+        <name>Vegetables для kids〰</name>
+        <description>Сегодня делюсь с вами ооочень классной доской miro по теме Vegetables для kids〰️💚
+На доске вы изучите названия овощей, правило there is / there are, а так же прочитаете рассказ и даже сыграете в игры 〰️
+Что вы найдете на доске ⬇️
+▫️три задания на разогрев
+▫️пять заданий на лексику
+▪️правило и четыре задания на грамматику</description>
+      </offer>
+      <offer id="25030" available="true">
+        <url>https://t.me/hellodaryy/2503</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2503.jpg</picture>
+        <name>My Summer in 10 Moments</name>
+        <description>Для любителей досок делюсь с вами яркой и интересной miro по теме My Summer in 10 Moments 🌷🌟
+Получилось по оформлению ну очень атмсоферно и насыщенно, а по наполнению еще интереснее - эта доска поможет вам обсудить топ 10 летних моментов, а так же повторить времена Past Simple vs Present Perfect 🐚🌷
+Что вы найдете на доске 🌟
+🌟три задания на разогрев
+🌟пять заданий на лексику
+🌟правило и четыре задания на грамматику</description>
+      </offer>
+      <offer id="25130" available="true">
+        <url>https://t.me/hellodaryy/2513</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2513.jpg</picture>
+        <name>Back to Routine для взрослых и подростков</name>
+        <description>Сегодня для вас у меня максимально уютная и осенняя доска по теме Back to Routine для взрослых и подростков, а так же на повторение Present Simple/adverbs of frequency, что очень актуально после лета ⤵️🧡
+✨ На доске вы найдете полезные задания для каждой части урока, а оформление и само наполнение поможет вам интересно и нескучно провести занятие ➖
+Что вы найдете на доске ⤵️💛
+▫️ три задания на разогрев
+▫️ два задания на лексику
+▫️ правило и пять заданий на грамматику</description>
+      </offer>
+      <offer id="25250" available="true">
+        <url>https://t.me/hellodaryy/2525</url>
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2525.jpg</picture>
+        <name>вы найдете много разных интерактивных заданий</name>
+        <description>Сегодня делюсь с вами атмосферной и уютной доской Hello Autumn, которая по большей части направлена на изучение лексики и обсуждение осени 💛▫️
+На доске вы найдете много разных интерактивных заданий, которые помогут провести урок интересно! 🍊
+Что вы найдете на доске ⤵️🧡
+▫️ два задания на разогрев
+▫️ восемь заданий на лексику
+▫️ четыре задания на чтение</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
