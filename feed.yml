@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-10 01:48">
+<yml_catalog date="2026-09-10 16:57">
   <shop>
     <name>hellodaryy</name>
     <company>Дарья, английский язык</company>
@@ -499,33 +499,6 @@ Workbook по теме Beauty Through the Decades на отработку вре
         <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/143.jpg</picture>
         <name>Autumn vibes</name>
         <description>💖 2 страницы с лексикой, 6 страниц с заданиями (10 заданий)</description>
-      </offer>
-      <offer id="3410" available="true">
-        <url>https://t.me/hellodaryy/341</url>
-        <price>200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/341.jpg</picture>
-        <name>(Free) Furniture</name>
-        <description>💖 2 страницы с лексикой, 9 страниц с заданиями (17 заданий)</description>
-      </offer>
-      <offer id="4470" available="true">
-        <url>https://t.me/hellodaryy/447</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/447.jpg</picture>
-        <name>(Free) Spring Vibes</name>
-        <description>💖 1 страница с лексикой, 9 страниц с заданиями (12 заданий)</description>
-      </offer>
-      <offer id="4570" available="true">
-        <url>https://t.me/hellodaryy/457</url>
-        <price>200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/457.jpg</picture>
-        <name>(Free) Transport</name>
-        <description>💖 1 страница с лексикой, 10 страниц с заданиями (16 заданий)</description>
       </offer>
       <offer id="5690" available="true">
         <url>https://t.me/hellodaryy/569</url>
