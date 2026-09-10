@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ru">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Возврат из ВК</title>
+<style>
+  body { font: 16px/1.5 system-ui, sans-serif; margin: 0; padding: 48px 24px; background: #eef1f4; color: #14202b; }
+  main { max-width: 40em; margin: 0 auto; background: #fff; padding: 28px 32px; border-radius: 10px; }
+  h1 { font-size: 20px; margin: 0 0 12px; }
+  p { margin: 0 0 14px; }
+  textarea { width: 100%; height: 6em; font-family: ui-monospace, Menlo, monospace; font-size: 13px;
+             padding: 10px; border: 1px solid #d3dbe2; border-radius: 6px; resize: vertical; }
+  button { font: inherit; padding: 8px 16px; border-radius: 6px; border: 1px solid #1d4e7c;
+           background: #1d4e7c; color: #fff; cursor: pointer; }
+  .muted { color: #5a6c7c; font-size: 14px; }
+</style>
+<main>
+  <h1>Возврат из ВК</h1>
+  <p>Скопируй строку ниже и вставь её в редактор каталога, в поле «Адрес возврата из ВК».</p>
+  <textarea id="url" readonly></textarea>
+  <p><button id="copy">Скопировать</button></p>
+  <p class="muted">
+    Страница ничего не хранит и никуда не отправляет — она только показывает то, что ВК дописал
+    к адресу. Сам по себе этот код бесполезен: обменять его на доступ можно лишь вместе с секретом,
+    который не покидает твой компьютер.
+  </p>
+</main>
+<script>
+  const field = document.getElementById('url');
+  field.value = location.href;
+  field.select();
+  document.getElementById('copy').addEventListener('click', async () => {
+    await navigator.clipboard.writeText(field.value);
+    document.getElementById('copy').textContent = 'Скопировано';
+  });
+</script>
+</html>
