@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-13 18:14">
+<yml_catalog date="2026-09-13 18:51">
   <shop>
     <name>hellodaryy</name>
     <company>Дарья, английский язык</company>
@@ -271,6 +271,15 @@
         <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2027.jpg</picture>
         <name>Reported speech</name>
         <description>💖 1 страница с правилом, 2 страницы с заданиями, 2 страницы с чтением, 1 страница с говорением (12 заданий)</description>
+      </offer>
+      <offer id="22740" available="true">
+        <url>https://t.me/hellodaryy/2274</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2274.jpg</picture>
+        <name>other/another</name>
+        <description>💖 1 страница с правилом, 2 страницы с заданиями, 2 страницы с чтением, 2 страницы с говорением (12 задания)</description>
       </offer>
       <offer id="24310" available="true">
         <url>https://t.me/hellodaryy/2431</url>
@@ -548,7 +557,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/242.jpg</picture>
-        <name>Mother's Day at the Weasleys and Malfoys</name>
+        <name>Mother's Day at Hogwarts</name>
         <description>💖 4 страницы с чтением, 4 страницы с заданиями (11 заданий)</description>
       </offer>
       <offer id="2770" available="true">
