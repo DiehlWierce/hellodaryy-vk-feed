@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-13 18:51">
+<yml_catalog date="2026-09-13 20:29">
   <shop>
     <name>hellodaryy</name>
     <company>Дарья, английский язык</company>
@@ -8,410 +8,150 @@
       <currency id="RUB" rate="1" />
     </currencies>
     <categories>
-      <category id="1">Готово</category>
+      <category id="8">workbooks</category>
+      <category id="9">Готово</category>
     </categories>
     <offers>
-      <offer id="90" available="true">
-        <url>https://t.me/hellodaryy/9</url>
-        <price>100</price>
+      <offer id="3870" available="true">
+        <url>https://t.me/hellodaryy/387</url>
+        <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/9.jpg</picture>
-        <name>Present Continuous</name>
-        <description>💖 2 страницы с правилом, 2 страницы с заданиями (3 задания)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/387.jpg</picture>
+        <name>Chapter 13. The Very Secret Diary</name>
+        <description>💖 3 страницы с отрывком из главы, 4 страницы с заданиями (7 заданий)</description>
       </offer>
-      <offer id="400" available="true">
-        <url>https://t.me/hellodaryy/40</url>
-        <price>100</price>
+      <offer id="2990" available="true">
+        <url>https://t.me/hellodaryy/299</url>
+        <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/40.jpg</picture>
-        <name>Future Simple</name>
-        <description>💖 2 страницы с правилом, 3 страницы с заданиями (7 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/299.jpg</picture>
+        <name>Chapter 12. The Mirror of Erised. Part 2</name>
+        <description>💖 4 страницы с 2-мя отрывками из главы, 5 страниц с заданиями (9 заданий)</description>
       </offer>
-      <offer id="420" available="true">
-        <url>https://t.me/hellodaryy/42</url>
+      <offer id="2940" available="true">
+        <url>https://t.me/hellodaryy/294</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/294.jpg</picture>
+        <name>Chapter 12. The Mirror of Erised. Part 1</name>
+        <description>💖 3 страницы с 2-мя отрывками из главы, 4 страницы с заданиями (7 заданий)</description>
+      </offer>
+      <offer id="2150" available="true">
+        <url>https://t.me/hellodaryy/215</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/215.jpg</picture>
+        <name>Chapter 10. Halloween</name>
+        <description>💖 4 страницы с 2-мя отрывками из главы, 5 страниц с заданиями (8 заданий)</description>
+      </offer>
+      <offer id="8480" available="true">
+        <url>https://t.me/hellodaryy/848</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/848.jpg</picture>
+        <name>Chapter 7. The Sorting Hat</name>
+        <description>💖 2 страницы с 2-мя отрывками из главы, 4 страницы с заданиями (10 заданий)</description>
+      </offer>
+      <offer id="7330" available="true">
+        <url>https://t.me/hellodaryy/733</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/733.jpg</picture>
+        <name>Chapter 4. The Keeper of the Keys</name>
+        <description>💖 2 страницы с 2-мя отрывками из главы, 5 страниц с заданиями (10 заданий)</description>
+      </offer>
+      <offer id="4450" available="true">
+        <url>https://t.me/hellodaryy/445</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/445.jpg</picture>
+        <name>Women's Day at Hogwarts</name>
+        <description>💖 2 страницы с чтением, 5 страниц с заданиями (8 заданий)</description>
+      </offer>
+      <offer id="2770" available="true">
+        <url>https://t.me/hellodaryy/277</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/277.jpg</picture>
+        <name>Winter at Hogwarts</name>
+        <description>💖 2 страницы с рассказом, 4 страницы с заданиями (7 заданий)</description>
+      </offer>
+      <offer id="2420" available="true">
+        <url>https://t.me/hellodaryy/242</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/242.jpg</picture>
+        <name>Mother's Day at Hogwarts</name>
+        <description>💖 4 страницы с чтением, 4 страницы с заданиями (11 заданий)</description>
+      </offer>
+      <offer id="2360" available="true">
+        <url>https://t.me/hellodaryy/236</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/236.jpg</picture>
+        <name>Thanksgiving Day at Hogwarts</name>
+        <description>💖 2 страницы с рассказом, 5 страницы с заданиями (8 заданий)</description>
+      </offer>
+      <offer id="3080" available="true">
+        <url>https://t.me/hellodaryy/308</url>
         <price>200</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/42.jpg</picture>
-        <name>Past Simple</name>
-        <description>💖 3 страницы с правилом, 9 страниц с заданиями (12 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/308.jpg</picture>
+        <name>Christmas</name>
+        <description>💖 1 страница с лексикой, 3 страницы с заданиями, 5 страниц с чтением, 4 страницы с традициями (17 заданий)</description>
       </offer>
-      <offer id="610" available="true">
-        <url>https://t.me/hellodaryy/61</url>
+      <offer id="2870" available="true">
+        <url>https://t.me/hellodaryy/287</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/61.jpg</picture>
-        <name>Present Perfect</name>
-        <description>💖 2 страницы с правилом, 6 страниц с заданиями (10 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/287.jpg</picture>
+        <name>Yule Ball at Hogwarts</name>
+        <description>💖 2 страницы с рассказом, 2 страницы с заданиями, 2 страницы с рассказом про Йоль, 1 страница с игрой (9 заданий)</description>
       </offer>
-      <offer id="690" available="true">
-        <url>https://t.me/hellodaryy/69</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/69.jpg</picture>
-        <name>Present Simple</name>
-        <description>💖 2 страницы с правилом, 5 страниц с заданиями (8 заданий)</description>
-      </offer>
-      <offer id="940" available="true">
-        <url>https://t.me/hellodaryy/94</url>
-        <price>100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/94.jpg</picture>
-        <name>To be going to</name>
-        <description>💖 1 страница с правилом, 3 страницы с заданиями (5 заданий)</description>
-      </offer>
-      <offer id="1000" available="true">
-        <url>https://t.me/hellodaryy/100</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/100.jpg</picture>
-        <name>Can / Could / Will be able to</name>
-        <description>💖 2 страницы с правилом, 4 страницы с заданиями (7 заданий)</description>
-      </offer>
-      <offer id="1120" available="true">
-        <url>https://t.me/hellodaryy/112</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/112.jpg</picture>
-        <name>To be</name>
-        <description>💖 1 страница с правилом, 2 страницы с заданиями по правилу, 1 страница с чтением (6 заданий)</description>
-      </offer>
-      <offer id="3330" available="true">
-        <url>https://t.me/hellodaryy/333</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/333.jpg</picture>
-        <name>Past Continuous</name>
-        <description>💖 2 страницы с правилом, 4 страницы с заданиями (7 заданий)</description>
-      </offer>
-      <offer id="11540" available="true">
-        <url>https://t.me/hellodaryy/1154</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1154.jpg</picture>
-        <name>Used to</name>
-        <description>💖 1 страница с правилом, 4 страницы с заданиями по правилу, 1 страница с говорением, 2 страницы с чтением (13 заданий)</description>
-      </offer>
-      <offer id="13610" available="true">
-        <url>https://t.me/hellodaryy/1361</url>
-        <price>100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1361.jpg</picture>
-        <name>get used to vs be used to</name>
-        <description>💖 1 страница с правилом, 2 страницы с заданиями (4 задания)</description>
-      </offer>
-      <offer id="14600" available="true">
-        <url>https://t.me/hellodaryy/1460</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1460.jpg</picture>
-        <name>Past Perfect</name>
-        <description>💖 1 страница с правилом, 7 страниц с заданиями (9 задания)</description>
-      </offer>
-      <offer id="120" available="true">
-        <url>https://t.me/hellodaryy/12</url>
-        <price>100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/12.jpg</picture>
-        <name>There is / There are</name>
-        <description>💖 1 страница с правилом, 2 страницы с заданиями (3 задания)</description>
-      </offer>
-      <offer id="130" available="true">
-        <url>https://t.me/hellodaryy/13</url>
-        <price>100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/13.jpg</picture>
-        <name>Adjectives</name>
-        <description>💖 2 страницы с правилом, 2 страницы с заданиями (4 задания)</description>
-      </offer>
-      <offer id="300" available="true">
-        <url>https://t.me/hellodaryy/30</url>
-        <price>100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/30.jpg</picture>
-        <name>Some / Any / A / An</name>
-        <description>💖 1 страница с правилом, 3 страницы с заданиями (8 заданий)</description>
-      </offer>
-      <offer id="850" available="true">
-        <url>https://t.me/hellodaryy/85</url>
-        <price>100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/85.jpg</picture>
-        <name>This / That / These / Those</name>
-        <description>💖 1 страница с правилом, 3 страницы с заданиями (4 заданий)</description>
-      </offer>
-      <offer id="870" available="true">
-        <url>https://t.me/hellodaryy/87</url>
-        <price>100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/87.jpg</picture>
-        <name>Possessive case</name>
-        <description>💖 2 страницы с правилом, 3 страницы с заданиями (5 заданий)</description>
-      </offer>
-      <offer id="1510" available="true">
-        <url>https://t.me/hellodaryy/151</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/151.jpg</picture>
-        <name>Prepositions of Place</name>
-        <description>💖 1 страница с правилом, 5 страниц с заданиями, 2 страницы с чтением (10 заданий)</description>
-      </offer>
-      <offer id="4050" available="true">
-        <url>https://t.me/hellodaryy/405</url>
-        <price>100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/405.jpg</picture>
-        <name>Have to</name>
-        <description>💖 1 страница с правилом, 2 страницы с заданиями, 2 страницы с чтением (8 заданий)</description>
-      </offer>
-      <offer id="5270" available="true">
-        <url>https://t.me/hellodaryy/527</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/527.jpg</picture>
-        <name>Conditionals Zero &amp; First</name>
-        <description>💖 1 страница с правилом, 4 страницы с заданиями, 3 страницы с чтением (10 заданий)</description>
-      </offer>
-      <offer id="5940" available="true">
-        <url>https://t.me/hellodaryy/594</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/594.jpg</picture>
-        <name>Conditionals Second &amp; Third</name>
-        <description>💖 2 страницы с правилом, 6 страниц с заданиями (10 заданий)</description>
-      </offer>
-      <offer id="7900" available="true">
-        <url>https://t.me/hellodaryy/790</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/790.jpg</picture>
-        <name>Prepositions of Time</name>
-        <description>💖 1 страница с правилом, 7 страниц с заданиями (15 заданий)</description>
-      </offer>
-      <offer id="8550" available="true">
-        <url>https://t.me/hellodaryy/855</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/855.jpg</picture>
-        <name>Must / Must vs Have to</name>
-        <description>💖 2 страницы с правилом, 6 страниц с заданиями (13 заданий)</description>
-      </offer>
-      <offer id="8960" available="true">
-        <url>https://t.me/hellodaryy/896</url>
+      <offer id="2300" available="true">
+        <url>https://t.me/hellodaryy/230</url>
         <price>200</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/896.jpg</picture>
-        <name>Word formation. Suffixes</name>
-        <description>💖 5 страниц с правилом, 8 страниц с заданиями (15 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/230.jpg</picture>
+        <name>Thanksgiving Day</name>
+        <description>💖 1 страница с лексикой, 4 страницы с заданиями, 2 страницы с чтением про традиции, 3 страницы с чтением (15 заданий)</description>
       </offer>
-      <offer id="9120" available="true">
-        <url>https://t.me/hellodaryy/912</url>
+      <offer id="1970" available="true">
+        <url>https://t.me/hellodaryy/197</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/912.jpg</picture>
-        <name>Passive Voice</name>
-        <description>💖 1 страница с правилом, 5 страниц с заданиями, 8 страницы с рассказом (15 заданий)</description>
-      </offer>
-      <offer id="11620" available="true">
-        <url>https://t.me/hellodaryy/1162</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1162.jpg</picture>
-        <name>Possessive Adjectives vs Possessive Pronouns</name>
-        <description>💖 1 страница с правилом, 7 страниц с заданиями (17 заданий)</description>
-      </offer>
-      <offer id="11740" available="true">
-        <url>https://t.me/hellodaryy/1174</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1174.jpg</picture>
-        <name>Word Formation. Prefixes</name>
-        <description>💖 1 страница с правилом, 6 страниц с заданиями (21 заданий)</description>
-      </offer>
-      <offer id="14200" available="true">
-        <url>https://t.me/hellodaryy/1420</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1420.jpg</picture>
-        <name>would like / would like to</name>
-        <description>💖 1 страница с правилом, 2 страницы с заданиями, 2 страницы с чтением, 1 страница с письмом и говорением (14 задания)</description>
-      </offer>
-      <offer id="20270" available="true">
-        <url>https://t.me/hellodaryy/2027</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2027.jpg</picture>
-        <name>Reported speech</name>
-        <description>💖 1 страница с правилом, 2 страницы с заданиями, 2 страницы с чтением, 1 страница с говорением (12 заданий)</description>
-      </offer>
-      <offer id="22740" available="true">
-        <url>https://t.me/hellodaryy/2274</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2274.jpg</picture>
-        <name>other/another</name>
-        <description>💖 1 страница с правилом, 2 страницы с заданиями, 2 страницы с чтением, 2 страницы с говорением (12 задания)</description>
-      </offer>
-      <offer id="24310" available="true">
-        <url>https://t.me/hellodaryy/2431</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2431.jpg</picture>
-        <name>Pronouns</name>
-        <description>💖 4 страницы с правилом, 3 страницы с заданиями, 2 страницы с чтением, 1 страница с говорением (3 задания)</description>
-      </offer>
-      <offer id="210" available="true">
-        <url>https://t.me/hellodaryy/21</url>
-        <price>200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/21.jpg</picture>
-        <name>School subjects</name>
-        <description>💖 1 страницы с лексикой, 3 страниц с заданиями, 3 страницы с предметами в Хогвартсе, 2 страницы с чтением, 2 страницы с расписанием (18 заданий)</description>
-      </offer>
-      <offer id="540" available="true">
-        <url>https://t.me/hellodaryy/54</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/54.jpg</picture>
-        <name>Pets</name>
-        <description>💖 1 страница с лексикой, 6 страниц с заданиями, 2 страницы с чтением (8 заданий)</description>
-      </offer>
-      <offer id="750" available="true">
-        <url>https://t.me/hellodaryy/75</url>
-        <price>200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/75.jpg</picture>
-        <name>Summer holidays</name>
-        <description>💖 2 страницы с лексикой, 3 страниц с заданиями, 4 страницы с чтением, 2 страницы с письмом (14 заданий)</description>
-      </offer>
-      <offer id="1030" available="true">
-        <url>https://t.me/hellodaryy/103</url>
-        <price>200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/103.jpg</picture>
-        <name>Clothes</name>
-        <description>💖 2 страницы с лексикой, 8 страниц с заданиями, 1 страница с письмом (12 заданий)</description>
-      </offer>
-      <offer id="1180" available="true">
-        <url>https://t.me/hellodaryy/118</url>
-        <price>250</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/118.jpg</picture>
-        <name>Face + body</name>
-        <description>💖 3 страницы с лексикой, 10 страниц с заданиями, 2 страницы с грамматикой, 2 страницы с говорением (21 заданий)</description>
-      </offer>
-      <offer id="1210" available="true">
-        <url>https://t.me/hellodaryy/121</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/121.jpg</picture>
-        <name>Countries and Nationalities</name>
-        <description>💖 2 страницы с лексикой, 4 страницы с заданиями на лексику, 2 страницы с чтением (11 заданий)</description>
-      </offer>
-      <offer id="1280" available="true">
-        <url>https://t.me/hellodaryy/128</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/128.jpg</picture>
-        <name>Seasons and Weather</name>
-        <description>💖 2 страница с лексикой, 3 страницы с заданиями, 2 страницы с чтением (12 заданий)</description>
-      </offer>
-      <offer id="1430" available="true">
-        <url>https://t.me/hellodaryy/143</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/143.jpg</picture>
-        <name>Autumn vibes</name>
-        <description>💖 2 страницы с лексикой, 3 страницы с заданиями, 3 страницы с чтением (9 заданий)</description>
-      </offer>
-      <offer id="3410" available="true">
-        <url>https://t.me/hellodaryy/341</url>
-        <price>200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/341.jpg</picture>
-        <name>Furniture</name>
-        <description>💖 2 страницы с лексикой, 5 страниц с заданиями, 1 страница с грамматикой, 2 страницы с чтением, 1 страница с говорением (17 заданий)</description>
-      </offer>
-      <offer id="4470" available="true">
-        <url>https://t.me/hellodaryy/447</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/447.jpg</picture>
-        <name>Spring Vibes</name>
-        <description>💖 2 страницы с лексикой, 4 страницы с заданиями, 4 страницы с чтением (12 заданий)</description>
-      </offer>
-      <offer id="4570" available="true">
-        <url>https://t.me/hellodaryy/457</url>
-        <price>200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/457.jpg</picture>
-        <name>Transport</name>
-        <description>💖 1 страница с лексикой, 6 страниц с заданиями, 3 страницы с чтением, 1 страница с говорением (15 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/197.jpg</picture>
+        <name>Halloween at Hogwarts</name>
+        <description>💖 1 страница с лексикой, 4 страницы с заданиями, 4 страницы с чтением (14 заданий)</description>
       </offer>
       <offer id="5810" available="true">
         <url>https://t.me/hellodaryy/581</url>
         <price>200</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
+        <categoryId>9</categoryId>
         <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/581.jpg</picture>
         <name>Hobbies &amp; Activities</name>
         <description>💖 1 страница с лексикой, 7 страниц с заданиями, 2 страницы с грамматикой, 4 страницы с чтением (15 заданий)</description>
-      </offer>
-      <offer id="6160" available="true">
-        <url>https://t.me/hellodaryy/616</url>
-        <price>200</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/616.jpg</picture>
-        <name>Summer Vibes</name>
-        <description>💖 2 страницы с лексикой, 6 страниц с заданиями, 3 страницы с чтением (14 заданий)</description>
       </offer>
       <offer id="6250" available="true">
         <url>https://t.me/hellodaryy/625</url>
         <price>200</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
+        <categoryId>9</categoryId>
         <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/625.jpg</picture>
         <name>Daily Routines</name>
         <description>💖 1 страница с лексикой, 5 страниц с заданиями, 2 страницы с грамматикой, 2 страницы с чтением, 1 страница с письмом (15 заданий)</description>
@@ -420,172 +160,757 @@
         <url>https://t.me/hellodaryy/641</url>
         <price>200</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
+        <categoryId>9</categoryId>
         <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/641.jpg</picture>
         <name>Family</name>
         <description>💖 2 страницы с лексикой, 5 страниц с заданиями, 2 страницы с грамматикой, 2 страницы с чтением, 2 страницы с говорением (13 заданий)</description>
+      </offer>
+      <offer id="4570" available="true">
+        <url>https://t.me/hellodaryy/457</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/457.jpg</picture>
+        <name>Transport</name>
+        <description>💖 1 страница с лексикой, 6 страниц с заданиями, 3 страницы с чтением, 1 страница с говорением (15 заданий)</description>
+      </offer>
+      <offer id="3410" available="true">
+        <url>https://t.me/hellodaryy/341</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/341.jpg</picture>
+        <name>Furniture</name>
+        <description>💖 2 страницы с лексикой, 5 страниц с заданиями, 1 страница с грамматикой, 2 страницы с чтением, 1 страница с говорением (17 заданий)</description>
+      </offer>
+      <offer id="540" available="true">
+        <url>https://t.me/hellodaryy/54</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/54.jpg</picture>
+        <name>Pets</name>
+        <description>💖 1 страница с лексикой, 6 страниц с заданиями, 2 страницы с чтением (8 заданий)</description>
+      </offer>
+      <offer id="1030" available="true">
+        <url>https://t.me/hellodaryy/103</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/103.jpg</picture>
+        <name>Clothes</name>
+        <description>💖 2 страницы с лексикой, 8 страниц с заданиями, 1 страница с письмом (12 заданий)</description>
+      </offer>
+      <offer id="1180" available="true">
+        <url>https://t.me/hellodaryy/118</url>
+        <price>250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/118.jpg</picture>
+        <name>Face + body</name>
+        <description>💖 3 страницы с лексикой, 10 страниц с заданиями, 2 страницы с грамматикой, 2 страницы с говорением (21 заданий)</description>
+      </offer>
+      <offer id="1210" available="true">
+        <url>https://t.me/hellodaryy/121</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/121.jpg</picture>
+        <name>Countries and Nationalities</name>
+        <description>💖 2 страницы с лексикой, 4 страницы с заданиями на лексику, 2 страницы с чтением (11 заданий)</description>
+      </offer>
+      <offer id="1280" available="true">
+        <url>https://t.me/hellodaryy/128</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/128.jpg</picture>
+        <name>Seasons and Weather</name>
+        <description>💖 2 страница с лексикой, 3 страницы с заданиями, 2 страницы с чтением (12 заданий)</description>
       </offer>
       <offer id="6630" available="true">
         <url>https://t.me/hellodaryy/663</url>
         <price>200</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
+        <categoryId>9</categoryId>
         <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/663.jpg</picture>
         <name>Camping</name>
         <description>💖 1 страница с лексикой, 3 страницы с заданиями, 1 страница с игрой, 2 страницы с чтением про кэмпинг, 4 страницы с чтением (13 заданий)</description>
+      </offer>
+      <offer id="750" available="true">
+        <url>https://t.me/hellodaryy/75</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/75.jpg</picture>
+        <name>Summer holidays</name>
+        <description>💖 2 страницы с лексикой, 3 страниц с заданиями, 4 страницы с чтением, 2 страницы с письмом (14 заданий)</description>
+      </offer>
+      <offer id="6160" available="true">
+        <url>https://t.me/hellodaryy/616</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/616.jpg</picture>
+        <name>Summer Vibes</name>
+        <description>💖 2 страницы с лексикой, 6 страниц с заданиями, 3 страницы с чтением (14 заданий)</description>
+      </offer>
+      <offer id="4470" available="true">
+        <url>https://t.me/hellodaryy/447</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/447.jpg</picture>
+        <name>Spring Vibes</name>
+        <description>💖 2 страницы с лексикой, 4 страницы с заданиями, 4 страницы с чтением (12 заданий)</description>
       </offer>
       <offer id="2530" available="true">
         <url>https://t.me/hellodaryy/253</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
+        <categoryId>9</categoryId>
         <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/253.jpg</picture>
         <name>Winter Vibes</name>
         <description>💖 1 страница с лексикой, 4 страниц с заданиями, 3 страницы с чтением, 1 страница с говорением (12 заданий)</description>
       </offer>
-      <offer id="2670" available="true">
-        <url>https://t.me/hellodaryy/267</url>
+      <offer id="1430" available="true">
+        <url>https://t.me/hellodaryy/143</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/267.jpg</picture>
-        <name>To be (was / were)</name>
-        <description>💖 1 страница с правилом, 4 страницы с заданиями, 2 страницы с чтением (10 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/143.jpg</picture>
+        <name>Autumn vibes</name>
+        <description>💖 2 страницы с лексикой, 3 страницы с заданиями, 3 страницы с чтением (9 заданий)</description>
       </offer>
-      <offer id="3080" available="true">
-        <url>https://t.me/hellodaryy/308</url>
+      <offer id="210" available="true">
+        <url>https://t.me/hellodaryy/21</url>
         <price>200</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/308.jpg</picture>
-        <name>Christmas</name>
-        <description>💖 1 страница с лексикой, 3 страницы с заданиями, 5 страниц с чтением, 4 страницы с традициями (17 заданий)</description>
-      </offer>
-      <offer id="4450" available="true">
-        <url>https://t.me/hellodaryy/445</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/445.jpg</picture>
-        <name>Women's Day at Hogwarts</name>
-        <description>💖 2 страницы с чтением, 5 страниц с заданиями (8 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/21.jpg</picture>
+        <name>School subjects</name>
+        <description>💖 1 страницы с лексикой, 3 страниц с заданиями, 3 страницы с предметами в Хогвартсе, 2 страницы с чтением, 2 страницы с расписанием (18 заданий)</description>
       </offer>
       <offer id="7980" available="true">
         <url>https://t.me/hellodaryy/798</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
+        <categoryId>9</categoryId>
         <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/798.jpg</picture>
         <name>Back to School: School Supplies</name>
         <description>💖 1 страница с лексикой, 3 страницы с заданиями, 4 страницы с чтением, 2 страницы про Гарри и Хогвартс (16 заданий)</description>
       </offer>
-      <offer id="2940" available="true">
-        <url>https://t.me/hellodaryy/294</url>
+      <offer id="14600" available="true">
+        <url>https://t.me/hellodaryy/1460</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/294.jpg</picture>
-        <name>Chapter 12. The Mirror of Erised. Part 1</name>
-        <description>💖 3 страницы с 2-мя отрывками из главы, 4 страницы с заданиями (7 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1460.jpg</picture>
+        <name>Past Perfect</name>
+        <description>💖 1 страница с правилом, 7 страниц с заданиями (9 задания)</description>
       </offer>
-      <offer id="2990" available="true">
-        <url>https://t.me/hellodaryy/299</url>
+      <offer id="610" available="true">
+        <url>https://t.me/hellodaryy/61</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/299.jpg</picture>
-        <name>Chapter 12. The Mirror of Erised. Part 2</name>
-        <description>💖 4 страницы с 2-мя отрывками из главы, 5 страниц с заданиями (9 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/61.jpg</picture>
+        <name>Present Perfect</name>
+        <description>💖 2 страницы с правилом, 6 страниц с заданиями (10 заданий)</description>
       </offer>
-      <offer id="3870" available="true">
-        <url>https://t.me/hellodaryy/387</url>
+      <offer id="3330" available="true">
+        <url>https://t.me/hellodaryy/333</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/387.jpg</picture>
-        <name>Chapter 13. The Very Secret Diary</name>
-        <description>💖 3 страницы с отрывком из главы, 4 страницы с заданиями (7 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/333.jpg</picture>
+        <name>Past Continuous</name>
+        <description>💖 2 страницы с правилом, 4 страницы с заданиями (7 заданий)</description>
       </offer>
-      <offer id="7330" available="true">
-        <url>https://t.me/hellodaryy/733</url>
-        <price>150</price>
+      <offer id="90" available="true">
+        <url>https://t.me/hellodaryy/9</url>
+        <price>100</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/733.jpg</picture>
-        <name>Chapter 4. The Keeper of the Keys</name>
-        <description>💖 2 страницы с 2-мя отрывками из главы, 5 страниц с заданиями (10 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/9.jpg</picture>
+        <name>Present Continuous</name>
+        <description>💖 2 страницы с правилом, 2 страницы с заданиями (3 задания)</description>
       </offer>
-      <offer id="8480" available="true">
-        <url>https://t.me/hellodaryy/848</url>
-        <price>150</price>
+      <offer id="400" available="true">
+        <url>https://t.me/hellodaryy/40</url>
+        <price>100</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/848.jpg</picture>
-        <name>Chapter 7. The Sorting Hat</name>
-        <description>💖 2 страницы с 2-мя отрывками из главы, 4 страницы с заданиями (10 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/40.jpg</picture>
+        <name>Future Simple</name>
+        <description>💖 2 страницы с правилом, 3 страницы с заданиями (7 заданий)</description>
       </offer>
-      <offer id="1970" available="true">
-        <url>https://t.me/hellodaryy/197</url>
-        <price>150</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/197.jpg</picture>
-        <name>Halloween at Hogwarts</name>
-        <description>💖 1 страница с лексикой, 4 страницы с заданиями, 4 страницы с чтением (14 заданий)</description>
-      </offer>
-      <offer id="2300" available="true">
-        <url>https://t.me/hellodaryy/230</url>
+      <offer id="420" available="true">
+        <url>https://t.me/hellodaryy/42</url>
         <price>200</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/230.jpg</picture>
-        <name>Thanksgiving Day</name>
-        <description>💖 1 страница с лексикой, 4 страницы с заданиями, 2 страницы с чтением про традиции, 3 страницы с чтением (15 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/42.jpg</picture>
+        <name>Past Simple</name>
+        <description>💖 3 страницы с правилом, 9 страниц с заданиями (12 заданий)</description>
       </offer>
-      <offer id="2360" available="true">
-        <url>https://t.me/hellodaryy/236</url>
+      <offer id="690" available="true">
+        <url>https://t.me/hellodaryy/69</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/236.jpg</picture>
-        <name>Thanksgiving Day at Hogwarts</name>
-        <description>💖 2 страницы с рассказом, 5 страницы с заданиями (8 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/69.jpg</picture>
+        <name>Present Simple</name>
+        <description>💖 2 страницы с правилом, 5 страниц с заданиями (8 заданий)</description>
       </offer>
-      <offer id="2420" available="true">
-        <url>https://t.me/hellodaryy/242</url>
+      <offer id="20270" available="true">
+        <url>https://t.me/hellodaryy/2027</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/242.jpg</picture>
-        <name>Mother's Day at Hogwarts</name>
-        <description>💖 4 страницы с чтением, 4 страницы с заданиями (11 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2027.jpg</picture>
+        <name>Reported speech</name>
+        <description>💖 1 страница с правилом, 2 страницы с заданиями, 2 страницы с чтением, 1 страница с говорением (12 заданий)</description>
       </offer>
-      <offer id="2770" available="true">
-        <url>https://t.me/hellodaryy/277</url>
+      <offer id="9120" available="true">
+        <url>https://t.me/hellodaryy/912</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/277.jpg</picture>
-        <name>Winter at Hogwarts</name>
-        <description>💖 2 страницы с рассказом, 4 страницы с заданиями (7 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/912.jpg</picture>
+        <name>Passive Voice</name>
+        <description>💖 1 страница с правилом, 5 страниц с заданиями, 8 страницы с рассказом (15 заданий)</description>
       </offer>
-      <offer id="2870" available="true">
-        <url>https://t.me/hellodaryy/287</url>
+      <offer id="8960" available="true">
+        <url>https://t.me/hellodaryy/896</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/896.jpg</picture>
+        <name>Word formation. Suffixes</name>
+        <description>💖 5 страниц с правилом, 8 страниц с заданиями (15 заданий)</description>
+      </offer>
+      <offer id="11740" available="true">
+        <url>https://t.me/hellodaryy/1174</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/287.jpg</picture>
-        <name>Yule Ball at Hogwarts</name>
-        <description>💖 2 страницы с рассказом, 2 страницы с заданиями, 2 страницы с рассказом про Йоль, 1 страница с игрой (9 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1174.jpg</picture>
+        <name>Word Formation. Prefixes</name>
+        <description>💖 1 страница с правилом, 6 страниц с заданиями (21 заданий)</description>
       </offer>
-      <offer id="2150" available="true">
-        <url>https://t.me/hellodaryy/215</url>
+      <offer id="5940" available="true">
+        <url>https://t.me/hellodaryy/594</url>
         <price>150</price>
         <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/215.jpg</picture>
-        <name>Chapter 10. Halloween</name>
-        <description>💖 4 страницы с 2-мя отрывками из главы, 5 страниц с заданиями (8 заданий)</description>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/594.jpg</picture>
+        <name>Conditionals Second &amp; Third</name>
+        <description>💖 2 страницы с правилом, 6 страниц с заданиями (10 заданий)</description>
+      </offer>
+      <offer id="5270" available="true">
+        <url>https://t.me/hellodaryy/527</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/527.jpg</picture>
+        <name>Conditionals Zero &amp; First</name>
+        <description>💖 1 страница с правилом, 4 страницы с заданиями, 3 страницы с чтением (10 заданий)</description>
+      </offer>
+      <offer id="940" available="true">
+        <url>https://t.me/hellodaryy/94</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/94.jpg</picture>
+        <name>To be going to</name>
+        <description>💖 1 страница с правилом, 3 страницы с заданиями (5 заданий)</description>
+      </offer>
+      <offer id="14200" available="true">
+        <url>https://t.me/hellodaryy/1420</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1420.jpg</picture>
+        <name>Would like / would like to</name>
+        <description>💖 1 страница с правилом, 2 страницы с заданиями, 2 страницы с чтением, 1 страница с письмом и говорением (14 задания)</description>
+      </offer>
+      <offer id="13610" available="true">
+        <url>https://t.me/hellodaryy/1361</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1361.jpg</picture>
+        <name>Get used to vs be used to</name>
+        <description>💖 1 страница с правилом, 2 страницы с заданиями (4 задания)</description>
+      </offer>
+      <offer id="11540" available="true">
+        <url>https://t.me/hellodaryy/1154</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1154.jpg</picture>
+        <name>Used to</name>
+        <description>💖 1 страница с правилом, 4 страницы с заданиями по правилу, 1 страница с говорением, 2 страницы с чтением (13 заданий)</description>
+      </offer>
+      <offer id="4050" available="true">
+        <url>https://t.me/hellodaryy/405</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/405.jpg</picture>
+        <name>Have to</name>
+        <description>💖 1 страница с правилом, 2 страницы с заданиями, 2 страницы с чтением (8 заданий)</description>
+      </offer>
+      <offer id="8550" available="true">
+        <url>https://t.me/hellodaryy/855</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/855.jpg</picture>
+        <name>Must / Must vs Have to</name>
+        <description>💖 2 страницы с правилом, 6 страниц с заданиями (13 заданий)</description>
+      </offer>
+      <offer id="1000" available="true">
+        <url>https://t.me/hellodaryy/100</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/100.jpg</picture>
+        <name>Can / Could / Will be able to</name>
+        <description>💖 2 страницы с правилом, 4 страницы с заданиями (7 заданий)</description>
+      </offer>
+      <offer id="7900" available="true">
+        <url>https://t.me/hellodaryy/790</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/790.jpg</picture>
+        <name>Prepositions of Time</name>
+        <description>💖 1 страница с правилом, 7 страниц с заданиями (15 заданий)</description>
+      </offer>
+      <offer id="1510" available="true">
+        <url>https://t.me/hellodaryy/151</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/151.jpg</picture>
+        <name>Prepositions of Place</name>
+        <description>💖 1 страница с правилом, 5 страниц с заданиями, 2 страницы с чтением (10 заданий)</description>
+      </offer>
+      <offer id="870" available="true">
+        <url>https://t.me/hellodaryy/87</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/87.jpg</picture>
+        <name>Possessive Case</name>
+        <description>💖 2 страницы с правилом, 3 страницы с заданиями (5 заданий)</description>
+      </offer>
+      <offer id="11620" available="true">
+        <url>https://t.me/hellodaryy/1162</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1162.jpg</picture>
+        <name>Possessive Adjectives vs Possessive Pronouns</name>
+        <description>💖 1 страница с правилом, 7 страниц с заданиями (17 заданий)</description>
+      </offer>
+      <offer id="24310" available="true">
+        <url>https://t.me/hellodaryy/2431</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2431.jpg</picture>
+        <name>Pronouns</name>
+        <description>💖 4 страницы с правилом, 3 страницы с заданиями, 2 страницы с чтением, 1 страница с говорением (3 задания)</description>
+      </offer>
+      <offer id="22740" available="true">
+        <url>https://t.me/hellodaryy/2274</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2274.jpg</picture>
+        <name>Other/another</name>
+        <description>💖 1 страница с правилом, 2 страницы с заданиями, 2 страницы с чтением, 2 страницы с говорением (12 задания)</description>
+      </offer>
+      <offer id="300" available="true">
+        <url>https://t.me/hellodaryy/30</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/30.jpg</picture>
+        <name>Some / Any / A / An</name>
+        <description>💖 1 страница с правилом, 3 страницы с заданиями (8 заданий)</description>
+      </offer>
+      <offer id="850" available="true">
+        <url>https://t.me/hellodaryy/85</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/85.jpg</picture>
+        <name>This / That / These / Those</name>
+        <description>💖 1 страница с правилом, 3 страницы с заданиями (4 заданий)</description>
+      </offer>
+      <offer id="130" available="true">
+        <url>https://t.me/hellodaryy/13</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/13.jpg</picture>
+        <name>Adjectives</name>
+        <description>💖 2 страницы с правилом, 2 страницы с заданиями (4 задания)</description>
+      </offer>
+      <offer id="120" available="true">
+        <url>https://t.me/hellodaryy/12</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/12.jpg</picture>
+        <name>There is / There are</name>
+        <description>💖 1 страница с правилом, 2 страницы с заданиями (3 задания)</description>
+      </offer>
+      <offer id="2670" available="true">
+        <url>https://t.me/hellodaryy/267</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/267.jpg</picture>
+        <name>To be (was / were)</name>
+        <description>💖 1 страница с правилом, 4 страницы с заданиями, 2 страницы с чтением (10 заданий)</description>
+      </offer>
+      <offer id="1120" available="true">
+        <url>https://t.me/hellodaryy/112</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/112.jpg</picture>
+        <name>To be</name>
+        <description>💖 1 страница с правилом, 2 страницы с заданиями по правилу, 1 страница с чтением (6 заданий)</description>
+      </offer>
+      <offer id="12750" available="true">
+        <url>https://t.me/hellodaryy/1275</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1275.jpg</picture>
+        <name>Fashion + Present Simple</name>
+        <description>💖 1 страница с говорением, 3 страницы с чтением, 1 страница с правилом, 3 страницы с заданиями (13 заданий)</description>
+      </offer>
+      <offer id="12840" available="true">
+        <url>https://t.me/hellodaryy/1284</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1284.jpg</picture>
+        <name>Beauty Through the Decades + Past Simple</name>
+        <description>💖 1 страница с говорением, 1 страница с лексикой, 2 страницы с чтением, 1 страница с правилом, 2 страницы с заданиями (16 заданий)</description>
+      </offer>
+      <offer id="12200" available="true">
+        <url>https://t.me/hellodaryy/1220</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1220.jpg</picture>
+        <name>Tenses</name>
+        <description>💖 3 страницы с правилами, 8 страниц с заданиями (16 заданий)</description>
+      </offer>
+      <offer id="14410" available="true">
+        <url>https://t.me/hellodaryy/1441</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1441.jpg</picture>
+        <name>Future Forms</name>
+        <description>💖 2 страницы с правилом, 6 страниц с заданиями (12 заданий)</description>
+      </offer>
+      <offer id="5690" available="true">
+        <url>https://t.me/hellodaryy/569</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/569.jpg</picture>
+        <name>Spring Blossom</name>
+        <description>💖 1 страница с лексикой, 4 страницы с заданиями, 3 страницы с чтением (7 заданий)</description>
+      </offer>
+      <offer id="7510" available="true">
+        <url>https://t.me/hellodaryy/751</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/751.jpg</picture>
+        <name>Inside Out. Emotions</name>
+        <description>💖 6 страниц c заданиями на лексику, 1 страница с видео из фильма, 2 страницы с чтением, 1 страница с говорением, 1 страница с игрой (9 заданий)</description>
+      </offer>
+      <offer id="8830" available="true">
+        <url>https://t.me/hellodaryy/883</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/883.jpg</picture>
+        <name>Autumn Vibes [2.0]</name>
+        <description>💖 3 страницы c лексикой, 8 страниц с заданиями, 1 страница с квизом (16 заданий)</description>
+      </offer>
+      <offer id="12250" available="true">
+        <url>https://t.me/hellodaryy/1225</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1225.jpg</picture>
+        <name>Spring Vibes [2.0]</name>
+        <description>💖 7 страниц с лексикой и заданиями (13 заданий)</description>
+      </offer>
+      <offer id="13430" available="true">
+        <url>https://t.me/hellodaryy/1343</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1343.jpg</picture>
+        <name>First Aid</name>
+        <description>💖 2 страницы с лексикой Aches and Pains, 2 страницы с лексикой и чтением First Aid and 911, 2 страницы с лексикой Medical Terms. 3 страницы с лексикой и чтением At the Hospital, 1 страница с лексикой Medical Equipment, 2 страницы с лексикой и чтением At the Pharmacy (21 заданий)</description>
+      </offer>
+      <offer id="13960" available="true">
+        <url>https://t.me/hellodaryy/1396</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1396.jpg</picture>
+        <name>Beach Holiday</name>
+        <description>💖 2страницы с лексикой, 6 страниц с заданиями (16 заданий)</description>
+      </offer>
+      <offer id="14070" available="true">
+        <url>https://t.me/hellodaryy/1407</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1407.jpg</picture>
+        <name>Travelling</name>
+        <description>💖 2 страницы с лексикой, 5 страниц с заданиями, 2 страницы с чтением (18 заданий)</description>
+      </offer>
+      <offer id="14670" available="true">
+        <url>https://t.me/hellodaryy/1467</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1467.jpg</picture>
+        <name>Airport</name>
+        <description>💖 1 страница с разогревом, 2 страницы с лексикой и заданиями, 2 страницы с чтением, 2 страницы с говорением (16 заданий)</description>
+      </offer>
+      <offer id="2110" available="true">
+        <url>https://t.me/hellodaryy/211</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/211.jpg</picture>
+        <name>Halloween Traditions</name>
+        <description>💖 7 страниц с традициями и заданиями на лексику, 1 страница с игрой (9 задания)</description>
+      </offer>
+      <offer id="2270" available="true">
+        <url>https://t.me/hellodaryy/227</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/227.jpg</picture>
+        <name>Thanksgiving Day [2.0]</name>
+        <description>💖 1 страница с лексикой, 4 страницы с заданиями, 1 страница с чтением про пилигримов, 2 страницы с чтением про традиции, 1 страница с письмом и говорением, 1 страница с квизом (15 задания)</description>
+      </offer>
+      <offer id="3740" available="true">
+        <url>https://t.me/hellodaryy/374</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/374.jpg</picture>
+        <name>Valentine's Day</name>
+        <description>💖 1 страница с лексикой, 2 страницы с заданиями, 4 страницы с чтением (11 заданий)</description>
+      </offer>
+      <offer id="4190" available="true">
+        <url>https://t.me/hellodaryy/419</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/419.jpg</picture>
+        <name>International Women's Day</name>
+        <description>💖 4 страницы с чтением, 2 страницы с чтением про традиции, 1 страница с квизом (9 заданий)</description>
+      </offer>
+      <offer id="4700" available="true">
+        <url>https://t.me/hellodaryy/470</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/470.jpg</picture>
+        <name>Easter</name>
+        <description>💖 2 страницы с чтением про традиции, 2 страницы с лексикой, 2 страницы с чтением про традиции в других странах, 1 страница с квизом (9 заданий)</description>
+      </offer>
+      <offer id="4820" available="true">
+        <url>https://t.me/hellodaryy/482</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/482.jpg</picture>
+        <name>April Fools' Day</name>
+        <description>💖 2 страницы с чтением, 3 страницы с чтением про традиции в других странах (6 заданий)</description>
+      </offer>
+      <offer id="4980" available="true">
+        <url>https://t.me/hellodaryy/498</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/498.jpg</picture>
+        <name>Space Day</name>
+        <description>💖 4 страницы с лексикой, 2 страницы с чтением, 2 страницы с чтением про Гагарина, 2 страницы с чтением про интересные факты (14 заданий)</description>
+      </offer>
+      <offer id="9430" available="true">
+        <url>https://t.me/hellodaryy/943</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/943.jpg</picture>
+        <name>Halloween</name>
+        <description>💖 q страница с лексикой, 4 страницы с заданиями, 2 страницы с чтением про традиции, 2 страницы с чтением про Джека, 1 страница с квизом (13 заданий)</description>
+      </offer>
+      <offer id="10570" available="true">
+        <url>https://t.me/hellodaryy/1057</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1057.jpg</picture>
+        <name>Winter Activities</name>
+        <description>💖 1 страница с лексикой, 5 страниц с заданиями, 1 страница с говорением и письмом (10 заданий)</description>
+      </offer>
+      <offer id="10960" available="true">
+        <url>https://t.me/hellodaryy/1096</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1096.jpg</picture>
+        <name>Christmas in England</name>
+        <description>💖 1 страница с лексикой, 4 страницы с заданиями, 3 страницы с рождественскими традициями в Англии, 3 страницы с рождественскими блюдами в Англии (19 заданий)</description>
+      </offer>
+      <offer id="11130" available="true">
+        <url>https://t.me/hellodaryy/1113</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1113.jpg</picture>
+        <name>New Year in Russia</name>
+        <description>💖 1 страница с лексикой, 4 страницы с заданиями, 3 страницы с новогодними традициями в России, 3 страницы с новогодними блюдами в России, 1 страница с игрой (19 заданий)</description>
+      </offer>
+      <offer id="13200" available="true">
+        <url>https://t.me/hellodaryy/1320</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1320.jpg</picture>
+        <name>Space Journey</name>
+        <description>💖 1 страница с чтением про солнце, 2 страницы с чтением про солнечную систему, 2 страницы с чтением про ракеты и спутники, 4 страницы с чтением про созвездия знаков зодиака, 1 страница с чтением про кометы (18 заданий)</description>
+      </offer>
+      <offer id="13310" available="true">
+        <url>https://t.me/hellodaryy/1331</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1331.jpg</picture>
+        <name>Easter [2.0]</name>
+        <description>💖 2 страницы с лексикой, 1 страница с чтением про Пасху, 2 страницы с чтением про пасхальные блюда, 1 страница с чтением про кулич, 1 страница с квизом (14 заданий)</description>
+      </offer>
+      <offer id="18540" available="true">
+        <url>https://t.me/hellodaryy/1854</url>
+        <price>200</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1854.jpg</picture>
+        <name>Christmas in America</name>
+        <description>💖 1 страница с лексикой, 4 страницы с заданиями, 3 страницы с рождественскими традициями в Америке, 3 страницы с рождественскими блюдами в Америке, 1 страница игрой (19 заданий)</description>
+      </offer>
+      <offer id="13400" available="true">
+        <url>https://t.me/hellodaryy/1340</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1340.jpg</picture>
+        <name>Happy Easter</name>
+        <description>💖 3 страницы с лексикой, 3 страницы с чтением, 1 страница с цифрами, 1 страница с цветами (18 заданий)</description>
+      </offer>
+      <offer id="20840" available="true">
+        <url>https://t.me/hellodaryy/2084</url>
+        <price>150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/2084.jpg</picture>
+        <name>Valentine’s Day [2.0]</name>
+        <description>💖 1 страница с разогревом, 2 страницы с чтением про Святого Валентина, 2 страницы с лексикой, 2 страницы с чтением интересных фактов, 1 страница с говорением (16 заданий)</description>
+      </offer>
+      <offer id="14740" available="true">
+        <url>https://t.me/hellodaryy/1474</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1474.jpg</picture>
+        <name>France</name>
+        <description>💖 1 страница с разогревом, 3 страницы с лексикой, 3 страницы с чтением про Францию, 2 страницы с чтением про традиционную кухню, 1 страница на говорение (22 задания)</description>
+      </offer>
+      <offer id="14780" available="true">
+        <url>https://t.me/hellodaryy/1478</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1478.jpg</picture>
+        <name>Italy</name>
+        <description>💖 1 страница с разогревом, 3 страницы с чтением про достопримечательности, 3 страницы с чтением про кухню и блюда, 2 страницы про виды пасты (23 задания)</description>
+      </offer>
+      <offer id="14830" available="true">
+        <url>https://t.me/hellodaryy/1483</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1483.jpg</picture>
+        <name>The UK</name>
+        <description>💖 1 страница с разогревом, 2 страницы с чтением про Соединенное Королевство, 2 страницы с чтением про Англию, 2 страницы с чтением про Шотландию, 2 страницы с чтением про Уэльс, 2 страницы с чтением про Северную Ирладию, 1 страница с говорением (21 задание)</description>
+      </offer>
+      <offer id="14930" available="true">
+        <url>https://t.me/hellodaryy/1493</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1493.jpg</picture>
+        <name>The USA</name>
+        <description>💖 1 страница с разогревом, 2 страницы с лексикой, страницы с чтением про США, 2 страницы с чтением про американскую кухню, 1 страница с говорением (21 задание)</description>
+      </offer>
+      <offer id="14970" available="true">
+        <url>https://t.me/hellodaryy/1497</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1497.jpg</picture>
+        <name>Iceland</name>
+        <description>💖 1 страница с разогревом, 2 страницы с лексикой, 4 страницы с чтением про природу и традиции и церковь Хадльгримскиркьяб, 2 страницы про фильмы (20 заданий)</description>
+      </offer>
+      <offer id="15040" available="true">
+        <url>https://t.me/hellodaryy/1504</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1504.jpg</picture>
+        <name>Geogria</name>
+        <description>💖 1 страница с разогревом, 2 страницы с лексикой, 2 страницы с чтением про Грузию, 3 страницы с чтением про грузинскую кухню, 1 страницы на говорение (20 заданий)</description>
+      </offer>
+      <offer id="15090" available="true">
+        <url>https://t.me/hellodaryy/1509</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1509.jpg</picture>
+        <name>China</name>
+        <description>💖 1 страница с разогревом, 3 страницы с лексикой, 3 страницы с чтением про Китай, 3 страницы с чтением про традиционную кухню (22 задания)</description>
+      </offer>
+      <offer id="15140" available="true">
+        <url>https://t.me/hellodaryy/1514</url>
+        <price>350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://diehlwierce.github.io/hellodaryy-vk-feed/images/1514.jpg</picture>
+        <name>Egypt</name>
+        <description>💖 1 страница с разогревом, 2 страницы с лексикой, 2 страницы с чтением про Египет, 2 страницы с чтением про египетских богов, 1 страница с говорением (18 заданий)</description>
       </offer>
     </offers>
   </shop>
